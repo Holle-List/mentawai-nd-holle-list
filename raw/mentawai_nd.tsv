@@ -1,0 +1,923 @@
+cats	Index	Forms	Notes_id	Dutch	English	Indonesian	v1894	v1904/1911	v1931	Swadesh	Swadesh_orig	remark	nt_form	nt_eng	nt_idn	nt_pos	nt_comment	nt_pc	nt_tapah	nt_lekon	nt_simalur	Concepticon_Gloss	Concepticon_ID	concept_url
+the Mentawai (Pagai & Sipora) list (no date)	1	toeboe	NA	lichaam	body	badan, tubuh	4	4	1	FALSE												BODY	1480	https://concepticon.clld.org/parameters/1480
+the Mentawai (Pagai & Sipora) list (no date)	2	oete	NA	hoofd	head	kepala	5	5	2	TRUE												HEAD	1256	https://concepticon.clld.org/parameters/1256
+the Mentawai (Pagai & Sipora) list (no date)	3	mata	NA	gezicht, aangezicht	face	muka, wajah	6	6	3	FALSE												FACE	1560	https://concepticon.clld.org/parameters/1560
+the Mentawai (Pagai & Sipora) list (no date)	4	boekkoe	NA	voorhoofd	forehead	dahi	24	25	4	FALSE												FOREHEAD	123	https://concepticon.clld.org/parameters/123
+the Mentawai (Pagai & Sipora) list (no date)	5	lakoepat	NA	schedel	skull	tempurung kepala	26	27	5	FALSE												SKULL	1605	https://concepticon.clld.org/parameters/1605
+the Mentawai (Pagai & Sipora) list (no date)	6	alai	NA	hoofdhaar	hair	rambut	72	73	6	TRUE												HAIR	1040	https://concepticon.clld.org/parameters/1040
+the Mentawai (Pagai & Sipora) list (no date)	8	le'lekat	NA	kruin (v.h.hoofd)	crown	hulu kepala	7	7	8	FALSE												CROWN (OF HEAD)	1943	https://concepticon.clld.org/parameters/1943
+the Mentawai (Pagai & Sipora) list (no date)	9	talinga	NA	oor	ear	telinga	8	8	9	TRUE												EAR	1247	https://concepticon.clld.org/parameters/1247
+the Mentawai (Pagai & Sipora) list (no date)	11	mata	NA	oog	eye	mata	9	9	11	TRUE												EYE	1248	https://concepticon.clld.org/parameters/1248
+the Mentawai (Pagai & Sipora) list (no date)	15	akkekeiloe	NA	wenkbrauw	eyebrow	alis (tunggal)	25	26	-	FALSE												EYEBROW	1173	https://concepticon.clld.org/parameters/1173
+the Mentawai (Pagai & Sipora) list (no date)	17	eloe	NA	traan	tear	air mata (tunggal)	10	10	-	FALSE												TEAR (OF EYE)	1651	https://concepticon.clld.org/parameters/1651
+the Mentawai (Pagai & Sipora) list (no date)	18	asak	NA	neus	nose	hidung	11	11	16	TRUE												NOSE	1221	https://concepticon.clld.org/parameters/1221
+the Mentawai (Pagai & Sipora) list (no date)	20	singoe	NA	snot	mucus	ingus	-	12	18	FALSE												NASAL MUCUS (SNOT)	208	https://concepticon.clld.org/parameters/208
+the Mentawai (Pagai & Sipora) list (no date)	21	bailat	NA	wang	cheek	pipi	23	24	19	FALSE												CHEEK	1730	https://concepticon.clld.org/parameters/1730
+the Mentawai (Pagai & Sipora) list (no date)	22	ngoengoe	NA	mond	mouth	mulut	12	13	-	TRUE												MOUTH	674	https://concepticon.clld.org/parameters/674
+the Mentawai (Pagai & Sipora) list (no date)	25	bibo	NA	lippen	lips	bibir (jamak)	13	14	-	FALSE												LIP	478	https://concepticon.clld.org/parameters/478
+the Mentawai (Pagai & Sipora) list (no date)	27	boeloet ngoengoe	NA	knevel	moustache	kumis	21	22	23	FALSE												MOUSTACHE	1165	https://concepticon.clld.org/parameters/1165
+the Mentawai (Pagai & Sipora) list (no date)	28	boeloet ngoengoe	NA	sik	goatee	janggut seperti, janggut kambing	22	23	-	FALSE												BEARD	678	https://concepticon.clld.org/parameters/678
+the Mentawai (Pagai & Sipora) list (no date)	29	ba'kala	NA	kin	chin	dagu	19	20	24	FALSE												CHIN	1510	https://concepticon.clld.org/parameters/1510
+the Mentawai (Pagai & Sipora) list (no date)	30	boeloet ngoengoe	NA	baard	beard	janggut	20	21	25	FALSE												BEARD	678	https://concepticon.clld.org/parameters/678
+the Mentawai (Pagai & Sipora) list (no date)	31	lila	NA	tong	tongue	lidah	15	16	26	TRUE												TONGUE	1205	https://concepticon.clld.org/parameters/1205
+the Mentawai (Pagai & Sipora) list (no date)	33	son	NA	tand	tooth	gigi	17	18	28	TRUE												TOOTH	1380	https://concepticon.clld.org/parameters/1380
+the Mentawai (Pagai & Sipora) list (no date)	34	ngat ngaret	NA	kies	molar	geraham	18	19	29	FALSE												MOLAR TOOTH	1049	https://concepticon.clld.org/parameters/1049
+the Mentawai (Pagai & Sipora) list (no date)	35	koelit son	NA	tandvlees	gums	gusi	-	-	30	FALSE												GUMS	139	https://concepticon.clld.org/parameters/139
+the Mentawai (Pagai & Sipora) list (no date)	37	tolou lolokad	NA	keel	throat	kerongkongan	14	15	32	FALSE												THROAT	1346	https://concepticon.clld.org/parameters/1346
+the Mentawai (Pagai & Sipora) list (no date)	38	lolokkat	NA	hals	neck	leher	27	28	33	TRUE												NECK	1333	https://concepticon.clld.org/parameters/1333
+the Mentawai (Pagai & Sipora) list (no date)	41	roeroekad	NA	borsten (mannen)	chest, breast (male)	dada (laki-laki, jamak)	34	36	-	TRUE	breast											CHEST	1592	https://concepticon.clld.org/parameters/1592
+the Mentawai (Pagai & Sipora) list (no date)	42	tottot	NA	borsten (vrouwen)	breasts (female)	dada (perempuan, jamak)	34	36	-	TRUE	breast	typo: originally <perenpuan> in the Indonesian gloss										BREAST	1402	https://concepticon.clld.org/parameters/1402
+the Mentawai (Pagai & Sipora) list (no date)	46	soeat tottot	NA	melk	breast milk	air susu	36	38	39	FALSE												BREAST MILK	3912	https://concepticon.clld.org/parameters/3912
+the Mentawai (Pagai & Sipora) list (no date)	48	moetottot	NA	zuigen <aan de borst>	to suck at the breast	menyusu	38	39	40	FALSE												SUCKLE (BREASTFEED, NURSE)	2472	https://concepticon.clld.org/parameters/2472
+the Mentawai (Pagai & Sipora) list (no date)	50	oesoe	NA	rib	rib	tulang rusuk	69	70	42	FALSE												RIB	801	https://concepticon.clld.org/parameters/801
+the Mentawai (Pagai & Sipora) list (no date)	52	teinoeng	NA	hart	heart	jantung	29	31	44	TRUE												HEART	1223	https://concepticon.clld.org/parameters/1223
+the Mentawai (Pagai & Sipora) list (no date)	53	baloegoe	NA	maag	stomach	lambung	28	30	-	FALSE												STOMACH	819	https://concepticon.clld.org/parameters/819
+the Mentawai (Pagai & Sipora) list (no date)	54	tinanai	NA	bulk	belly	perut	31	33	45	TRUE												BELLY	1251	https://concepticon.clld.org/parameters/1251
+the Mentawai (Pagai & Sipora) list (no date)	56	atei	NA	lever	liver	hati	30	32	47	TRUE												LIVER	1224	https://concepticon.clld.org/parameters/1224
+the Mentawai (Pagai & Sipora) list (no date)	57	lappegoe	NA	gal	bile	empedu	-	29	48	FALSE												BILE	1780	https://concepticon.clld.org/parameters/1780
+the Mentawai (Pagai & Sipora) list (no date)	61	poesoe	NA	navel	navel	pusat	32	34	52	FALSE												NAVEL	1838	https://concepticon.clld.org/parameters/1838
+the Mentawai (Pagai & Sipora) list (no date)	62	poesoe	NA	navelstreng	umbilical cord	tali pusat	33	35	53	FALSE		ocr error as tall pusat										UMBILICAL CORD	2663	https://concepticon.clld.org/parameters/2663
+the Mentawai (Pagai & Sipora) list (no date)	63	teitei	NA	rug	back	belakang, punggung	39	40	54	TRUE												BACK	1291	https://concepticon.clld.org/parameters/1291
+the Mentawai (Pagai & Sipora) list (no date)	66	sikeilik	NA	schouderblad	shoulderblade	tulang belikat	43	44	-	FALSE												SHOULDERBLADE	172	https://concepticon.clld.org/parameters/172
+the Mentawai (Pagai & Sipora) list (no date)	68	tambaut	NA	bil	buttock	pantat bagian kiri atau kanan	45	46	-	FALSE		ocr error as belgian but also fixed the Indonesian spelling to bagian										BUTTOCKS	834	https://concepticon.clld.org/parameters/834
+the Mentawai (Pagai & Sipora) list (no date)	69	matat baut	NA	achterste	posterior, buttocks	pantat	44	45	-	FALSE												BUTTOCKS	834	https://concepticon.clld.org/parameters/834
+the Mentawai (Pagai & Sipora) list (no date)	69	matat oen	NA	achterste	posterior, buttocks	pantat	44	45	-	FALSE												BUTTOCKS	834	https://concepticon.clld.org/parameters/834
+the Mentawai (Pagai & Sipora) list (no date)	69	matat oet	NA	achterste	posterior, buttocks	pantat	44	45	-	FALSE												BUTTOCKS	834	https://concepticon.clld.org/parameters/834
+the Mentawai (Pagai & Sipora) list (no date)	70	tokoi	NA	stuit	tailbone, coccyx	tulang tungging, tulang ekor	46	47	57	FALSE												NA	NA	https://concepticon.clld.org/parameters/NA
+the Mentawai (Pagai & Sipora) list (no date)	72	moetanai	NA	poepen	to defecate	berak	172	176	60	FALSE												SHIT (DEFECATE)	676	https://concepticon.clld.org/parameters/676
+the Mentawai (Pagai & Sipora) list (no date)	73	tanai	NA	poep	faeces	tahi	173	177	61	FALSE												FAECES (EXCREMENT)	675	https://concepticon.clld.org/parameters/675
+the Mentawai (Pagai & Sipora) list (no date)	75	moeëtoet	NA	wind laten	to fart	berkentut	174	179	63	FALSE												FART	1159	https://concepticon.clld.org/parameters/1159
+the Mentawai (Pagai & Sipora) list (no date)	76	maboete	NA	stinken	to stink, to smell	berbau busuk	-	178	64	FALSE												SMELL (STINK)	1587	https://concepticon.clld.org/parameters/1587
+the Mentawai (Pagai & Sipora) list (no date)	77	peret	NA	penis	penis	batang pelir	47	48	65	FALSE												PENIS	1222	https://concepticon.clld.org/parameters/1222
+the Mentawai (Pagai & Sipora) list (no date)	78	tilei	NA	vagina	vagina	puki, liang peranakan	48	49	67	FALSE												VAGINA	1836	https://concepticon.clld.org/parameters/1836
+the Mentawai (Pagai & Sipora) list (no date)	82	moekia	NA	pissen	to urinate	kencing (k.k.)	170	174	69	FALSE												PISS	592	https://concepticon.clld.org/parameters/592
+the Mentawai (Pagai & Sipora) list (no date)	83	kia	NA	pis	piss, urine	air kencing (k.b.)	171	175	70	FALSE												URINE	1142	https://concepticon.clld.org/parameters/1142
+the Mentawai (Pagai & Sipora) list (no date)	84	rere	1	been	leg	kaki	49	50	-	TRUE		typo from leki	oedoet tadda	instep of foot								LEG	1297	https://concepticon.clld.org/parameters/1297
+the Mentawai (Pagai & Sipora) list (no date)	88	sokoel	NA	enkel	ankle	buku kaki, pergelangan kaki	55	56	73	FALSE												ANKLE	803	https://concepticon.clld.org/parameters/803
+the Mentawai (Pagai & Sipora) list (no date)	89	tadda	NA	hiel	heel	tumit	-	-	74	FALSE												HEEL	980	https://concepticon.clld.org/parameters/980
+the Mentawai (Pagai & Sipora) list (no date)	90	bakkapat	NA	dij	thigh	paha	50	51	75	FALSE												UPPER LEG (THIGH)	471	https://concepticon.clld.org/parameters/471
+the Mentawai (Pagai & Sipora) list (no date)	91	taket bokolo	NA	knie	knee	lutut	51	52	76	TRUE												KNEE	1371	https://concepticon.clld.org/parameters/1371
+the Mentawai (Pagai & Sipora) list (no date)	93	biti	NA	knit	calf	betis	52	53	78	FALSE												CALF OF LEG	498	https://concepticon.clld.org/parameters/498
+the Mentawai (Pagai & Sipora) list (no date)	94	paloe	NA	scheen	shin	tulang kering	53	54	79	FALSE												SHIN	186	https://concepticon.clld.org/parameters/186
+the Mentawai (Pagai & Sipora) list (no date)	95	para	NA	arm	arm	lengan	40	41	-	FALSE												ARM	1673	https://concepticon.clld.org/parameters/1673
+the Mentawai (Pagai & Sipora) list (no date)	97	takep	NA	hand	hand	tangan	56	57	-	TRUE												HAND	1277	https://concepticon.clld.org/parameters/1277
+the Mentawai (Pagai & Sipora) list (no date)	97	kabe	NA	hand	hand	tangan	56	57	-	TRUE												HAND	1277	https://concepticon.clld.org/parameters/1277
+the Mentawai (Pagai & Sipora) list (no date)	99	matat keppa	NA	oksel	armpit	ketiak	42	43	82	FALSE												ARMPIT	1886	https://concepticon.clld.org/parameters/1886
+the Mentawai (Pagai & Sipora) list (no date)	100	eto	NA	elleboog	elbow	siku	41	42	83	FALSE												ELBOW	981	https://concepticon.clld.org/parameters/981
+the Mentawai (Pagai & Sipora) list (no date)	102	bagat takep	NA	handpalm	palm of the hand	telapak tangan	57	58	85	FALSE												PALM OF HAND	1183	https://concepticon.clld.org/parameters/1183
+the Mentawai (Pagai & Sipora) list (no date)	105	singongai	NA	vingers	fingers	jari tangan (jamak)	58	59	-	FALSE												FINGER	1303	https://concepticon.clld.org/parameters/1303
+the Mentawai (Pagai & Sipora) list (no date)	107	soelet	NA	nagel	(finger)nail	kuku	59	60	89	FALSE												FINGERNAIL OR TOENAIL	1896	https://concepticon.clld.org/parameters/1896
+the Mentawai (Pagai & Sipora) list (no date)	108	sikebboe	NA	duim	thumb	ibu jari	60	61	90	FALSE												THUMB	1781	https://concepticon.clld.org/parameters/1781
+the Mentawai (Pagai & Sipora) list (no date)	109	panausau	NA	wijsvinger	index finger	telunjuk	61	62	91	FALSE												FOREFINGER	577	https://concepticon.clld.org/parameters/577
+the Mentawai (Pagai & Sipora) list (no date)	110	siritenga	NA	middelvinger	middle finger	jari tengah	62	63	92	FALSE												MIDDLE FINGER	3387	https://concepticon.clld.org/parameters/3387
+the Mentawai (Pagai & Sipora) list (no date)	110	inat singongai	NA	middelvinger	middle finger	jari tengah	62	63	92	FALSE												MIDDLE FINGER	3387	https://concepticon.clld.org/parameters/3387
+the Mentawai (Pagai & Sipora) list (no date)	111	sitaoni	NA	ringvinger	ring finger	jari manis	63	64	93	FALSE												NA	NA	https://concepticon.clld.org/parameters/NA
+the Mentawai (Pagai & Sipora) list (no date)	112	togat singongai	NA	pink	little finger	kelingking	64	65	94	FALSE												LITTLE FINGER	2774	https://concepticon.clld.org/parameters/2774
+the Mentawai (Pagai & Sipora) list (no date)	115	tolat	NA	been (gebeente)	bone	tulang	65	66	97	TRUE												BONE	1394	https://concepticon.clld.org/parameters/1394
+the Mentawai (Pagai & Sipora) list (no date)	116	logau	NA	bloed	blood	darah	66	67	98	TRUE												BLOOD	946	https://concepticon.clld.org/parameters/946
+the Mentawai (Pagai & Sipora) list (no date)	117	akkoela	NA	vlees op het lichaam	flesh	daging	67	68	99	FALSE												FLESH OR MEAT	2615	https://concepticon.clld.org/parameters/2615
+the Mentawai (Pagai & Sipora) list (no date)	118	oengat	NA	pees	tendon	urat	68	69	100	FALSE												TENDON	1137	https://concepticon.clld.org/parameters/1137
+the Mentawai (Pagai & Sipora) list (no date)	121	koelit	NA	huid	skin	kulit	70	71	101	TRUE												SKIN	763	https://concepticon.clld.org/parameters/763
+the Mentawai (Pagai & Sipora) list (no date)	122/123	boeloe	NA	haar <unsp.>	hair	rambut	71	72	-	FALSE												HAIR	1040	https://concepticon.clld.org/parameters/1040
+the Mentawai (Pagai & Sipora) list (no date)	124	attinang	NA	zweet	sweat	keringat	73	74	103	FALSE												SWEAT (SUBSTANCE)	125	https://concepticon.clld.org/parameters/125
+the Mentawai (Pagai & Sipora) list (no date)	125	loedji	NA	speeksel	saliva	ludah	74	75	104	FALSE												SALIVA	1503	https://concepticon.clld.org/parameters/1503
+the Mentawai (Pagai & Sipora) list (no date)	126	singoe	NA	fluim	phlegm	dahak	-	76	105	FALSE												PHLEGM	3061	https://concepticon.clld.org/parameters/3061
+the Mentawai (Pagai & Sipora) list (no date)	127	moeënga	NA	ademen	to breath	bernapas	115	116	106	FALSE												BREATH OR BREATHE	3183	https://concepticon.clld.org/parameters/3183
+the Mentawai (Pagai & Sipora) list (no date)	128	moekôm	NA	eten	to eat	makan	116	117	107	TRUE	eat											EAT	1336	https://concepticon.clld.org/parameters/1336
+the Mentawai (Pagai & Sipora) list (no date)	129	maladje	NA	hongerig	hungry	lapar	734	752	108	FALSE												BE HUNGRY	1533	https://concepticon.clld.org/parameters/1533
+the Mentawai (Pagai & Sipora) list (no date)	130	moelô	NA	drinken	to drink	minum	117	118	109	TRUE	drink											DRINK	1401	https://concepticon.clld.org/parameters/1401
+the Mentawai (Pagai & Sipora) list (no date)	131	laiket	2	dronken	drunk	mabuk	-	474	367	FALSE			mapoeing mata				= dizzy					DRUNK	1463	https://concepticon.clld.org/parameters/1463
+the Mentawai (Pagai & Sipora) list (no date)	132	maônggou	NA	dorstig	thirsty	haus	736	754	110	FALSE												THIRSTY	847	https://concepticon.clld.org/parameters/847
+the Mentawai (Pagai & Sipora) list (no date)	133	maektek	NA	verzadigd	satisfied	kenyang, puas	735	753	111	FALSE												FULL	1429	https://concepticon.clld.org/parameters/1429
+the Mentawai (Pagai & Sipora) list (no date)	134	maektek	NA	zat, verzadigd	replete, satisfied	kenyang, puas	-	119	-	FALSE												SATIATED	106	https://concepticon.clld.org/parameters/106
+the Mentawai (Pagai & Sipora) list (no date)	137	goeng	NA	slikken	to swallow	telan	118	120	-	FALSE												SWALLOW	897	https://concepticon.clld.org/parameters/897
+the Mentawai (Pagai & Sipora) list (no date)	138	merep	NA	slapen	to sleep	tidur	119	121	114	TRUE	sleep											SLEEP	1585	https://concepticon.clld.org/parameters/1585
+the Mentawai (Pagai & Sipora) list (no date)	138	merem	NA	slapen	to sleep	tidur	119	121	114	TRUE	sleep											SLEEP	1585	https://concepticon.clld.org/parameters/1585
+the Mentawai (Pagai & Sipora) list (no date)	139/140	pangamoek	NA	dromen, droom <unsp.>	dream	mimpi	120	122	-	FALSE												DREAMING OR DREAM	2455	https://concepticon.clld.org/parameters/2455
+the Mentawai (Pagai & Sipora) list (no date)	144	moerio	NA	staan	to stand	berdiri	121	123	120	TRUE	stand											STAND	1442	https://concepticon.clld.org/parameters/1442
+the Mentawai (Pagai & Sipora) list (no date)	145	moeënoeng	NA	lopen	to walk	berjalan	122	124	121	TRUE	walk											WALK	1443	https://concepticon.clld.org/parameters/1443
+the Mentawai (Pagai & Sipora) list (no date)	146	moegaila	NA	liggen op de rug	to lie supine	telentang	124	126	123	FALSE												LIE (REST)	1411	https://concepticon.clld.org/parameters/1411
+the Mentawai (Pagai & Sipora) list (no date)	147	moeloekke	NA	liggen op de buik	to lie prone	tiarap	125	127	124	FALSE												LIE DOWN	215	https://concepticon.clld.org/parameters/215
+the Mentawai (Pagai & Sipora) list (no date)	148	toeboedjoek	NA	liggen (in het algemeen)	to lie	berbaring	123	125	122	TRUE	lie											LIE DOWN	215	https://concepticon.clld.org/parameters/215
+the Mentawai (Pagai & Sipora) list (no date)	149	moekoeddoe	NA	zitten (op een stoel, bank etc.)	to sit (on a chair)	duduk (di atas kursi)	126	128	125	TRUE	sit											SIT DOWN	1649	https://concepticon.clld.org/parameters/1649
+the Mentawai (Pagai & Sipora) list (no date)	151	moerekkoek	NA	zitten (met de beide benen op zij en gebogen)	to sit (with the knees bent to one side)	bertimpuh	128	130	127	TRUE	sit											NA	NA	https://concepticon.clld.org/parameters/NA
+the Mentawai (Pagai & Sipora) list (no date)	152	moerêggeu	NA	hurken	to squat	berjongkok	129	131	128	FALSE												SQUAT	3163	https://concepticon.clld.org/parameters/3163
+the Mentawai (Pagai & Sipora) list (no date)	153	moelalak	NA	zwemmen	to swim	berenang	131	133	129	TRUE	swim, to											SWIM	1439	https://concepticon.clld.org/parameters/1439
+the Mentawai (Pagai & Sipora) list (no date)	154	moeraû	NA	baden <intr.>	to take a bath	mandi	169	173	130	FALSE												WASH	1453	https://concepticon.clld.org/parameters/1453
+the Mentawai (Pagai & Sipora) list (no date)	158	nganga	NA	stem	voice	suara	135	137	133	FALSE												VOICE	1363	https://concepticon.clld.org/parameters/1363
+the Mentawai (Pagai & Sipora) list (no date)	159	madjorok	NA	schor(hees)	hoarse	parau	-	716	134	FALSE												NA	NA	https://concepticon.clld.org/parameters/NA
+the Mentawai (Pagai & Sipora) list (no date)	160	moegerei	NA	schreeuwen	to shout	berteriak	136	138	-	FALSE												SHOUT	715	https://concepticon.clld.org/parameters/715
+the Mentawai (Pagai & Sipora) list (no date)	161	moega'ga'	NA	lachen	to laugh	tertawa	137	139	135	TRUE	laugh											LAUGH	1355	https://concepticon.clld.org/parameters/1355
+the Mentawai (Pagai & Sipora) list (no date)	163	moesoû	NA	schreien <intr.>	to weep	menangis	138	140	137	TRUE	cry											CRY	1839	https://concepticon.clld.org/parameters/1839
+the Mentawai (Pagai & Sipora) list (no date)	165	tsimin	NA	glimlachen	to smile	tersenyum	139	141	139	FALSE												SMILE	1451	https://concepticon.clld.org/parameters/1451
+the Mentawai (Pagai & Sipora) list (no date)	166	moehoi	NA	zuchten	to sigh	berkeluh kesah, mengeluh	140	142	140	FALSE												NA	NA	https://concepticon.clld.org/parameters/NA
+the Mentawai (Pagai & Sipora) list (no date)	167	moeloedji	NA	spugen, spuwen	to spit	meludah	141	143	141	FALSE												SPIT	1440	https://concepticon.clld.org/parameters/1440
+the Mentawai (Pagai & Sipora) list (no date)	169	moepaisi	NA	niezen	to sneeze	bersin	142	144	143	FALSE												SNEEZE	1621	https://concepticon.clld.org/parameters/1621
+the Mentawai (Pagai & Sipora) list (no date)	170	moekôkolo	NA	hoesten	to cough	batuk	143	145	144	FALSE												COUGH	879	https://concepticon.clld.org/parameters/879
+the Mentawai (Pagai & Sipora) list (no date)	172	moesokot	NA	hik	hiccups	tersedu	-	146	-	FALSE												HICCOUGH	162	https://concepticon.clld.org/parameters/162
+the Mentawai (Pagai & Sipora) list (no date)	173	toesagat	NA	zich verslikken	to choke	tersedak	-	147	146	FALSE												CHOKE	129	https://concepticon.clld.org/parameters/129
+the Mentawai (Pagai & Sipora) list (no date)	174	moegê	NA	boer (oprisping)	belch	sendawa	-	148	147	FALSE		typo in the original as serdawa; should be sendawa										BELCH	2245	https://concepticon.clld.org/parameters/2245
+the Mentawai (Pagai & Sipora) list (no date)	176	moeoap	NA	gapen	to yawn	menguap	144	149	149	FALSE												YAWN	1028	https://concepticon.clld.org/parameters/1028
+the Mentawai (Pagai & Sipora) list (no date)	177	malaulau	NA	knikken	to nod	mengangguk	145	150	-	FALSE												NA	NA	https://concepticon.clld.org/parameters/NA
+the Mentawai (Pagai & Sipora) list (no date)	182	moeri manoea	NA	leven (levend)	to live (alive)	hidup	163	168	154	TRUE	live											BE ALIVE	1422	https://concepticon.clld.org/parameters/1422
+the Mentawai (Pagai & Sipora) list (no date)	183	mâtei	NA	sterven	to die	meninggal dunia	161	166	155	TRUE	die											DIE	1494	https://concepticon.clld.org/parameters/1494
+the Mentawai (Pagai & Sipora) list (no date)	184	katatakat	NA	dood (zelfstnw.)	death	kematian	164	169	-	FALSE												DEATH	910	https://concepticon.clld.org/parameters/910
+the Mentawai (Pagai & Sipora) list (no date)	188	simamâtei	NA	lijk	corpse	mayat	162	167	-	FALSE												CORPSE	767	https://concepticon.clld.org/parameters/767
+the Mentawai (Pagai & Sipora) list (no date)	191	râtei	NA	graf	grave	kuburan	244	242	160	FALSE												GRAVE	1773	https://concepticon.clld.org/parameters/1773
+the Mentawai (Pagai & Sipora) list (no date)	192	moenoe	NA	doden	to kill	membunuh	166	170	161	TRUE	kill											KILL	1417	https://concepticon.clld.org/parameters/1417
+the Mentawai (Pagai & Sipora) list (no date)	192	mateiake	NA	doden	to kill	membunuh	166	170	161	TRUE	kill											KILL	1417	https://concepticon.clld.org/parameters/1417
+the Mentawai (Pagai & Sipora) list (no date)	193	koepkoepmen	NA	erven	to inherit	mewarisi	167	171	-	FALSE												INHERIT	3664	https://concepticon.clld.org/parameters/3664
+the Mentawai (Pagai & Sipora) list (no date)	194	koepkoep akenen	NA	erfenis	inheritance	warisan	168	172	-	FALSE												NA	NA	https://concepticon.clld.org/parameters/NA
+the Mentawai (Pagai & Sipora) list (no date)	196	sinetekat	NA	wond	wound	luka	177	181	163	FALSE												WOUND	1109	https://concepticon.clld.org/parameters/1109
+the Mentawai (Pagai & Sipora) list (no date)	197	appoe	NA	zweer	an infected wound	luka bernanah	178	182	-	FALSE												INFECTED	548	https://concepticon.clld.org/parameters/548
+the Mentawai (Pagai & Sipora) list (no date)	197	bokbong	NA	zweer	an infected wound	luka bernanah	178	182	-	FALSE												INFECTED	548	https://concepticon.clld.org/parameters/548
+the Mentawai (Pagai & Sipora) list (no date)	198	balak	NA	litteken	scar	bekas luka	179	183	164	FALSE												SCAR	497	https://concepticon.clld.org/parameters/497
+the Mentawai (Pagai & Sipora) list (no date)	199	mabesi	NA	ziek	ill	sakit	730	748	165	FALSE												SICK	1847	https://concepticon.clld.org/parameters/1847
+the Mentawai (Pagai & Sipora) list (no date)	200	mabesi	NA	ziek zijn	to be ill	merasa sakit	175	180	-	FALSE												SICK	1847	https://concepticon.clld.org/parameters/1847
+the Mentawai (Pagai & Sipora) list (no date)	202	maron toeboe	NA	gezond	healthy	sehat	731	749	167	FALSE												HEALTHY	1364	https://concepticon.clld.org/parameters/1364
+the Mentawai (Pagai & Sipora) list (no date)	203	appoe	NA	steenpuist	boil	bisul	180	184	168	FALSE												BOIL (OF SKIN)	793	https://concepticon.clld.org/parameters/793
+the Mentawai (Pagai & Sipora) list (no date)	205	roket	NA	koorts	fever	demam (k.b.)	181	185	-	FALSE												FEVER	1534	https://concepticon.clld.org/parameters/1534
+the Mentawai (Pagai & Sipora) list (no date)	207	besit baga	NA	buikpijn	stomach ache	sakit perut	182	186	-	FALSE												NA	NA	https://concepticon.clld.org/parameters/NA
+the Mentawai (Pagai & Sipora) list (no date)	209	patsat	NA	buikloop	diarrhoea	menceret (k.b.)	183	187	-	FALSE												DIARRHEA	1177	https://concepticon.clld.org/parameters/1177
+the Mentawai (Pagai & Sipora) list (no date)	219	mabesi oetoe	NA	hoofdpijn	headache	sakit kepala, pusing	187	191	-	FALSE												HEADACHE	3625	https://concepticon.clld.org/parameters/3625
+the Mentawai (Pagai & Sipora) list (no date)	222	masingoe	NA	verkoudheid	a cold	selesma	189	193	-	FALSE												COMMON COLD (DISEASE)	102	https://concepticon.clld.org/parameters/102
+the Mentawai (Pagai & Sipora) list (no date)	223	maseret	NA	slapen van de ledematen, slaap (mierenkriewel)	gone to sleep (limbs)	kesemutan	191	195	181	FALSE												NA	NA	https://concepticon.clld.org/parameters/NA
+the Mentawai (Pagai & Sipora) list (no date)	225	sakit	NA	verlamd	paralysed	lumpuh	192	196	182	FALSE												DISABLED PERSON	3621	https://concepticon.clld.org/parameters/3621
+the Mentawai (Pagai & Sipora) list (no date)	228	takep	NA	doof	deaf	tuli	194	198	185	FALSE												DEAF PERSON	458	https://concepticon.clld.org/parameters/458
+the Mentawai (Pagai & Sipora) list (no date)	229	mapeset	NA	blind	blind	buta	195	199	186	FALSE												BLIND	1653	https://concepticon.clld.org/parameters/1653
+the Mentawai (Pagai & Sipora) list (no date)	231	likei	NA	scheel	squinting	juling	196	200	188	FALSE												SQUINT-EYED	87	https://concepticon.clld.org/parameters/87
+the Mentawai (Pagai & Sipora) list (no date)	231	liki	NA	scheel	squinting	juling	196	200	188	FALSE												SQUINT-EYED	87	https://concepticon.clld.org/parameters/87
+the Mentawai (Pagai & Sipora) list (no date)	232	male	NA	genezen	cured	sembuh	197	201	189	FALSE												CURE	499	https://concepticon.clld.org/parameters/499
+the Mentawai (Pagai & Sipora) list (no date)	234	lage	NA	geneesmiddel (met toverkracht)	medicine (with magic power)	obat (dari dukun)	199	202	-	FALSE												MAGIC	392	https://concepticon.clld.org/parameters/392
+the Mentawai (Pagai & Sipora) list (no date)	235	siagai gaut	3	dokter (dukun)	doctor (medicine man)	dokter (dukun)	200	203	-	FALSE							who knows medicine					SHAMAN (FOLK HEALER)	394	https://concepticon.clld.org/parameters/394
+the Mentawai (Pagai & Sipora) list (no date)	236	sirimanoea	NA	mens (in de zin van mensdom)	man, mankind	manusia	1	1	-	FALSE												PERSON	683	https://concepticon.clld.org/parameters/683
+the Mentawai (Pagai & Sipora) list (no date)	237	sirimanoea	NA	mens (in de zin van de mensen werden gedood)	people	orang	2	2	-	FALSE												PEOPLE	789	https://concepticon.clld.org/parameters/789
+the Mentawai (Pagai & Sipora) list (no date)	238	Tai tako	4	mens (in de zin van de mensen v. het gebergte zijn onze vijanden)	people	orang	3	3	-	FALSE			Tai tako	the people from kako								PEOPLE	789	https://concepticon.clld.org/parameters/789
+the Mentawai (Pagai & Sipora) list (no date)	239	oni	NA	naam	name	nama	113	114	192	TRUE												NAME	1405	https://concepticon.clld.org/parameters/1405
+the Mentawai (Pagai & Sipora) list (no date)	241	simantêoe	NA	man	man	orang laki-laki	75	77	193	TRUE												MALE PERSON	2106	https://concepticon.clld.org/parameters/2106
+the Mentawai (Pagai & Sipora) list (no date)	242	sinanalep	NA	vrouw	woman	orang perempuan	76	78	194	TRUE												WOMAN	962	https://concepticon.clld.org/parameters/962
+the Mentawai (Pagai & Sipora) list (no date)	243	simanteoe	NA	mannelijk (v.d. mens)	male (human)	laki-laki	110	111	195	FALSE												MALE (OF PERSON)	2261	https://concepticon.clld.org/parameters/2261
+the Mentawai (Pagai & Sipora) list (no date)	244	boetoeat	NA	mannelijk (v.d.dieren)	male (animal)	jantan	110	111	195	FALSE												MALE (OF ANIMAL)	2263	https://concepticon.clld.org/parameters/2263
+the Mentawai (Pagai & Sipora) list (no date)	245/246	sinanalep	NA	vrouwelijk <unsp.>	female	perempuan	112	113	196	FALSE												FEMALE	1551	https://concepticon.clld.org/parameters/1551
+the Mentawai (Pagai & Sipora) list (no date)	248/249	tai okko	NA	maagd, maagdom <unsp.>			77	79	-	FALSE												NA	NA	NA
+the Mentawai (Pagai & Sipora) list (no date)	248/249	si okko	NA	maagd, maagdom <unsp.>			77	79	-	FALSE												NA	NA	NA
+the Mentawai (Pagai & Sipora) list (no date)	250	tai lainge	NA	jongen	boy, lad	anak laki-laki	78	80	-	FALSE												BOY OR SON	2391	https://concepticon.clld.org/parameters/2391
+the Mentawai (Pagai & Sipora) list (no date)	250	si lainge	NA	jongen	boy, lad	anak laki-laki	78	80	-	FALSE												BOY OR SON	2391	https://concepticon.clld.org/parameters/2391
+the Mentawai (Pagai & Sipora) list (no date)	252	toga sinalalep	NA	meisje	girl	gadis	79	81	-	FALSE												GIRL	1646	https://concepticon.clld.org/parameters/1646
+the Mentawai (Pagai & Sipora) list (no date)	255	oekui	5	vader	father	ayah	80	82	201	TRUE												FATHER	1217	https://concepticon.clld.org/parameters/1217
+the Mentawai (Pagai & Sipora) list (no date)	255	ama	5	vader	father	ayah	80	82	201	TRUE			ama				Sabiroet					FATHER	1217	https://concepticon.clld.org/parameters/1217
+the Mentawai (Pagai & Sipora) list (no date)	256	ina	NA	moeder	mother	ibu	81	83	202	TRUE												MOTHER	1216	https://concepticon.clld.org/parameters/1216
+the Mentawai (Pagai & Sipora) list (no date)	257/258	toga	6	kind <unsp.>	child	anak	82	84	203	TRUE			sikeboekat	the first-born								CHILD	2099	https://concepticon.clld.org/parameters/2099
+the Mentawai (Pagai & Sipora) list (no date)	261	togat simanteoe	NA	zoon	son	anak laki-laki	83	85	-	FALSE												SON	1620	https://concepticon.clld.org/parameters/1620
+the Mentawai (Pagai & Sipora) list (no date)	262	togat sinanalep	NA	dochter	daughter	anak perempuan	84	86	-	FALSE												DAUGHTER	1357	https://concepticon.clld.org/parameters/1357
+the Mentawai (Pagai & Sipora) list (no date)	263	siboeboea	NA	grootvader	grandfather	nenek laki-laki (kakek)	85	87	207	FALSE												GRANDFATHER	1383	https://concepticon.clld.org/parameters/1383
+the Mentawai (Pagai & Sipora) list (no date)	263	teteu	NA	grootvader	grandfather	nenek laki-laki (kakek)	85	87	207	FALSE												GRANDFATHER	1383	https://concepticon.clld.org/parameters/1383
+the Mentawai (Pagai & Sipora) list (no date)	264	siboeboea	NA	grootmoeder	grandmother	nenek perempuan (nenek)	89	90	208	FALSE												GRANDMOTHER	1496	https://concepticon.clld.org/parameters/1496
+the Mentawai (Pagai & Sipora) list (no date)	266	siboeboea	NA	overgrootouders	great-grandparents	moyang	86	88	-	FALSE												NA	NA	https://concepticon.clld.org/parameters/NA
+the Mentawai (Pagai & Sipora) list (no date)	267	tai keboekat siboeroe	NA	voorouders	ancestors	leluhur, nenek moyang	88	89	-	FALSE												ANCESTORS	1669	https://concepticon.clld.org/parameters/1669
+the Mentawai (Pagai & Sipora) list (no date)	268	alei	7	broeder	brother	saudara laki-laki	90	91	-	TRUE			alei	calls his brother/sister								BROTHER	1262	https://concepticon.clld.org/parameters/1262
+the Mentawai (Pagai & Sipora) list (no date)	268	alei	7	broeder	brother	saudara laki-laki	90	91	-	TRUE			balin	brother and sister calls each other								BROTHER	1262	https://concepticon.clld.org/parameters/1262
+the Mentawai (Pagai & Sipora) list (no date)	269	alei	7	zuster	sister	saudara perempuan	91	92	-	TRUE			alei	calls his brother/sister								SISTER	1263	https://concepticon.clld.org/parameters/1263
+the Mentawai (Pagai & Sipora) list (no date)	269	alei	7	zuster	sister	saudara perempuan	91	92	-	TRUE			balin	brother and sister calls each other								SISTER	1263	https://concepticon.clld.org/parameters/1263
+the Mentawai (Pagai & Sipora) list (no date)	270/271	kebboe	NA	oudere broeder, zuster <unsp.>			92	93	209	TRUE	older brother/sister											NA	NA	NA
+the Mentawai (Pagai & Sipora) list (no date)	272/273	bagi	NA	jongere broeder, zuster <unsp.>			93	94	210	TRUE	younger brother/sister											NA	NA	NA
+the Mentawai (Pagai & Sipora) list (no date)	274	poenoe teteu	NA	kleinkind	grandchild	cucu	94	95	211	FALSE												GRANDCHILD	1617	https://concepticon.clld.org/parameters/1617
+the Mentawai (Pagai & Sipora) list (no date)	275	oekoei	NA	oom <FB>	uncle FB	paman FB	95	96	212	FALSE												PATERNAL UNCLE (FATHER'S BROTHER)	1985	https://concepticon.clld.org/parameters/1985
+the Mentawai (Pagai & Sipora) list (no date)	275	badja	NA	oom <FB>	uncle FB	paman FB	95	96	212	FALSE												PATERNAL UNCLE (FATHER'S BROTHER)	1985	https://concepticon.clld.org/parameters/1985
+the Mentawai (Pagai & Sipora) list (no date)	276	kamaman	NA	oom <MB>	uncle MB	paman MB	95	96	212	FALSE												MATERNAL UNCLE (MOTHER'S BROTHER)	2692	https://concepticon.clld.org/parameters/2692
+the Mentawai (Pagai & Sipora) list (no date)	281	kameinan	NA	tante <FZ>	aunt FZ	bibi FZ	97	98	213	FALSE												PATERNAL AUNT (FATHER'S SISTER)	2691	https://concepticon.clld.org/parameters/2691
+the Mentawai (Pagai & Sipora) list (no date)	282	kalâbai	NA	tante <MZ>	aunt MZ	bibi MZ	97	98	213	FALSE												MATERNAL AUNT (MOTHER'S SISTER)	2693	https://concepticon.clld.org/parameters/2693
+the Mentawai (Pagai & Sipora) list (no date)	287/289	boea	NA	neef <unsp.>			98	99	-	FALSE												NA	NA	NA
+the Mentawai (Pagai & Sipora) list (no date)	287/289	momoi	NA	neef <unsp.>			98	99	-	FALSE												NA	NA	NA
+the Mentawai (Pagai & Sipora) list (no date)	288/290	momoi	NA	neef <unsp.>			98	99	-	FALSE												NA	NA	NA
+the Mentawai (Pagai & Sipora) list (no date)	288/290	boea	NA	neef <unsp.>			98	99	-	FALSE												NA	NA	NA
+the Mentawai (Pagai & Sipora) list (no date)	291/293	boea	NA	nicht <unsp.>			99	100	-	FALSE												NA	NA	NA
+the Mentawai (Pagai & Sipora) list (no date)	291/293	momoi	NA	nicht <unsp.>			99	100	-	FALSE												NA	NA	NA
+the Mentawai (Pagai & Sipora) list (no date)	291-294/296	momoi	NA	nicht <unsp.>			99	100	-	FALSE												NA	NA	NA
+the Mentawai (Pagai & Sipora) list (no date)	291-294/296	boea	NA	nicht <unsp.>			99	100	-	FALSE												NA	NA	NA
+the Mentawai (Pagai & Sipora) list (no date)	297/298	talikoe	NA	schoonouders wederzijdse ouders der gehuwden <unsp.>			-	100a	-	FALSE												NA	NA	NA
+the Mentawai (Pagai & Sipora) list (no date)	299	talikoe simanteoe	NA	schoonzoon	son-in-law	menantu laki-laki	100	101	-	FALSE												SON-IN-LAW	1056	https://concepticon.clld.org/parameters/1056
+the Mentawai (Pagai & Sipora) list (no date)	300	talikoe sinanalep	NA	schoondochter	daughter-in-law	menantu perempuan	101	102	-	FALSE												DAUGHTER-IN-LAW	1057	https://concepticon.clld.org/parameters/1057
+the Mentawai (Pagai & Sipora) list (no date)	302/303	sioeran	NA	stiefzoon, stiefdochter <unsp.>			102	103	-	FALSE												NA	NA	NA
+the Mentawai (Pagai & Sipora) list (no date)	304	oekui eninasioerau	NA	stiefouders	stepparents	ayah dan ibu tiri	103	104	-	FALSE												NA	NA	https://concepticon.clld.org/parameters/NA
+the Mentawai (Pagai & Sipora) list (no date)	305	sioeran	NA	aangenomen kind	adopted child	anak pungut ; anak angkat	104	105	-	FALSE												NA	NA	https://concepticon.clld.org/parameters/NA
+the Mentawai (Pagai & Sipora) list (no date)	306-309	eira	NA	zwager <unsp.>			105	106	219	FALSE												NA	NA	NA
+the Mentawai (Pagai & Sipora) list (no date)	310/314	lakoet	NA	schoonbroer, schoonzuster <unsp.>			106	107	-	FALSE												NA	NA	NA
+the Mentawai (Pagai & Sipora) list (no date)	310/314	sauloe	NA	schoonbroer, schoonzuster <unsp.>			106	107	-	FALSE												NA	NA	NA
+the Mentawai (Pagai & Sipora) list (no date)	315	samandi	NA	verwant	related	keluarga	107	108	221	FALSE												FAMILY	194	https://concepticon.clld.org/parameters/194
+the Mentawai (Pagai & Sipora) list (no date)	316	ta' samandi	NA	niet verwant	unrelated	bukan keluarga	108	109	-	FALSE												NA	NA	https://concepticon.clld.org/parameters/NA
+the Mentawai (Pagai & Sipora) list (no date)	317	sinanalep	NA	man (echtgenoot)	husband	suami	109	110	222	TRUE												HUSBAND	1200	https://concepticon.clld.org/parameters/1200
+the Mentawai (Pagai & Sipora) list (no date)	318	sinanalep	NA	vrouw (echtgenote)	wife	istri	111	112	223	TRUE												WIFE	1199	https://concepticon.clld.org/parameters/1199
+the Mentawai (Pagai & Sipora) list (no date)	320	alei	NA	metgezel, vriend	comrade, friend	sekutu, teman	-	577	-	FALSE												FRIEND	1325	https://concepticon.clld.org/parameters/1325
+the Mentawai (Pagai & Sipora) list (no date)	324	tairasema	NA	gast, vreemdeling	guest, stranger	tamu, orang asing	-	689	-	FALSE												GUEST OR STRANGER	2908	https://concepticon.clld.org/parameters/2908
+the Mentawai (Pagai & Sipora) list (no date)	327	laggai	NA	stad (of hoofdplaats)	town (capital)	kota (ibu kota)	587	599	-	FALSE												TOWN	1391	https://concepticon.clld.org/parameters/1391
+the Mentawai (Pagai & Sipora) list (no date)	329	laggai	NA	bijdorp (gehucht)	hamlet	dukuh	589	600	228	FALSE												NA	NA	https://concepticon.clld.org/parameters/NA
+the Mentawai (Pagai & Sipora) list (no date)	331	sikarei	NA	tovenaar (of bezweerder)	sorcerer	tukang sihir	201	204	-	FALSE												SORCERER	823	https://concepticon.clld.org/parameters/823
+the Mentawai (Pagai & Sipora) list (no date)	332	ngâlou	NA	talisman	talisman	jimat	202	205	-	FALSE												MAGIC	392	https://concepticon.clld.org/parameters/392
+the Mentawai (Pagai & Sipora) list (no date)	338	katoea gadjat	NA	voorteken	omen	pertanda	208	211	-	FALSE												OMEN	107	https://concepticon.clld.org/parameters/107
+the Mentawai (Pagai & Sipora) list (no date)	339	sanitoe	NA	spook	ghost	setan	209	212	-	FALSE												GHOST	1175	https://concepticon.clld.org/parameters/1175
+the Mentawai (Pagai & Sipora) list (no date)	339	saboeloengan	NA	spook	ghost	setan	209	212	-	FALSE												GHOST	1175	https://concepticon.clld.org/parameters/1175
+the Mentawai (Pagai & Sipora) list (no date)	341	sanitoe	8	kwade geest	evil spirit	ruh jahat	207/213	210	-	FALSE							spook, originally the soul of a person who died					DEMON	1973	https://concepticon.clld.org/parameters/1973
+the Mentawai (Pagai & Sipora) list (no date)	343/344	ketaat	9	ziel, geest (v.e. levende, v.e. dode) <unsp.>			214	217	231	FALSE			ketsat									NA	NA	NA
+the Mentawai (Pagai & Sipora) list (no date)	343/344	nitoe	9	ziel, geest (v.e. levende, v.e. dode) <unsp.>			214	217	231	FALSE			nitoe									NA	NA	NA
+the Mentawai (Pagai & Sipora) list (no date)	343/344	simagre	9	ziel, geest (v.e. levende, v.e. dode) <unsp.>			214	217	231	FALSE			simagre									NA	NA	NA
+the Mentawai (Pagai & Sipora) list (no date)	345	taikamanoea	10	opperwezen	the supreme being	yang maha kuasa	215	218	-	FALSE			taikamanoea	the spirits of the clouds			one does not know one Supreme Being because all the names of the good spirtits are preceded by the plural marker ""tai""					DEITY	3231	https://concepticon.clld.org/parameters/3231
+the Mentawai (Pagai & Sipora) list (no date)	345	taikaleleu	10	opperwezen	the supreme being	yang maha kuasa	215	218	-	FALSE			taikaleleu	the spirits of the forest			one does not know one Supreme Being because all the names of the good spirtits are preceded by the plural marker ""tai""					DEITY	3231	https://concepticon.clld.org/parameters/3231
+the Mentawai (Pagai & Sipora) list (no date)	345	kameinan	10	opperwezen	the supreme being	yang maha kuasa	215	218	-	FALSE			kameinan	water spirits			one does not know one Supreme Being because all the names of the good spirtits are preceded by the plural marker ""tai""					DEITY	3231	https://concepticon.clld.org/parameters/3231
+the Mentawai (Pagai & Sipora) list (no date)	347	masiboeloe	NA	aanbidden	to worship	menyembah	217	219	-	FALSE												WORSHIP	257	https://concepticon.clld.org/parameters/257
+the Mentawai (Pagai & Sipora) list (no date)	356	poengoengoean	NA	verhaal	story	cerita	224	225	236	FALSE												STORY	2060	https://concepticon.clld.org/parameters/2060
+the Mentawai (Pagai & Sipora) list (no date)	358	leleoi	NA	gedicht (of rijmwerk)	poem	sanjak, syair	226	227	-	FALSE												POETRY	541	https://concepticon.clld.org/parameters/541
+the Mentawai (Pagai & Sipora) list (no date)	367	simakate baga	NA	deugd (goed zijn)	virtue	kebajikan	235	233	-	FALSE												NA	NA	https://concepticon.clld.org/parameters/NA
+the Mentawai (Pagai & Sipora) list (no date)	368	simadjô	NA	zonde (kwaad doen)	sin	dosa	236	234	237	FALSE												SIN	2971	https://concepticon.clld.org/parameters/2971
+the Mentawai (Pagai & Sipora) list (no date)	369	takeikei	NA	verboden (onrein)	forbidden	pantangan, pemali	237	235	-	FALSE												NA	NA	https://concepticon.clld.org/parameters/NA
+the Mentawai (Pagai & Sipora) list (no date)	377	sema	NA	raadhuis	town hall	balai kota	591	601	-	FALSE												MEETING HOUSE	335	https://concepticon.clld.org/parameters/335
+the Mentawai (Pagai & Sipora) list (no date)	377	poenen	NA	raadhuis	town hall	balai kota	591	601	-	FALSE												MEETING HOUSE	335	https://concepticon.clld.org/parameters/335
+the Mentawai (Pagai & Sipora) list (no date)	377	moelia	NA	raadhuis	town hall	balai kota	591	601	-	FALSE												MEETING HOUSE	335	https://concepticon.clld.org/parameters/335
+the Mentawai (Pagai & Sipora) list (no date)	378	sikerei	NA	koning	king	raja	593	603	-	FALSE												KING	1508	https://concepticon.clld.org/parameters/1508
+the Mentawai (Pagai & Sipora) list (no date)	379	sikerei	NA	patih	a sort of first minister	patih	594	604	-	FALSE												MINISTER	486	https://concepticon.clld.org/parameters/486
+the Mentawai (Pagai & Sipora) list (no date)	382	laggaira sanitoe	NA	plaats (die gevreesd wordt)	(sacred) place (held in awe)	tempat (menyeramkan)	243	241	-	FALSE												PLACE (POSITION)	723	https://concepticon.clld.org/parameters/723
+the Mentawai (Pagai & Sipora) list (no date)	386	rimata	NA	dorpshoofd	village head	kepala kampung	597	608	245	FALSE												CHIEFTAIN	301	https://concepticon.clld.org/parameters/301
+the Mentawai (Pagai & Sipora) list (no date)	391	oektoeh	NA	geluk	happiness	kebahagiaan	210	213	-	FALSE												HAPPINESS	2941	https://concepticon.clld.org/parameters/2941
+the Mentawai (Pagai & Sipora) list (no date)	392	masoeboe	NA	ongeluk	unhappiness	kesedihan, kemalangan	211	214	-	FALSE												SADNESS	3854	https://concepticon.clld.org/parameters/3854
+the Mentawai (Pagai & Sipora) list (no date)	396	arat	NA	gewoonterecht	common law	hukum adat	604	623	-	FALSE												LAW	1062	https://concepticon.clld.org/parameters/1062
+the Mentawai (Pagai & Sipora) list (no date)	399	ioekoem	NA	straffen	to punish	menghukum	608	625	252	FALSE												PUNISH	3649	https://concepticon.clld.org/parameters/3649
+the Mentawai (Pagai & Sipora) list (no date)	400	oetak	NA	boete	fine	denda	609	626	253	FALSE												FINE (PENALTY)	218	https://concepticon.clld.org/parameters/218
+the Mentawai (Pagai & Sipora) list (no date)	401	katoemoenengan	NA	getuige	witness	saksi	610	627	-	FALSE												WITNESS	1144	https://concepticon.clld.org/parameters/1144
+the Mentawai (Pagai & Sipora) list (no date)	407/408	poesikebboe koenan	11	huwen <unsp.> huwelijk	marry, marriage	menikah, perkawinan	246	244	258	FALSE			poesikebboe koenan									MARRIAGE OR WEDDING	3182	https://concepticon.clld.org/parameters/3182
+the Mentawai (Pagai & Sipora) list (no date)	407/408	poetalimongat	11	huwen <unsp.> huwelijk	marry, marriage	menikah, perkawinan	246	244	258	FALSE			poetalimongat									MARRIAGE OR WEDDING	3182	https://concepticon.clld.org/parameters/3182
+the Mentawai (Pagai & Sipora) list (no date)	407/408	poetadekat	11	huwen <unsp.> huwelijk	marry, marriage	menikah, perkawinan	246	244	258	FALSE			poetadekat									MARRIAGE OR WEDDING	3182	https://concepticon.clld.org/parameters/3182
+the Mentawai (Pagai & Sipora) list (no date)	410	pagalak	NA	scheiden	to divorce	bercerai	247	245	260	FALSE												DIVORCE (SEPARATE)	3672	https://concepticon.clld.org/parameters/3672
+the Mentawai (Pagai & Sipora) list (no date)	413	moetoga	NA	baren (bevallen)	to give birth to	melahirkan	250	248	262	FALSE												GIVE BIRTH	1195	https://concepticon.clld.org/parameters/1195
+the Mentawai (Pagai & Sipora) list (no date)	415	moesilainge	12	overspel bedrijven	to commit adultery	berzinah	252	250	263	FALSE			silainge	a youth								ADULTERY	902	https://concepticon.clld.org/parameters/902
+the Mentawai (Pagai & Sipora) list (no date)	415	paelet	12	overspel bedrijven	to commit adultery	berzinah	252	250	263	FALSE			silainge	a youth								ADULTERY	902	https://concepticon.clld.org/parameters/902
+the Mentawai (Pagai & Sipora) list (no date)	415	moesilainge	12	overspel bedrijven	to commit adultery	berzinah	252	250	263	FALSE			moesilainge	to behave as a youth								ADULTERY	902	https://concepticon.clld.org/parameters/902
+the Mentawai (Pagai & Sipora) list (no date)	415	paelet	12	overspel bedrijven	to commit adultery	berzinah	252	250	263	FALSE			moesilainge	to behave as a youth								ADULTERY	902	https://concepticon.clld.org/parameters/902
+the Mentawai (Pagai & Sipora) list (no date)	416	ibat laggai	13	lichtekooi	prostitute	pelacur	255	253	-	FALSE			iba	bait								PROSTITUTE	1610	https://concepticon.clld.org/parameters/1610
+the Mentawai (Pagai & Sipora) list (no date)	416	ibat laggai	13	lichtekooi	prostitute	pelacur	255	253	-	FALSE			laggai	villagge								PROSTITUTE	1610	https://concepticon.clld.org/parameters/1610
+the Mentawai (Pagai & Sipora) list (no date)	420	pipîau	NA	fluit	flute	suling	257	255	265	FALSE												FLUTE	777	https://concepticon.clld.org/parameters/777
+the Mentawai (Pagai & Sipora) list (no date)	421	katêuba	NA	trom	drum	genderang	258	256	266	FALSE												DRUM	908	https://concepticon.clld.org/parameters/908
+the Mentawai (Pagai & Sipora) list (no date)	424	ngong	NA	gong	gong	gong	261	259	-	FALSE												GONG	2502	https://concepticon.clld.org/parameters/2502
+the Mentawai (Pagai & Sipora) list (no date)	426	djadjaok	NA	mondtrom	Jew's harp	ginggung (genggong)	262	260	268	FALSE												JEW'S HARP	3319	https://concepticon.clld.org/parameters/3319
+the Mentawai (Pagai & Sipora) list (no date)	428	moetoeroe	NA	dansen	to dance	menari	264	262	269	TRUE	dance											DANCE	1879	https://concepticon.clld.org/parameters/1879
+the Mentawai (Pagai & Sipora) list (no date)	430	patoera	NA	raadsel	riddle	teka-teki	-	226	271	FALSE												RIDDLE	2970	https://concepticon.clld.org/parameters/2970
+the Mentawai (Pagai & Sipora) list (no date)	432	pagoeile	NA	spelen	to play	bermain	-	263	273	TRUE	play											PLAY	1413	https://concepticon.clld.org/parameters/1413
+the Mentawai (Pagai & Sipora) list (no date)	437	oema	14	huis	house	rumah	265	265	278	FALSE			oema									HOUSE	1252	https://concepticon.clld.org/parameters/1252
+the Mentawai (Pagai & Sipora) list (no date)	437	lalep	14	huis	house	rumah	265	265	278	FALSE			lalep									HOUSE	1252	https://concepticon.clld.org/parameters/1252
+the Mentawai (Pagai & Sipora) list (no date)	437	roesoek	14	huis	house	rumah	265	265	278	FALSE			roesoek									HOUSE	1252	https://concepticon.clld.org/parameters/1252
+the Mentawai (Pagai & Sipora) list (no date)	438	sâpou	NA	hut (op het veld enz.)	hut, shelter	pondok	266	266	279	FALSE												HUT	1678	https://concepticon.clld.org/parameters/1678
+the Mentawai (Pagai & Sipora) list (no date)	440	para boeboengan	NA	nok van het dak	ridge of roof	bubungan	-	267	280	FALSE												RIDGEPOLE	280	https://concepticon.clld.org/parameters/280
+the Mentawai (Pagai & Sipora) list (no date)	441	tobat	NA	dakbedekking atap:	roofing: thatch	atap	268	268	281	FALSE												THATCH	279	https://concepticon.clld.org/parameters/279
+the Mentawai (Pagai & Sipora) list (no date)	446	kâsou	NA	dakspar	rafter	kasau	-	270	282	FALSE												RAFTER	829	https://concepticon.clld.org/parameters/829
+the Mentawai (Pagai & Sipora) list (no date)	449	matat bâlin	NA	deur	door	daun pintu	270	271	-	FALSE												DOOR	1567	https://concepticon.clld.org/parameters/1567
+the Mentawai (Pagai & Sipora) list (no date)	451	torak	NA	venster	window	jendela	271	272	-	FALSE												WINDOW	1375	https://concepticon.clld.org/parameters/1375
+the Mentawai (Pagai & Sipora) list (no date)	452	sikeîli	NA	hoek	corner	sudut	-	273	286	FALSE												CORNER	192	https://concepticon.clld.org/parameters/192
+the Mentawai (Pagai & Sipora) list (no date)	453	orat	NA	trap	staircase, steps	tangga, anak tangga	272	274	287	FALSE		add. anak tangga										STAIRS	34	https://concepticon.clld.org/parameters/34
+the Mentawai (Pagai & Sipora) list (no date)	456/457	bagat lalep	15	vloer <unsp.>	floor	lantai	274	276	289	FALSE			laibokat	floor of the house								FLOOR	1632	https://concepticon.clld.org/parameters/1632
+the Mentawai (Pagai & Sipora) list (no date)	458/459	kêkere	NA	omwanding <unsp.>			275	277	290	FALSE												NA	NA	NA
+the Mentawai (Pagai & Sipora) list (no date)	461	arigri	NA	hoofdstijlen	main posts	tiang rumah	276	278	292	FALSE												COLUMN	2045	https://concepticon.clld.org/parameters/2045
+the Mentawai (Pagai & Sipora) list (no date)	462	baibai	NA	zolderbalken	ceiling beams	langit-langit rumah, tutup jenang	277	279	293	FALSE												COLUMN	2045	https://concepticon.clld.org/parameters/2045
+the Mentawai (Pagai & Sipora) list (no date)	464	tilakboek	NA	gordijn	curtain	tirai	281	282	-	FALSE												CURTAIN	2621	https://concepticon.clld.org/parameters/2621
+the Mentawai (Pagai & Sipora) list (no date)	465	pareman	NA	slaapplaats	sleeping place	kamar tidur	282	283	-	FALSE												BEDROOM	2505	https://concepticon.clld.org/parameters/2505
+the Mentawai (Pagai & Sipora) list (no date)	468	lape	NA	ligmatje	sleeping mat	tikar	296	297	295	FALSE												MATTRESS	105	https://concepticon.clld.org/parameters/105
+the Mentawai (Pagai & Sipora) list (no date)	469	patoeloenan	NA	hoofdkussen	pillow	bantal	291	293	296	FALSE												PILLOW	1044	https://concepticon.clld.org/parameters/1044
+the Mentawai (Pagai & Sipora) list (no date)	472	lâpara	NA	zolder (onder het dak)	attic (under the roof)	loteng	285	286	298	FALSE												NA	NA	https://concepticon.clld.org/parameters/NA
+the Mentawai (Pagai & Sipora) list (no date)	473	salaˈsa	NA	zolderrek boven het vuur, rekje boven de haard	rack above the fireplace	para-para	285	286	299	FALSE												RACK (FOR STORING FOOD)	3176	https://concepticon.clld.org/parameters/3176
+the Mentawai (Pagai & Sipora) list (no date)	474	poeroe soeat	NA	kookplaats	hearth, fireplace	dapur, tungku	286	287	300	FALSE												FIREPLACE	185	https://concepticon.clld.org/parameters/185
+the Mentawai (Pagai & Sipora) list (no date)	475	api	NA	vuur	fire	api	287	288	301	TRUE												FIRE	221	https://concepticon.clld.org/parameters/221
+the Mentawai (Pagai & Sipora) list (no date)	476	malabo	NA	brand	fire	api, kebakaran	288	289	-	TRUE												FIRE	221	https://concepticon.clld.org/parameters/221
+the Mentawai (Pagai & Sipora) list (no date)	477	masiro͡esoei	NA	vuur aanleggen	to make a fire	memasang api	287	288	302	FALSE												LIGHT (IGNITE)	737	https://concepticon.clld.org/parameters/737
+the Mentawai (Pagai & Sipora) list (no date)	478	masipeˈaka	NA	vuur blussen	to extinguish (with water)	memadamkan api (dengan air)	287	288	-	FALSE												EXTINGUISH	127	https://concepticon.clld.org/parameters/127
+the Mentawai (Pagai & Sipora) list (no date)	482	koedjoek	NA	rook	smoke	asap	-	290	306	TRUE												SMOKE (EXHAUST)	778	https://concepticon.clld.org/parameters/778
+the Mentawai (Pagai & Sipora) list (no date)	483	aboe	NA	as	ashes	abu	289	291	307	TRUE												ASH	646	https://concepticon.clld.org/parameters/646
+the Mentawai (Pagai & Sipora) list (no date)	484	loina	NA	brandhout	fire wood	kayu api	290	292	308	FALSE												FIREWOOD	10	https://concepticon.clld.org/parameters/10
+the Mentawai (Pagai & Sipora) list (no date)	485	toenam alito	NA	aansteken (licht)	to put on (light)	menyalakan (sinar)	293	295	-	FALSE												LIGHT (IGNITE)	737	https://concepticon.clld.org/parameters/737
+the Mentawai (Pagai & Sipora) list (no date)	486	peˈake alito	NA	uitdoen (licht)	to put off (light)	memadamkan (sinar)	294	296	-	FALSE												EXTINGUISH	127	https://concepticon.clld.org/parameters/127
+the Mentawai (Pagai & Sipora) list (no date)	488	tilakboek	NA	bedgordijn	bed curtain	kelambu	297	298	-	FALSE												CURTAIN	2621	https://concepticon.clld.org/parameters/2621
+the Mentawai (Pagai & Sipora) list (no date)	489	oedanan	NA	zitbankje	bench, seat	bangku untuk duduk	298	299	-	FALSE												BENCH	2584	https://concepticon.clld.org/parameters/2584
+the Mentawai (Pagai & Sipora) list (no date)	493	koali	16	pan (ijzeren)	pot (iron)	kuali (besi), panci (besi)	310	312	-	FALSE							imported					POT	1462	https://concepticon.clld.org/parameters/1462
+the Mentawai (Pagai & Sipora) list (no date)	494	pario	16	pan (aarden)	pot (earthenware)	panci, kuali (tanah liat)	311	313	-	FALSE							imported					CLAY POT	2055	https://concepticon.clld.org/parameters/2055
+the Mentawai (Pagai & Sipora) list (no date)	499	poelokat	NA	drinknap	drinking bowl	tempat minum	315	317	314	FALSE												CUP	476	https://concepticon.clld.org/parameters/476
+the Mentawai (Pagai & Sipora) list (no date)	505	pisau	NA	mes	knife	pisau	299	300	317	FALSE												KNIFE	1352	https://concepticon.clld.org/parameters/1352
+the Mentawai (Pagai & Sipora) list (no date)	505	palite	NA	mes	knife	pisau	299	300	317	FALSE												KNIFE	1352	https://concepticon.clld.org/parameters/1352
+the Mentawai (Pagai & Sipora) list (no date)	506	têgele	NA	hakmes	chopper	parang	300	301	318	FALSE												CLEAVER	3067	https://concepticon.clld.org/parameters/3067
+the Mentawai (Pagai & Sipora) list (no date)	507	pisau	NA	dolk (kris)	kris	keris	302	304	-	FALSE												SWORD	1535	https://concepticon.clld.org/parameters/1535
+the Mentawai (Pagai & Sipora) list (no date)	507	palite	NA	dolk (kris)	kris	keris	302	304	-	FALSE												SWORD	1535	https://concepticon.clld.org/parameters/1535
+the Mentawai (Pagai & Sipora) list (no date)	508	palite	NA	dolk (badi-badi)	dagger	golok	303	305	-	FALSE												SMALL KNIFE	3233	https://concepticon.clld.org/parameters/3233
+the Mentawai (Pagai & Sipora) list (no date)	510	sisip	NA	lepel	spoon	sendok	318	319	319	FALSE												SPOON	1378	https://concepticon.clld.org/parameters/1378
+the Mentawai (Pagai & Sipora) list (no date)	511	sese͡iloe	NA	scheplepel, schepper	ladle	ciduk, sendok	319	320	320	FALSE												LADLE	2657	https://concepticon.clld.org/parameters/2657
+the Mentawai (Pagai & Sipora) list (no date)	513	manga͡isoe	NA	water halen	to fetch water	mengambil air	-	583	322	FALSE												DRAW (WATER)	1911	https://concepticon.clld.org/parameters/1911
+the Mentawai (Pagai & Sipora) list (no date)	514	karadja	17	mand (grote, kleine, soorten)	basket (all sorts of)	keranjang (bermacam-macam)	320	321	323	FALSE			karadja									BASKET	1539	https://concepticon.clld.org/parameters/1539
+the Mentawai (Pagai & Sipora) list (no date)	514	ore oegad	17	mand (grote, kleine, soorten)	basket (all sorts of)	keranjang (bermacam-macam)	320	321	323	FALSE			ore oegad									BASKET	1539	https://concepticon.clld.org/parameters/1539
+the Mentawai (Pagai & Sipora) list (no date)	514	gara'ra'	17	mand (grote, kleine, soorten)	basket (all sorts of)	keranjang (bermacam-macam)	320	321	323	FALSE			gara'ra'									BASKET	1539	https://concepticon.clld.org/parameters/1539
+the Mentawai (Pagai & Sipora) list (no date)	514	goeroegou	17	mand (grote, kleine, soorten)	basket (all sorts of)	keranjang (bermacam-macam)	320	321	323	FALSE			goeroegou									BASKET	1539	https://concepticon.clld.org/parameters/1539
+the Mentawai (Pagai & Sipora) list (no date)	514	long	17	mand (grote, kleine, soorten)	basket (all sorts of)	keranjang (bermacam-macam)	320	321	323	FALSE			long									BASKET	1539	https://concepticon.clld.org/parameters/1539
+the Mentawai (Pagai & Sipora) list (no date)	514	poeagau	17	mand (grote, kleine, soorten)	basket (all sorts of)	keranjang (bermacam-macam)	320	321	323	FALSE			poeagau									BASKET	1539	https://concepticon.clld.org/parameters/1539
+the Mentawai (Pagai & Sipora) list (no date)	514	loeloemai	17	mand (grote, kleine, soorten)	basket (all sorts of)	keranjang (bermacam-macam)	320	321	323	FALSE			loeloemai									BASKET	1539	https://concepticon.clld.org/parameters/1539
+the Mentawai (Pagai & Sipora) list (no date)	514	bâkoeloe	17	mand (grote, kleine, soorten)	basket (all sorts of)	keranjang (bermacam-macam)	320	321	323	FALSE			bâkoeloe									BASKET	1539	https://concepticon.clld.org/parameters/1539
+the Mentawai (Pagai & Sipora) list (no date)	514	boeloe'boe'	17	mand (grote, kleine, soorten)	basket (all sorts of)	keranjang (bermacam-macam)	320	321	323	FALSE			boeloe'boe'									BASKET	1539	https://concepticon.clld.org/parameters/1539
+the Mentawai (Pagai & Sipora) list (no date)	514	bolo'bo'	17	mand (grote, kleine, soorten)	basket (all sorts of)	keranjang (bermacam-macam)	320	321	323	FALSE			bolo'bo'									BASKET	1539	https://concepticon.clld.org/parameters/1539
+the Mentawai (Pagai & Sipora) list (no date)	515	alito	NA	lamp	lamp	lampu	321	322	324	FALSE												LAMP	625	https://concepticon.clld.org/parameters/625
+the Mentawai (Pagai & Sipora) list (no date)	516	toenam	NA	lampepit	lamp wick	sumbu lampu	322	323	-	FALSE												NA	NA	https://concepticon.clld.org/parameters/NA
+the Mentawai (Pagai & Sipora) list (no date)	517	oˈong	NA	fakkel	torch	suluh	323	324	325	FALSE												TORCH	1919	https://concepticon.clld.org/parameters/1919
+the Mentawai (Pagai & Sipora) list (no date)	517	kîsou	NA	fakkel	torch	suluh	323	324	325	FALSE												TORCH	1919	https://concepticon.clld.org/parameters/1919
+the Mentawai (Pagai & Sipora) list (no date)	525-527	maneoe	NA	koken <unsp.>	to cook	memasak	328	329	330	FALSE												COOK (SOMETHING)	1100	https://concepticon.clld.org/parameters/1100
+the Mentawai (Pagai & Sipora) list (no date)	528	masigoreng	NA	braden	to bake, to grill, to fry	membakar, panggang menggoreng (dengan minyak)	329	330	-	FALSE												BAKE	183	https://concepticon.clld.org/parameters/183
+the Mentawai (Pagai & Sipora) list (no date)	529	ipoekpoek	NA	poffen	to roast (in ashes)	bembam	330	331	331	FALSE												ROAST (SOMETHING)	1962	https://concepticon.clld.org/parameters/1962
+the Mentawai (Pagai & Sipora) list (no date)	530	râˈ	NA	roosteren	to grill, to roast	panggang	331	332	332	FALSE												ROAST (SOMETHING)	1962	https://concepticon.clld.org/parameters/1962
+the Mentawai (Pagai & Sipora) list (no date)	534	kan	NA	spijs(eten)	food	makanan	332	333	336	FALSE												FOOD	256	https://concepticon.clld.org/parameters/256
+the Mentawai (Pagai & Sipora) list (no date)	536	go͡elai	NA	toespijs	side-dish	lauk-pauk	334	335	-	FALSE												PREPARED FOOD	3542	https://concepticon.clld.org/parameters/3542
+the Mentawai (Pagai & Sipora) list (no date)	537	go͡elai	NA	groente	vegetables	sayuran	344	346	338	FALSE												VEGETABLES	924	https://concepticon.clld.org/parameters/924
+the Mentawai (Pagai & Sipora) list (no date)	539	iba	NA	vlees (rauw)	meat (raw)	daging (mentah)	335	336	-	FALSE												FLESH OR MEAT	2615	https://concepticon.clld.org/parameters/2615
+the Mentawai (Pagai & Sipora) list (no date)	539	akoela	NA	vlees (rauw)	meat (raw)	daging (mentah)	335	336	-	FALSE												FLESH OR MEAT	2615	https://concepticon.clld.org/parameters/2615
+the Mentawai (Pagai & Sipora) list (no date)	540	siniboˈ	18	gedroogd vlees	dried meat	dendeng	335	336	340	FALSE			tibo	to dry over a fire			derived from ""tibo""					MEAT	634	https://concepticon.clld.org/parameters/634
+the Mentawai (Pagai & Sipora) list (no date)	541	iba	19	vis (in het algemeen of in tegenstelling van vlees)	fish	ikan	336/404	337	341	TRUE			goeloek	the ray fish			The ray fist in Malay is called ""pare""					FISH	227	https://concepticon.clld.org/parameters/227
+the Mentawai (Pagai & Sipora) list (no date)	553	satsat	NA	wan	sieve for rice	nyiru	-	340	352	FALSE												SIEVE (TOOL)	3353	https://concepticon.clld.org/parameters/3353
+the Mentawai (Pagai & Sipora) list (no date)	563	garap	NA	zout (subst.)	salt	garam	343	345	360	TRUE												SALT	1274	https://concepticon.clld.org/parameters/1274
+the Mentawai (Pagai & Sipora) list (no date)	565	keliu	NA	sarong	sarong	sarung	415	418	369	FALSE												SARONG	2413	https://concepticon.clld.org/parameters/2413
+the Mentawai (Pagai & Sipora) list (no date)	567	sokkit	NA	broek	trousers	celana	416	419	371	FALSE												TROUSERS	809	https://concepticon.clld.org/parameters/809
+the Mentawai (Pagai & Sipora) list (no date)	569/570	lêppei	NA	baadje <unsp.>			-	420	372	FALSE												NA	NA	NA
+the Mentawai (Pagai & Sipora) list (no date)	571/572	kirit	NA	hoofddoek <unsp.>			-	421	373	FALSE												NA	NA	NA
+the Mentawai (Pagai & Sipora) list (no date)	576	sipsip	NA	ring	ring	cincin	419	423	-	FALSE												RING	1374	https://concepticon.clld.org/parameters/1374
+the Mentawai (Pagai & Sipora) list (no date)	577/578	lai-lai	NA	buikband <unsp.>			421	425	-	FALSE												NA	NA	NA
+the Mentawai (Pagai & Sipora) list (no date)	579	letsoe	20	band of ring (arm)	arm ring, bracelet	gelang tangan	420	424	377	FALSE			poetoe	a necklack of beads								BRACELET	1754	https://concepticon.clld.org/parameters/1754
+the Mentawai (Pagai & Sipora) list (no date)	579	raksok	20	band of ring (arm)	arm ring, bracelet	gelang tangan	420	424	377	FALSE			poetoe	a necklack of beads								BRACELET	1754	https://concepticon.clld.org/parameters/1754
+the Mentawai (Pagai & Sipora) list (no date)	580	letsoe	20	band of ring (enkel)	anklet	gelang laki	420	424	377	FALSE			poetoe	a necklack of beads								NA	NA	https://concepticon.clld.org/parameters/NA
+the Mentawai (Pagai & Sipora) list (no date)	580	raksok	20	band of ring (enkel)	anklet	gelang laki	420	424	377	FALSE			poetoe	a necklack of beads								NA	NA	https://concepticon.clld.org/parameters/NA
+the Mentawai (Pagai & Sipora) list (no date)	588	kabit	NA	schaamgordel (soorten)	loin cloth	cawat	425	429	382	FALSE												LOINCLOTH	1965	https://concepticon.clld.org/parameters/1965
+the Mentawai (Pagai & Sipora) list (no date)	589	komang	NA	katoenen weefsel (inheems, europees)	cotton fabric (local, European)	tenunan kapas (asli, Eropa)	426	430	383	FALSE												CLOTH	1616	https://concepticon.clld.org/parameters/1616
+the Mentawai (Pagai & Sipora) list (no date)	600	birak	NA	vlechten	to weave, to plait	menganyam	430	432	388	FALSE												BRAID (VERB) OR WEAVE (BASKET)	3294	https://concepticon.clld.org/parameters/3294
+the Mentawai (Pagai & Sipora) list (no date)	601	po͡etere	NA	touwdraaien	to twine a rope	memintal tali	431	433	389	FALSE												SPIN	121	https://concepticon.clld.org/parameters/121
+the Mentawai (Pagai & Sipora) list (no date)	602	tali	NA	touw	rope	tali	558	565	390	TRUE												ROPE	1218	https://concepticon.clld.org/parameters/1218
+the Mentawai (Pagai & Sipora) list (no date)	603	poele	NA	garen	thread, yarn	benang	559	566	-	FALSE												THREAD	1161	https://concepticon.clld.org/parameters/1161
+the Mentawai (Pagai & Sipora) list (no date)	604	manoebai	21	knopen (van netten, een knoop leggen)	to knot, to knit	merajut, menyirat	561	568	391	FALSE			manoebai				of nets					KNOT	760	https://concepticon.clld.org/parameters/760
+the Mentawai (Pagai & Sipora) list (no date)	604	peu-peu	21	knopen (van netten, een knoop leggen)	to knot, to knit	merajut, menyirat	561	568	391	FALSE			manoebai				of nets					KNOT	760	https://concepticon.clld.org/parameters/760
+the Mentawai (Pagai & Sipora) list (no date)	608	siloegoeˈ	NA	zwaard (houwer)	sabre	parang, kelewang	301	302	-	FALSE												SWORD	1535	https://concepticon.clld.org/parameters/1535
+the Mentawai (Pagai & Sipora) list (no date)	609	sakboek	NA	schede	sheath	sarung pedang	-	303	394	FALSE												SHEATH	3424	https://concepticon.clld.org/parameters/3424
+the Mentawai (Pagai & Sipora) list (no date)	613	rou-rou	NA	boog	bow	busur	306	309	398	FALSE												BOW	994	https://concepticon.clld.org/parameters/994
+the Mentawai (Pagai & Sipora) list (no date)	615	silogoei	NA	pijl	arrow	anak panah	306	309	399	FALSE												ARROW	977	https://concepticon.clld.org/parameters/977
+the Mentawai (Pagai & Sipora) list (no date)	617	korabbi	NA	schild	shield	perisai	307	310	401	FALSE												SHIELD	1064	https://concepticon.clld.org/parameters/1064
+the Mentawai (Pagai & Sipora) list (no date)	620	beboetoeet	22	geweer	rifle	bedil (senapan)	621	635	402	FALSE				thunderer								PISTOL	3881	https://concepticon.clld.org/parameters/3881
+the Mentawai (Pagai & Sipora) list (no date)	624	baba͡idjo	NA	slinger	sling	ali-ali	309	311	406	FALSE												SLING	387	https://concepticon.clld.org/parameters/387
+the Mentawai (Pagai & Sipora) list (no date)	626	pasaggak	NA	oorlog	war	perang	616	631	408	FALSE												WAR	935	https://concepticon.clld.org/parameters/935
+the Mentawai (Pagai & Sipora) list (no date)	627	saggak	NA	vijand	enemy	musuh	617	632	409	FALSE												ENEMY	1358	https://concepticon.clld.org/parameters/1358
+the Mentawai (Pagai & Sipora) list (no date)	629	pasaggak	NA	koppensnellen	to go head hunting	mengayau	625	639	410	FALSE												HUNT	1435	https://concepticon.clld.org/parameters/1435
+the Mentawai (Pagai & Sipora) list (no date)	630	paˈabat	NA	vrede	peace	damai	626	640	-	FALSE												PEACE	1338	https://concepticon.clld.org/parameters/1338
+the Mentawai (Pagai & Sipora) list (no date)	630	paˈaban	NA	vrede	peace	damai	626	640	-	FALSE												PEACE	1338	https://concepticon.clld.org/parameters/1338
+the Mentawai (Pagai & Sipora) list (no date)	634	taˈiom	23	zich overwonnen geven	to surrender	menyerah	627	641	-	FALSE				he cannot stand it any longer								SURRENDER	1696	https://concepticon.clld.org/parameters/1696
+the Mentawai (Pagai & Sipora) list (no date)	635	magege	NA	overwinning	victory	kemenangan	628	642	-	FALSE												VICTORY	783	https://concepticon.clld.org/parameters/783
+the Mentawai (Pagai & Sipora) list (no date)	637	pakoiniet	NA	gezant	delegate	utusan	631	645	415	FALSE												NA	NA	https://concepticon.clld.org/parameters/NA
+the Mentawai (Pagai & Sipora) list (no date)	645	toetoera	NA	pootstok	dibble	tugal	436	438	418	FALSE												DIBBLE STICK	3155	https://concepticon.clld.org/parameters/3155
+the Mentawai (Pagai & Sipora) list (no date)	652	papâkoeroe	NA	patjoel, hak	hoe	pacul	441	443	423	FALSE												HOE	284	https://concepticon.clld.org/parameters/284
+the Mentawai (Pagai & Sipora) list (no date)	653	mone	NA	tuin	garden	kebun	442	444	-	FALSE												GARDEN	586	https://concepticon.clld.org/parameters/586
+the Mentawai (Pagai & Sipora) list (no date)	659	sa͡ibri	NA	omheining	fence, hedge	pagar	446	448	427	FALSE												FENCE	1690	https://concepticon.clld.org/parameters/1690
+the Mentawai (Pagai & Sipora) list (no date)	660	oeremen	NA	gewas	vegetation	tumbuhan	447	449	-	FALSE												PLANT (VEGETATION)	653	https://concepticon.clld.org/parameters/653
+the Mentawai (Pagai & Sipora) list (no date)	662/663	mangarap	NA	zaaien <unsp.>	sow	tabur	448	450	429	FALSE												SOW SEEDS	748	https://concepticon.clld.org/parameters/748
+the Mentawai (Pagai & Sipora) list (no date)	664	karamen	NA	zaad	seed	benih	449	451	-	TRUE												SEED	714	https://concepticon.clld.org/parameters/714
+the Mentawai (Pagai & Sipora) list (no date)	665	mangoerep	NA	planten	to plant	menanam	450	452	430	FALSE												PLANT (SOMETHING)	1486	https://concepticon.clld.org/parameters/1486
+the Mentawai (Pagai & Sipora) list (no date)	668	mara	NA	rijp	ripe	masak, matang	451	453	433	FALSE												RIPE	178	https://concepticon.clld.org/parameters/178
+the Mentawai (Pagai & Sipora) list (no date)	669	mata	NA	onrijp	unripe	belum masak, belum matang, mentah	452	454	434	FALSE												UNRIPE	1958	https://concepticon.clld.org/parameters/1958
+the Mentawai (Pagai & Sipora) list (no date)	672	moeboeat kadjoe	NA	oogsten (van boomvruchten)	to gather	mengumpulkan (buah-buahan)	453	455	-	FALSE												HARVEST CROPS	1827	https://concepticon.clld.org/parameters/1827
+the Mentawai (Pagai & Sipora) list (no date)	679	atimoen	NA	komkommer	cucumber	ketimun	459	461	440	FALSE												CUCUMBER	496	https://concepticon.clld.org/parameters/496
+the Mentawai (Pagai & Sipora) list (no date)	681	oebe	NA	tabak	tobacco	tembakau	460	462	365	FALSE												TOBACCO	974	https://concepticon.clld.org/parameters/974
+the Mentawai (Pagai & Sipora) list (no date)	682	kole	NA	suikerriet	sugarcane	tebu	461	463	442	FALSE												SUGAR CANE	146	https://concepticon.clld.org/parameters/146
+the Mentawai (Pagai & Sipora) list (no date)	683	katsang	NA	aardnoot	peanut	kacang tanah	462	464	-	FALSE												GROUNDNUT (PEANUT)	595	https://concepticon.clld.org/parameters/595
+the Mentawai (Pagai & Sipora) list (no date)	685	laboe	NA	kalebas	gourd	labu kendi	463	466	444	FALSE												GOURD	411	https://concepticon.clld.org/parameters/411
+the Mentawai (Pagai & Sipora) list (no date)	686	gobi	NA	oebi (soorten)	species of tuber	ubi (macam-macam ubi)	464	467	445	FALSE												SWEET POTATO	159	https://concepticon.clld.org/parameters/159
+the Mentawai (Pagai & Sipora) list (no date)	686	laikit	NA	oebi (soorten)	species of tuber	ubi (macam-macam ubi)	464	467	445	FALSE												SWEET POTATO	159	https://concepticon.clld.org/parameters/159
+the Mentawai (Pagai & Sipora) list (no date)	688	paratsi	NA	cassave, katela	cassava	ketela	465	468	448	FALSE												CASSAVA	925	https://concepticon.clld.org/parameters/925
+the Mentawai (Pagai & Sipora) list (no date)	690	raro	NA	spaanse peper, tjabe	red pepper	cabe	466	469	449	FALSE												CHILI PEPPER	919	https://concepticon.clld.org/parameters/919
+the Mentawai (Pagai & Sipora) list (no date)	691-693	toitet	NA	kokos <unsp.>			467	470	450	FALSE												NA	NA	NA
+the Mentawai (Pagai & Sipora) list (no date)	695	pooela	NA	arenpalm, arenboom	sugarpalm, aren tree	pohon aren	468	471	452	FALSE												SUGAR PALM	3029	https://concepticon.clld.org/parameters/3029
+the Mentawai (Pagai & Sipora) list (no date)	697	soeat pooela	NA	legen (ongegist)	palm juice (unfermented)	nira	470	473	366	FALSE												NA	NA	https://concepticon.clld.org/parameters/NA
+the Mentawai (Pagai & Sipora) list (no date)	702	bola	NA	nipah	nipa palm	pohon nipah	481	485	454	FALSE												NA	NA	https://concepticon.clld.org/parameters/NA
+the Mentawai (Pagai & Sipora) list (no date)	703	saggai	NA	sago boem	sago tree	pohon sagu	482	486	359	FALSE												SAGO PALM	2372	https://concepticon.clld.org/parameters/2372
+the Mentawai (Pagai & Sipora) list (no date)	704	saggai	NA	sago	sago	sagu	483	487	-	FALSE												SAGO	2270	https://concepticon.clld.org/parameters/2270
+the Mentawai (Pagai & Sipora) list (no date)	705	bâtara	NA	katoen	cotton	kapas	479	483	-	FALSE												COTTON	1850	https://concepticon.clld.org/parameters/1850
+the Mentawai (Pagai & Sipora) list (no date)	707	padat	NA	pandan	pandanus	pandan	473	477	456	FALSE												PANDANUS	469	https://concepticon.clld.org/parameters/469
+the Mentawai (Pagai & Sipora) list (no date)	708	ambangan	NA	mangga	mango	mangga	474	478	457	FALSE												MANGO	2398	https://concepticon.clld.org/parameters/2398
+the Mentawai (Pagai & Sipora) list (no date)	709	pe͡igoe	NA	nangka	Artocarpus integrifolia, Jack fruit	nangka	475	479	458	FALSE												JACKFRUIT	2655	https://concepticon.clld.org/parameters/2655
+the Mentawai (Pagai & Sipora) list (no date)	710	kapa	NA	ramboetan	Nephelium lappaceum	rambutan	476	480	459	FALSE												NA	NA	https://concepticon.clld.org/parameters/NA
+the Mentawai (Pagai & Sipora) list (no date)	711	roriat	NA	doerian	Durio zibethinus	durian	477	481	460	FALSE												NA	NA	https://concepticon.clld.org/parameters/NA
+the Mentawai (Pagai & Sipora) list (no date)	712	djamboe	NA	djamboe	Eugenia	jambu	478	482	461	FALSE												GUAVA	3981	https://concepticon.clld.org/parameters/3981
+the Mentawai (Pagai & Sipora) list (no date)	713	samoeng	NA	langsat	Lansium domesticum	langsat	-	496	462	FALSE												NA	NA	https://concepticon.clld.org/parameters/NA
+the Mentawai (Pagai & Sipora) list (no date)	716	bago	NA	pisang (tamme)	banana	pisang	489	492	464	FALSE												BANANA	868	https://concepticon.clld.org/parameters/868
+the Mentawai (Pagai & Sipora) list (no date)	717	sogo͡enei	NA	pisang (wilde)	banana (wild)	pisang (liar)	489	492	464	FALSE												PLANTAIN	399	https://concepticon.clld.org/parameters/399
+the Mentawai (Pagai & Sipora) list (no date)	722	rîmau	NA	citroen	lemon	jeruk sitrun	493	497	-	FALSE												LEMON	3091	https://concepticon.clld.org/parameters/3091
+the Mentawai (Pagai & Sipora) list (no date)	727	nêteu	NA	tjangkoedoe	Morinda atrocarpus	mangkudu	499	504	-	FALSE												NA	NA	https://concepticon.clld.org/parameters/NA
+the Mentawai (Pagai & Sipora) list (no date)	729	kiniu	NA	kurkuma (koenjit)	Curcuma domestica	kunyit	500	505	467	FALSE												TURMERIC	2842	https://concepticon.clld.org/parameters/2842
+the Mentawai (Pagai & Sipora) list (no date)	731	saˈsaˈ	NA	rotan	rattan, cane	rotan	501	506	469	FALSE												RATTAN	2497	https://concepticon.clld.org/parameters/2497
+the Mentawai (Pagai & Sipora) list (no date)	732	okboek	NA	bamboe	bamboo	bambu	502	507	470	FALSE												BAMBOO	1927	https://concepticon.clld.org/parameters/1927
+the Mentawai (Pagai & Sipora) list (no date)	733	sineboe	NA	jonge bamboespruit	bamboo shoot, young sprout	rebung	-	508	471	FALSE												BAMBOO SHOOT	2494	https://concepticon.clld.org/parameters/2494
+the Mentawai (Pagai & Sipora) list (no date)	734	loina	NA	boom	tree	pohon	541	549	472	TRUE												TREE	906	https://concepticon.clld.org/parameters/906
+the Mentawai (Pagai & Sipora) list (no date)	736	mangârai loina	NA	klimmen in een boom	to climb a tree	memanjat pohon	-	-	474	FALSE												CLIMB	1102	https://concepticon.clld.org/parameters/1102
+the Mentawai (Pagai & Sipora) list (no date)	737	manâtara lêleu	NA	klimmen	to climb	memanjat	-	543	-	FALSE												CLIMB	1102	https://concepticon.clld.org/parameters/1102
+the Mentawai (Pagai & Sipora) list (no date)	739/740	râu	NA	tak <unsp.>	branch	cabang	542	550	477	FALSE												BRANCH	1531	https://concepticon.clld.org/parameters/1531
+the Mentawai (Pagai & Sipora) list (no date)	742-744	oengat	NA	wortel <unsp.>	root	akar	543	552	479	TRUE	root											ROOT	670	https://concepticon.clld.org/parameters/670
+the Mentawai (Pagai & Sipora) list (no date)	746	boeloek	NA	blad	leaf	daun	544	553	481	TRUE												LEAF	628	https://concepticon.clld.org/parameters/628
+the Mentawai (Pagai & Sipora) list (no date)	748	koelit	NA	schors	bark	kulit kayu	545	554	483	TRUE												BARK	1204	https://concepticon.clld.org/parameters/1204
+the Mentawai (Pagai & Sipora) list (no date)	750	eket	NA	sap	sap	air (buah, pohon)	546	555	485	FALSE												SAP	345	https://concepticon.clld.org/parameters/345
+the Mentawai (Pagai & Sipora) list (no date)	752	pinang	NA	pinang	Areca catechu LINN	pinang	496	500	361	FALSE												BETELNUT	217	https://concepticon.clld.org/parameters/217
+the Mentawai (Pagai & Sipora) list (no date)	753	sâbbai	NA	sirih	betel	sirih	497	501	362	FALSE												BETEL PEPPER VINE	177	https://concepticon.clld.org/parameters/177
+the Mentawai (Pagai & Sipora) list (no date)	754	moeno	NA	hars	resin	damar (umum)	548	556	-	FALSE												RESIN	664	https://concepticon.clld.org/parameters/664
+the Mentawai (Pagai & Sipora) list (no date)	755	moeno	NA	damar	resin (from the damar tree)	damar (khusus dari pohon damar)	503	509	486	FALSE												RESIN	664	https://concepticon.clld.org/parameters/664
+the Mentawai (Pagai & Sipora) list (no date)	757	toga	NA	spruit	sprout	tunas	549	557	-	FALSE												SPROUT (SHOOT)	3358	https://concepticon.clld.org/parameters/3358
+the Mentawai (Pagai & Sipora) list (no date)	758	ogo	NA	bloem	flower	bunga	550	558	488	TRUE												FLOWER	239	https://concepticon.clld.org/parameters/239
+the Mentawai (Pagai & Sipora) list (no date)	759	boea	NA	vrucht	fruit	buah	551	559	489	TRUE												FRUIT	1507	https://concepticon.clld.org/parameters/1507
+the Mentawai (Pagai & Sipora) list (no date)	761	koelit	NA	schil	rind, peel	kulit buah	552	560	491	FALSE												SKIN (OF FRUIT)	2373	https://concepticon.clld.org/parameters/2373
+the Mentawai (Pagai & Sipora) list (no date)	763	goilôoe	NA	pit	pip, stone	biji	553	561	493	FALSE												STONE (OF FRUIT)	1762	https://concepticon.clld.org/parameters/1762
+the Mentawai (Pagai & Sipora) list (no date)	763	loeîkoe	NA	pit	pip, stone	biji	553	561	493	FALSE												STONE (OF FRUIT)	1762	https://concepticon.clld.org/parameters/1762
+the Mentawai (Pagai & Sipora) list (no date)	764	baga	NA	vruchtvlees	the flesh of the fruit	daging buah	554	562	494	FALSE												FLESH	2259	https://concepticon.clld.org/parameters/2259
+the Mentawai (Pagai & Sipora) list (no date)	765	sangoti	24	tros	bunch	rangkai, tangkai, tandan	555	563	495	FALSE				bunch of banana, coconuts								BUNCH	1966	https://concepticon.clld.org/parameters/1966
+the Mentawai (Pagai & Sipora) list (no date)	766	toela	NA	olie	oil	minyak	556	564	496	FALSE												OIL (HYDROPHOBIC LIQUID)	2556	https://concepticon.clld.org/parameters/2556
+the Mentawai (Pagai & Sipora) list (no date)	770	seˈseˈ	NA	gras	grass	rumput	485	488	500	TRUE												GRASS	606	https://concepticon.clld.org/parameters/606
+the Mentawai (Pagai & Sipora) list (no date)	770	parou	NA	gras	grass	rumput	485	488	500	TRUE												GRASS	606	https://concepticon.clld.org/parameters/606
+the Mentawai (Pagai & Sipora) list (no date)	771	parou	NA	onkruid	weeds	rumput	486	489	500	FALSE												WEED	3288	https://concepticon.clld.org/parameters/3288
+the Mentawai (Pagai & Sipora) list (no date)	772	soa	NA	alang-alang	Imperata cylindria (Kunai grass)	lalang	487	490	501	FALSE												REED	659	https://concepticon.clld.org/parameters/659
+the Mentawai (Pagai & Sipora) list (no date)	772	soai	NA	alang-alang	Imperata cylindria (Kunai grass)	lalang	487	490	501	FALSE												REED	659	https://concepticon.clld.org/parameters/659
+the Mentawai (Pagai & Sipora) list (no date)	773	popo͡upou	NA	glagah	Saccharum spontaneum	gelagah	488	491	502	FALSE												REED	659	https://concepticon.clld.org/parameters/659
+the Mentawai (Pagai & Sipora) list (no date)	773	lambâet	NA	glagah	Saccharum spontaneum	gelagah	488	491	502	FALSE												REED	659	https://concepticon.clld.org/parameters/659
+the Mentawai (Pagai & Sipora) list (no date)	774	tarimese	NA	dier, beest	animal, beast	binatang	345	347	503	TRUE	animal											ANIMAL	619	https://concepticon.clld.org/parameters/619
+the Mentawai (Pagai & Sipora) list (no date)	775	toga	NA	jong van dier (kalf, veulen, kuiken, etc.)	young of animal (calf, foal, chicken, etc.)	anak binatang	346	348	504	FALSE												ANIMAL	619	https://concepticon.clld.org/parameters/619
+the Mentawai (Pagai & Sipora) list (no date)	778	leilei	NA	staart	tail	ekor	355	357	506	TRUE												TAIL	1220	https://concepticon.clld.org/parameters/1220
+the Mentawai (Pagai & Sipora) list (no date)	779	dere	NA	poot	paw	kaki binatang	347	349	507	FALSE												PAW	2965	https://concepticon.clld.org/parameters/2965
+the Mentawai (Pagai & Sipora) list (no date)	780	soengai	NA	hoef	hoof	kuku binatang	348	350	508	FALSE												HOOF	152	https://concepticon.clld.org/parameters/152
+the Mentawai (Pagai & Sipora) list (no date)	781	soengai	NA	klauw	claw	cakar	349	351	509	TRUE												CLAW	72	https://concepticon.clld.org/parameters/72
+the Mentawai (Pagai & Sipora) list (no date)	786	kapoˈ	NA	vleugel	wing	sayap	351	353	514	TRUE												WING	1257	https://concepticon.clld.org/parameters/1257
+the Mentawai (Pagai & Sipora) list (no date)	786	kepa	NA	vleugel	wing	sayap	351	353	514	TRUE												WING	1257	https://concepticon.clld.org/parameters/1257
+the Mentawai (Pagai & Sipora) list (no date)	787	boeloeˈ	NA	veren	feather	bulu burung	352	354	515	FALSE												FEATHER	1201	https://concepticon.clld.org/parameters/1201
+the Mentawai (Pagai & Sipora) list (no date)	789	roemoen	NA	nest	nest	sarang	353	355	517	FALSE												NEST	539	https://concepticon.clld.org/parameters/539
+the Mentawai (Pagai & Sipora) list (no date)	790	adjolo	NA	ei	egg	telur	354	356	518	TRUE												EGG	744	https://concepticon.clld.org/parameters/744
+the Mentawai (Pagai & Sipora) list (no date)	794	sakoilo	25	tam varken	domesticated pig	babi	356	358	522	FALSE			sikeu	boar								PIG	1337	https://concepticon.clld.org/parameters/1337
+the Mentawai (Pagai & Sipora) list (no date)	794	sakoilo	25	tam varken	domesticated pig	babi	356	358	522	FALSE			babui	castrated boar								PIG	1337	https://concepticon.clld.org/parameters/1337
+the Mentawai (Pagai & Sipora) list (no date)	794	sakoilo	25	tam varken	domesticated pig	babi	356	358	522	FALSE			takabelai	sow			before she has produced any offspring					PIG	1337	https://concepticon.clld.org/parameters/1337
+the Mentawai (Pagai & Sipora) list (no date)	794	sakoilo	25	tam varken	domesticated pig	babi	356	358	522	FALSE			sigelak				after she has produced her first litter					PIG	1337	https://concepticon.clld.org/parameters/1337
+the Mentawai (Pagai & Sipora) list (no date)	797	djoegoe	NA	knorren	to grunt	menggeram	357	359	525	FALSE												NA	NA	https://concepticon.clld.org/parameters/NA
+the Mentawai (Pagai & Sipora) list (no date)	809	simatooera	NA	hert	deer	rusa	365	367	532	FALSE												DEER	1936	https://concepticon.clld.org/parameters/1936
+the Mentawai (Pagai & Sipora) list (no date)	811	djoˈdjoˈ	NA	hond	dog	anjing	366	368	534	TRUE												DOG	2009	https://concepticon.clld.org/parameters/2009
+the Mentawai (Pagai & Sipora) list (no date)	812	masiogongi	NA	blaffen	to bark	menyalak	367	369	535	FALSE												BARKING	1206	https://concepticon.clld.org/parameters/1206
+the Mentawai (Pagai & Sipora) list (no date)	813	mao	NA	kat, poes	cat	kucing	368	370	536	FALSE												CAT	1208	https://concepticon.clld.org/parameters/1208
+the Mentawai (Pagai & Sipora) list (no date)	814	amoemaoan	NA	miauwen	to miaow	mengeong	369	371	537	FALSE												NA	NA	https://concepticon.clld.org/parameters/NA
+the Mentawai (Pagai & Sipora) list (no date)	824	limêndeu	26	duif (soorten)	pigeon	burung merpati	376	378	545	FALSE			limêndeu									DOVE	1853	https://concepticon.clld.org/parameters/1853
+the Mentawai (Pagai & Sipora) list (no date)	824	ngoroet	26	duif (soorten)	pigeon	burung merpati	376	378	545	FALSE			ngoroet									DOVE	1853	https://concepticon.clld.org/parameters/1853
+the Mentawai (Pagai & Sipora) list (no date)	824	oeke-oeke	26	duif (soorten)	pigeon	burung merpati	376	378	545	FALSE			oeke-oeke									DOVE	1853	https://concepticon.clld.org/parameters/1853
+the Mentawai (Pagai & Sipora) list (no date)	826	gougou	NA	hoen, kip	hen, chicken	ayam	378	380	547	FALSE												CHICKEN	1318	https://concepticon.clld.org/parameters/1318
+the Mentawai (Pagai & Sipora) list (no date)	827	sibaukatiti	27	kuiken	chick	anak ayam	378	380	-	FALSE			abelangan leilei	when the tail feathers appear								CHICK	2512	https://concepticon.clld.org/parameters/2512
+the Mentawai (Pagai & Sipora) list (no date)	827	abelangan leilei	27	kuiken	chick	anak ayam	378	380	-	FALSE			abelangan leilei	when the tail feathers appear								CHICK	2512	https://concepticon.clld.org/parameters/2512
+the Mentawai (Pagai & Sipora) list (no date)	828	manosa	28	hen	hen	ayam betina	378	380	547	FALSE			manosa	not egg-laying								HEN	1514	https://concepticon.clld.org/parameters/1514
+the Mentawai (Pagai & Sipora) list (no date)	828	sitoei	28	hen	hen	ayam betina	378	380	547	FALSE			sitoei	egg-laying								HEN	1514	https://concepticon.clld.org/parameters/1514
+the Mentawai (Pagai & Sipora) list (no date)	830	silaloe	29	haan	cock, rooster	ayam jantan	378	380	547	FALSE			silaloe	full grown								ROOSTER	1511	https://concepticon.clld.org/parameters/1511
+the Mentawai (Pagai & Sipora) list (no date)	830	sikalila	29	haan	cock, rooster	ayam jantan	378	380	547	FALSE			sikaila	not yet full grown								ROOSTER	1511	https://concepticon.clld.org/parameters/1511
+the Mentawai (Pagai & Sipora) list (no date)	834	galik	30	papegaai	parrot	burung nuri	379	381	550	FALSE				grey								PARROT	882	https://concepticon.clld.org/parameters/882
+the Mentawai (Pagai & Sipora) list (no date)	835	anderek	NA	parkiet	parakeet, budgerigar	burung bayan	380	382	551	FALSE												PARAKEET	886	https://concepticon.clld.org/parameters/886
+the Mentawai (Pagai & Sipora) list (no date)	836	lagi-lagi	NA	zwaluw	swallow	burung layang-layang	381	383	-	FALSE												SWALLOW (BIRD)	3077	https://concepticon.clld.org/parameters/3077
+the Mentawai (Pagai & Sipora) list (no date)	840	kailea	31	reiger	heron	burung bangau	382	384	555	FALSE				black and white								HERON	758	https://concepticon.clld.org/parameters/758
+the Mentawai (Pagai & Sipora) list (no date)	840	seggoe	31	reiger	heron	burung bangau	382	384	555	FALSE				black and white								HERON	758	https://concepticon.clld.org/parameters/758
+the Mentawai (Pagai & Sipora) list (no date)	842	popo	NA	uil	owl	burung hantu	-	-	557	FALSE												OWL	735	https://concepticon.clld.org/parameters/735
+the Mentawai (Pagai & Sipora) list (no date)	843	piligi	32	kiekendief	kite (bird)	burung rajawali	383	385	-	FALSE			manjang	sea-eagle								EAGLE	1905	https://concepticon.clld.org/parameters/1905
+the Mentawai (Pagai & Sipora) list (no date)	843	piligi	32	kiekendief	kite (bird)	burung rajawali	383	385	-	FALSE			silabbai	diving-bird								EAGLE	1905	https://concepticon.clld.org/parameters/1905
+the Mentawai (Pagai & Sipora) list (no date)	844	oema	33	vogel (in het algemeen en andere soorten)	bird	burung	350	352	558	TRUE			kiaibok		beo							BIRD	937	https://concepticon.clld.org/parameters/937
+the Mentawai (Pagai & Sipora) list (no date)	845	loga	NA	eekhoorn	squirrel	bajing, tupai	384	386	559	FALSE												SQUIRREL	1628	https://concepticon.clld.org/parameters/1628
+the Mentawai (Pagai & Sipora) list (no date)	846	letoewang	NA	vleermuis	bat	kelelawar	385	387	560	FALSE												BAT	1793	https://concepticon.clld.org/parameters/1793
+the Mentawai (Pagai & Sipora) list (no date)	849	siamtsoera	NA	kidang, ree	deer	kijang	387	389	562	FALSE												DEER	1936	https://concepticon.clld.org/parameters/1936
+the Mentawai (Pagai & Sipora) list (no date)	850	simatsoera	NA	dwerghert, kancil	cherrotain mousedeer	kancil	388	390	563	FALSE												DEER	1936	https://concepticon.clld.org/parameters/1936
+the Mentawai (Pagai & Sipora) list (no date)	851	biroet	34	muis	mouse	tikus	389	391	564	FALSE			biroet									MOUSE	1491	https://concepticon.clld.org/parameters/1491
+the Mentawai (Pagai & Sipora) list (no date)	851	tei	34	muis	mouse	tikus	389	391	564	FALSE			tei									MOUSE	1491	https://concepticon.clld.org/parameters/1491
+the Mentawai (Pagai & Sipora) list (no date)	851	njongnjang	34	muis	mouse	tikus	389	391	564	FALSE			njongnjang									MOUSE	1491	https://concepticon.clld.org/parameters/1491
+the Mentawai (Pagai & Sipora) list (no date)	851	kaboe-kaboe	34	muis	mouse	tikus	389	391	564	FALSE			kaboe-kaboe									MOUSE	1491	https://concepticon.clld.org/parameters/1491
+the Mentawai (Pagai & Sipora) list (no date)	851	sorai	34	muis	mouse	tikus	389	391	564	FALSE			soroai									MOUSE	1491	https://concepticon.clld.org/parameters/1491
+the Mentawai (Pagai & Sipora) list (no date)	851	sîsili	34	muis	mouse	tikus	389	391	564	FALSE			sîsili									MOUSE	1491	https://concepticon.clld.org/parameters/1491
+the Mentawai (Pagai & Sipora) list (no date)	851	lamasoed	34	muis	mouse	tikus	389	391	564	FALSE			lamasoed									MOUSE	1491	https://concepticon.clld.org/parameters/1491
+the Mentawai (Pagai & Sipora) list (no date)	852	biroet	34	rat	rat	tikus	390	392	-	FALSE			biroet									RAT	1490	https://concepticon.clld.org/parameters/1490
+the Mentawai (Pagai & Sipora) list (no date)	852	tei	34	rat	rat	tikus	390	392	-	FALSE			tei									RAT	1490	https://concepticon.clld.org/parameters/1490
+the Mentawai (Pagai & Sipora) list (no date)	852	njongnjang	34	rat	rat	tikus	390	392	-	FALSE			njongnjang									RAT	1490	https://concepticon.clld.org/parameters/1490
+the Mentawai (Pagai & Sipora) list (no date)	852	kaboe-kaboe	34	rat	rat	tikus	390	392	-	FALSE			kaboe-kaboe									RAT	1490	https://concepticon.clld.org/parameters/1490
+the Mentawai (Pagai & Sipora) list (no date)	852	sorai	34	rat	rat	tikus	390	392	-	FALSE			soroai									RAT	1490	https://concepticon.clld.org/parameters/1490
+the Mentawai (Pagai & Sipora) list (no date)	852	sîsili	34	rat	rat	tikus	390	392	-	FALSE			sîsili									RAT	1490	https://concepticon.clld.org/parameters/1490
+the Mentawai (Pagai & Sipora) list (no date)	852	lamasoed	34	rat	rat	tikus	390	392	-	FALSE			lamasoed									RAT	1490	https://concepticon.clld.org/parameters/1490
+the Mentawai (Pagai & Sipora) list (no date)	854	sitoet	35	aap	monkey	monyet, kera	392	394	566	FALSE			siteoet	with red fur								MONKEY	1350	https://concepticon.clld.org/parameters/1350
+the Mentawai (Pagai & Sipora) list (no date)	854	masepsep	35	aap	monkey	monyet, kera	392	394	566	FALSE			masepsep	with black fur								MONKEY	1350	https://concepticon.clld.org/parameters/1350
+the Mentawai (Pagai & Sipora) list (no date)	854	atapaipai	35	aap	monkey	monyet, kera	392	394	566	FALSE			atapaipai	with a long tail								MONKEY	1350	https://concepticon.clld.org/parameters/1350
+the Mentawai (Pagai & Sipora) list (no date)	854	bîlou	35	aap	monkey	monyet, kera	392	394	566	FALSE			bîlou	without a tail								MONKEY	1350	https://concepticon.clld.org/parameters/1350
+the Mentawai (Pagai & Sipora) list (no date)	861	pasileked	36	net	net	jala	560	567	573	FALSE			pasileked	all kinds of fishing gear								NET (FOR CATCHING)	2653	https://concepticon.clld.org/parameters/2653
+the Mentawai (Pagai & Sipora) list (no date)	861	djarid	36	net	net	jala	560	567	573	FALSE			djarid	all kinds of fishing gear								NET (FOR CATCHING)	2653	https://concepticon.clld.org/parameters/2653
+the Mentawai (Pagai & Sipora) list (no date)	861	panoe	36	net	net	jala	560	567	573	FALSE			panoe	all kinds of fishing gear								NET (FOR CATCHING)	2653	https://concepticon.clld.org/parameters/2653
+the Mentawai (Pagai & Sipora) list (no date)	861	soebba	36	net	net	jala	560	567	573	FALSE			soebba	all kinds of fishing gear								NET (FOR CATCHING)	2653	https://concepticon.clld.org/parameters/2653
+the Mentawai (Pagai & Sipora) list (no date)	861	lêgeu	36	net	net	jala	560	567	573	FALSE			lêgeu	all kinds of fishing gear								NET (FOR CATCHING)	2653	https://concepticon.clld.org/parameters/2653
+the Mentawai (Pagai & Sipora) list (no date)	861	lolôboeroe	36	net	net	jala	560	567	573	FALSE			lolôboeroe	all kinds of fishing gear								NET (FOR CATCHING)	2653	https://concepticon.clld.org/parameters/2653
+the Mentawai (Pagai & Sipora) list (no date)	861	pana-pana	36	net	net	jala	560	567	573	FALSE			pana-pana	all kinds of fishing gear								NET (FOR CATCHING)	2653	https://concepticon.clld.org/parameters/2653
+the Mentawai (Pagai & Sipora) list (no date)	861	sinalidjat	36	net	net	jala	560	567	573	FALSE			sinalidjat	all kinds of fishing gear								NET (FOR CATCHING)	2653	https://concepticon.clld.org/parameters/2653
+the Mentawai (Pagai & Sipora) list (no date)	861	patara	36	net	net	jala	560	567	573	FALSE			patara	all kinds of fishing gear								NET (FOR CATCHING)	2653	https://concepticon.clld.org/parameters/2653
+the Mentawai (Pagai & Sipora) list (no date)	861	kabâbili	36	net	net	jala	560	567	573	FALSE			kabâbili	all kinds of fishing gear								NET (FOR CATCHING)	2653	https://concepticon.clld.org/parameters/2653
+the Mentawai (Pagai & Sipora) list (no date)	864	lila	NA	rog	ray	ikan pari	-	407	576	FALSE												STINGRAY	1910	https://concepticon.clld.org/parameters/1910
+the Mentawai (Pagai & Sipora) list (no date)	865	ilek	NA	aal	eel	belut	405	408	577	FALSE												FRESHWATER EEL	1013	https://concepticon.clld.org/parameters/1013
+the Mentawai (Pagai & Sipora) list (no date)	865	ileng	NA	aal	eel	belut	405	408	577	FALSE												FRESHWATER EEL	1013	https://concepticon.clld.org/parameters/1013
+the Mentawai (Pagai & Sipora) list (no date)	866	goset	NA	luis	louse	kutu	393	395	578	TRUE												LOUSE	1392	https://concepticon.clld.org/parameters/1392
+the Mentawai (Pagai & Sipora) list (no date)	869	kanang	37	neet	nit	telur kutu	394	396	581	FALSE			boeboek									NIT	267	https://concepticon.clld.org/parameters/267
+the Mentawai (Pagai & Sipora) list (no date)	871	tailakka	NA	spin	spider	laba-laba	396	398	583	FALSE												SPIDER	843	https://concepticon.clld.org/parameters/843
+the Mentawai (Pagai & Sipora) list (no date)	872	legoe laibo	NA	vlieg	fly	lalat	397	399	584	FALSE												FLY (INSECT)	1504	https://concepticon.clld.org/parameters/1504
+the Mentawai (Pagai & Sipora) list (no date)	877	legoe sidjô	38	muskiet	mosquito	nyamuk	389	400	589	FALSE			singitngit	a small kind of mosquito								MOSQUITO	1509	https://concepticon.clld.org/parameters/1509
+the Mentawai (Pagai & Sipora) list (no date)	878	toeboeroet	NA	kapel, vlinder	butterfly	kupu-kupu	399	401	590	FALSE												BUTTERFLY	1791	https://concepticon.clld.org/parameters/1791
+the Mentawai (Pagai & Sipora) list (no date)	879	leîti	NA	rups	caterpillar	ulat (bulu)	400	402	592	FALSE												CATERPILLAR	2247	https://concepticon.clld.org/parameters/2247
+the Mentawai (Pagai & Sipora) list (no date)	881	sin	NA	sprinkhaan	grasshopper	belalang	401	403	593	FALSE												GRASSHOPPER	607	https://concepticon.clld.org/parameters/607
+the Mentawai (Pagai & Sipora) list (no date)	884	sigep	39	mier (in soorten)	ant	macam-macam semut	402	404	596	FALSE			gaba-gaba	red ants								ANT	587	https://concepticon.clld.org/parameters/587
+the Mentawai (Pagai & Sipora) list (no date)	884	sigep	39	mier (in soorten)	ant	macam-macam semut	402	404	596	FALSE			berêkei	large black ant								ANT	587	https://concepticon.clld.org/parameters/587
+the Mentawai (Pagai & Sipora) list (no date)	884	sigep	39	mier (in soorten)	ant	macam-macam semut	402	404	596	FALSE			silô	small black ants								ANT	587	https://concepticon.clld.org/parameters/587
+the Mentawai (Pagai & Sipora) list (no date)	884	sigep	39	mier (in soorten)	ant	macam-macam semut	402	404	596	FALSE			tinem	small black ants								ANT	587	https://concepticon.clld.org/parameters/587
+the Mentawai (Pagai & Sipora) list (no date)	884	sigep	39	mier (in soorten)	ant	macam-macam semut	402	404	596	FALSE			bolotsai	small black ants								ANT	587	https://concepticon.clld.org/parameters/587
+the Mentawai (Pagai & Sipora) list (no date)	884	sigep	39	mier (in soorten)	ant	macam-macam semut	402	404	596	FALSE			sigep rango	small black ants								ANT	587	https://concepticon.clld.org/parameters/587
+the Mentawai (Pagai & Sipora) list (no date)	886	saba	40	slang	snake	ular	403	405	598	TRUE			saba	python								SNAKE	730	https://concepticon.clld.org/parameters/730
+the Mentawai (Pagai & Sipora) list (no date)	886	sipe'dang	40	slang	snake	ular	403	405	598	TRUE			sipe'dang	said to be poisonous (snake)								SNAKE	730	https://concepticon.clld.org/parameters/730
+the Mentawai (Pagai & Sipora) list (no date)	886	simaleu	40	slang	snake	ular	403	405	598	TRUE			simaleu	said to be poisonous (snake)								SNAKE	730	https://concepticon.clld.org/parameters/730
+the Mentawai (Pagai & Sipora) list (no date)	886	koemoe	40	slang	snake	ular	403	405	598	TRUE			koemoe	said to be poisonous (snake)								SNAKE	730	https://concepticon.clld.org/parameters/730
+the Mentawai (Pagai & Sipora) list (no date)	886	boe'boe'	40	slang	snake	ular	403	405	598	TRUE			boe'boe'	said to be poisonous (snake)								SNAKE	730	https://concepticon.clld.org/parameters/730
+the Mentawai (Pagai & Sipora) list (no date)	886	kabtian	40	slang	snake	ular	403	405	598	TRUE			kabtian									SNAKE	730	https://concepticon.clld.org/parameters/730
+the Mentawai (Pagai & Sipora) list (no date)	886	soepainang	40	slang	snake	ular	403	405	598	TRUE			soepainang									SNAKE	730	https://concepticon.clld.org/parameters/730
+the Mentawai (Pagai & Sipora) list (no date)	888	komentsaba	NA	duizendpoot	centipede	lipan	-	406	600	FALSE												CENTIPEDE	1974	https://concepticon.clld.org/parameters/1974
+the Mentawai (Pagai & Sipora) list (no date)	891	balak	NA	worm	worm	cacing	414	417	603	TRUE												WORM	1219	https://concepticon.clld.org/parameters/1219
+the Mentawai (Pagai & Sipora) list (no date)	892	toeˈtoeˈ	NA	garnaal	shrimp	udang	406	409	604	FALSE												SHRIMP	2349	https://concepticon.clld.org/parameters/2349
+the Mentawai (Pagai & Sipora) list (no date)	893	agau	NA	krab	crab	kepiting	407	410	605	FALSE												CRAB	2348	https://concepticon.clld.org/parameters/2348
+the Mentawai (Pagai & Sipora) list (no date)	894	toktok akenen	41	schelp	shell	kulit kerang	408	411	606	FALSE			ragi	large (in size)								SHELL	598	https://concepticon.clld.org/parameters/598
+the Mentawai (Pagai & Sipora) list (no date)	894	ragi	41	schelp	shell	kulit kerang	408	411	606	FALSE			ragi	large (in size)								SHELL	598	https://concepticon.clld.org/parameters/598
+the Mentawai (Pagai & Sipora) list (no date)	896	koerid	NA	kikvors	frog	katak	409	412	608	FALSE												FROG	503	https://concepticon.clld.org/parameters/503
+the Mentawai (Pagai & Sipora) list (no date)	898	soepsoep	NA	hagedis	lizard	kadal	410	413	610	FALSE												LIZARD	632	https://concepticon.clld.org/parameters/632
+the Mentawai (Pagai & Sipora) list (no date)	898	tjetjak	NA	hagedis	lizard	kadal	410	413	610	FALSE												LIZARD	632	https://concepticon.clld.org/parameters/632
+the Mentawai (Pagai & Sipora) list (no date)	899	bate	NA	varaan, leguaan	iguana	biawak	412	415	611	FALSE												IGUANA	1578	https://concepticon.clld.org/parameters/1578
+the Mentawai (Pagai & Sipora) list (no date)	900	sikoinan	NA	krokodil	crocodile	buaya	411	414	612	FALSE												CROCODILE	1857	https://concepticon.clld.org/parameters/1857
+the Mentawai (Pagai & Sipora) list (no date)	901	touloe	NA	landschildpad	tortoise	kura-kura	413	416	613	FALSE												TORTOISE	895	https://concepticon.clld.org/parameters/895
+the Mentawai (Pagai & Sipora) list (no date)	901	naning	NA	landschildpad	tortoise	kura-kura	413	416	613	FALSE												TORTOISE	895	https://concepticon.clld.org/parameters/895
+the Mentawai (Pagai & Sipora) list (no date)	902	ibat laut	NA	zeeschildpad	turtle	penyu	413	416	614	FALSE												TURTLE	112	https://concepticon.clld.org/parameters/112
+the Mentawai (Pagai & Sipora) list (no date)	903	manoea	NA	heelal	universe	alam semesta	505	511	-	FALSE												NA	NA	https://concepticon.clld.org/parameters/NA
+the Mentawai (Pagai & Sipora) list (no date)	905	manoea	NA	hemel	sky	langit	507	512	615	TRUE												SKY	1732	https://concepticon.clld.org/parameters/1732
+the Mentawai (Pagai & Sipora) list (no date)	906	soeloe	NA	zon	sun	matahari	508	513	616	TRUE												SUN	1343	https://concepticon.clld.org/parameters/1343
+the Mentawai (Pagai & Sipora) list (no date)	907	gepgep	NA	zonsverduistering	sun eclipse	gerhana matahari	509	514	617	FALSE												ECLIPSE	2285	https://concepticon.clld.org/parameters/2285
+the Mentawai (Pagai & Sipora) list (no date)	908	lago	NA	maan	moon	bulan	510	515	618	TRUE												MOON	1313	https://concepticon.clld.org/parameters/1313
+the Mentawai (Pagai & Sipora) list (no date)	910	lago	NA	maand (namen der maanden)	month (name of the months)	bulan (nama-nama bulan)	784	806	-	FALSE												MONTH	1370	https://concepticon.clld.org/parameters/1370
+the Mentawai (Pagai & Sipora) list (no date)	911	gepgep	NA	maansverduistering	moon eclipse	gerhana bulan	511	516	620	FALSE												ECLIPSE	2285	https://concepticon.clld.org/parameters/2285
+the Mentawai (Pagai & Sipora) list (no date)	912	panjanjat	42	ster (als ze namen hebben, die opgeven)	star	bintang	512	517	621	TRUE			palatoetoenau	morning star/evening star								STAR	1430	https://concepticon.clld.org/parameters/1430
+the Mentawai (Pagai & Sipora) list (no date)	912	panjanjat	42	ster (als ze namen hebben, die opgeven)	star	bintang	512	517	621	TRUE			sikaroeroekat	perhaps the constellation of the scorpion								STAR	1430	https://concepticon.clld.org/parameters/1430
+the Mentawai (Pagai & Sipora) list (no date)	917	polak	NA	aarde (aardbol)	earth (globe)	bumi	504	510	624	FALSE												WORLD	965	https://concepticon.clld.org/parameters/965
+the Mentawai (Pagai & Sipora) list (no date)	919	oerat	NA	regen	rain	hujan	513	518	626	TRUE												RAINING OR RAIN	2108	https://concepticon.clld.org/parameters/2108
+the Mentawai (Pagai & Sipora) list (no date)	920	loˈloˈ	NA	dauw	dew	embun	-	519	627	FALSE												DEW	1977	https://concepticon.clld.org/parameters/1977
+the Mentawai (Pagai & Sipora) list (no date)	921	tanai roesa	NA	wolk	cloud	awan	514	520	628	TRUE												CLOUD	1489	https://concepticon.clld.org/parameters/1489
+the Mentawai (Pagai & Sipora) list (no date)	923	linoe	NA	regenboog	rainbow	pelangi	515	521	630	FALSE												RAINBOW	1733	https://concepticon.clld.org/parameters/1733
+the Mentawai (Pagai & Sipora) list (no date)	924	lêlegoe	NA	donder	thunder	guruh	516	522	631	FALSE												THUNDER	1150	https://concepticon.clld.org/parameters/1150
+the Mentawai (Pagai & Sipora) list (no date)	927	teteoe	NA	aardbeving	earthquake	gempa bumi	518	524	633	FALSE												EARTHQUAKE	6	https://concepticon.clld.org/parameters/6
+the Mentawai (Pagai & Sipora) list (no date)	928	roesa	NA	wind	wind	angin	519	525	634	TRUE												WIND	960	https://concepticon.clld.org/parameters/960
+the Mentawai (Pagai & Sipora) list (no date)	929	talabari	NA	storm	storm	badai, angin ribut	520	526	635	FALSE												STORM	858	https://concepticon.clld.org/parameters/858
+the Mentawai (Pagai & Sipora) list (no date)	930	oinan	NA	water	water	air	521	527	636	TRUE												WATER	948	https://concepticon.clld.org/parameters/948
+the Mentawai (Pagai & Sipora) list (no date)	931	koat	NA	zee	sea	laut	522	528	637	TRUE	sea (ocean)											SEA	1474	https://concepticon.clld.org/parameters/1474
+the Mentawai (Pagai & Sipora) list (no date)	932	magarak odjoe	NA	eb	ebb	surut	523	529	-	FALSE												CEASE	1928	https://concepticon.clld.org/parameters/1928
+the Mentawai (Pagai & Sipora) list (no date)	934	makeroe odjoe	NA	vloed	flood, tide	pasang	524	530	-	FALSE												HIGH TIDE	613	https://concepticon.clld.org/parameters/613
+the Mentawai (Pagai & Sipora) list (no date)	935	onoe	NA	golf	wave	ombak	525	531	639	FALSE												WAVE	978	https://concepticon.clld.org/parameters/978
+the Mentawai (Pagai & Sipora) list (no date)	936	maˈ onoe	NA	branding	breakers, surf	gelombang	526	532	-	FALSE												SURF	3132	https://concepticon.clld.org/parameters/3132
+the Mentawai (Pagai & Sipora) list (no date)	937	goegoeng	NA	baai	bay	teluk	527	533	640	FALSE												BAY	663	https://concepticon.clld.org/parameters/663
+the Mentawai (Pagai & Sipora) list (no date)	938	boege	NA	strand	beach	pantai	528	534	641	FALSE												BEACH	3460	https://concepticon.clld.org/parameters/3460
+the Mentawai (Pagai & Sipora) list (no date)	940	noeinoedjat	NA	zandbank	sandbank	busung pasir	530	536	642	FALSE												NA	NA	https://concepticon.clld.org/parameters/NA
+the Mentawai (Pagai & Sipora) list (no date)	940	padârai	NA	zandbank	sandbank	busung pasir	530	536	642	FALSE												NA	NA	https://concepticon.clld.org/parameters/NA
+the Mentawai (Pagai & Sipora) list (no date)	941	noeinoedjat	NA	koraalrif	coral reef	karang	531	537	643	FALSE												REEF	660	https://concepticon.clld.org/parameters/660
+the Mentawai (Pagai & Sipora) list (no date)	941	padârai	NA	koraalrif	coral reef	karang	531	537	643	FALSE												REEF	660	https://concepticon.clld.org/parameters/660
+the Mentawai (Pagai & Sipora) list (no date)	942	kapi	NA	land (in tegenstelling van zee)	land	darat	532	538	644	FALSE												LAND	626	https://concepticon.clld.org/parameters/626
+the Mentawai (Pagai & Sipora) list (no date)	944	noesa	NA	eiland	island	pulau	533	539	645	FALSE												ISLAND	622	https://concepticon.clld.org/parameters/622
+the Mentawai (Pagai & Sipora) list (no date)	946	toenang	NA	landtong, kaap	cape	tanjung, ujung	535	541	646	FALSE												CAPE	1662	https://concepticon.clld.org/parameters/1662
+the Mentawai (Pagai & Sipora) list (no date)	947	lêleu	NA	berg	mountain	gunung	536	542	647	TRUE												MOUNTAIN	639	https://concepticon.clld.org/parameters/639
+the Mentawai (Pagai & Sipora) list (no date)	950	toeloetoet	NA	dalen	to go down, to descend	turun	-	546	650	FALSE												GO DOWN (DESCEND)	2014	https://concepticon.clld.org/parameters/2014
+the Mentawai (Pagai & Sipora) list (no date)	951	simagaktoe	NA	vlakte	plain	dataran	537	544	651	FALSE												PLAIN	652	https://concepticon.clld.org/parameters/652
+the Mentawai (Pagai & Sipora) list (no date)	951	simasâmai	NA	vlakte	plain	dataran	537	544	651	FALSE												PLAIN	652	https://concepticon.clld.org/parameters/652
+the Mentawai (Pagai & Sipora) list (no date)	952	goeloegoe	NA	dal	valley	lembah	538	545	652	FALSE												VALLEY	921	https://concepticon.clld.org/parameters/921
+the Mentawai (Pagai & Sipora) list (no date)	955	lêleu	NA	bos	forest, woods	hutan	539	547	655	TRUE	woods											FOREST	420	https://concepticon.clld.org/parameters/420
+the Mentawai (Pagai & Sipora) list (no date)	957	loina sigoiso	43	kreupelbos	bush	belukar	540	548	657	FALSE				small wood								BUSH	1683	https://concepticon.clld.org/parameters/1683
+the Mentawai (Pagai & Sipora) list (no date)	959	enoengan	NA	weg	way, road	jalan	567	574	-	TRUE	road											PATH OR ROAD	2457	https://concepticon.clld.org/parameters/2457
+the Mentawai (Pagai & Sipora) list (no date)	960	loteˈ	NA	modder	mud	lumpur	-	575	-	FALSE												MUD	640	https://concepticon.clld.org/parameters/640
+the Mentawai (Pagai & Sipora) list (no date)	961	siperakat	NA	voetstap (spoor)	footstep (footprint)	bekas tapak kaki, jejak	-	576	658	FALSE												FOOTPRINT	318	https://concepticon.clld.org/parameters/318
+the Mentawai (Pagai & Sipora) list (no date)	962	song	NA	grens	border, boundary	batas	569	578	660	FALSE												BORDER	2546	https://concepticon.clld.org/parameters/2546
+the Mentawai (Pagai & Sipora) list (no date)	963	bat oinan	NA	rivier	river	sungai	570	579	661	TRUE												RIVER	666	https://concepticon.clld.org/parameters/666
+the Mentawai (Pagai & Sipora) list (no date)	965	manaˈsaˈ	NA	stroomop (varen)	to go upstream	berlayar ke hulu	-	581	663	FALSE												SAIL	787	https://concepticon.clld.org/parameters/787
+the Mentawai (Pagai & Sipora) list (no date)	966	toereoeroe	NA	stroomaf (varen)	to go downstream	berlayar ke hilir	-	582	664	FALSE												SAIL	787	https://concepticon.clld.org/parameters/787
+the Mentawai (Pagai & Sipora) list (no date)	967	tirit oinan	NA	bron of oorsprong rivier	spring, source	mata air, sumber air	571	584	665	FALSE												SPRING (OF WATER)	849	https://concepticon.clld.org/parameters/849
+the Mentawai (Pagai & Sipora) list (no date)	968	eba	NA	watervloed, overstroming	flood	banjir	572	585	666	FALSE												HIGH TIDE	613	https://concepticon.clld.org/parameters/613
+the Mentawai (Pagai & Sipora) list (no date)	969	boekoe	NA	steen	stone	batu	573	586	667	TRUE												STONE	857	https://concepticon.clld.org/parameters/857
+the Mentawai (Pagai & Sipora) list (no date)	970	polak	NA	aarde (grond)	earth (ground)	tanah	574	587	668	TRUE	earth											EARTH (SOIL)	1228	https://concepticon.clld.org/parameters/1228
+the Mentawai (Pagai & Sipora) list (no date)	971	ngai	NA	zand	sand	pasir	575	588	669	TRUE												SAND	671	https://concepticon.clld.org/parameters/671
+the Mentawai (Pagai & Sipora) list (no date)	973	laba	NA	ijzer	iron	besi	577	589	671	FALSE												IRON	621	https://concepticon.clld.org/parameters/621
+the Mentawai (Pagai & Sipora) list (no date)	984	sese	NA	houtskool	charcoal	arang	-	613	679	FALSE												CHARCOAL	1188	https://concepticon.clld.org/parameters/1188
+the Mentawai (Pagai & Sipora) list (no date)	985	bowo'wo'	NA	hamer	hammer	martil	-	614	680	FALSE												HAMMER	1481	https://concepticon.clld.org/parameters/1481
+the Mentawai (Pagai & Sipora) list (no date)	987	lalaplap	44	tang	tongs	sepit, tang	-	616	682	FALSE			lalaplap	fire tongs								TONGS	272	https://concepticon.clld.org/parameters/272
+the Mentawai (Pagai & Sipora) list (no date)	987	totoktok	44	tang	tongs	sepit, tang	-	616	682	FALSE			totoktok	kind of pliers								TONGS	272	https://concepticon.clld.org/parameters/272
+the Mentawai (Pagai & Sipora) list (no date)	988	bô	NA	gloeiende kool	cinders, glowing coals	bara api	-	617	683	FALSE												CHARCOAL	1188	https://concepticon.clld.org/parameters/1188
+the Mentawai (Pagai & Sipora) list (no date)	989	asa	NA	slijpen	to sharpen, to grind	mengasah	-	618	684	FALSE												SHARPEN (SOMETHING)	251	https://concepticon.clld.org/parameters/251
+the Mentawai (Pagai & Sipora) list (no date)	991	pangoeroeat	NA	geschenk	gift, present	hadiah, pemberian	634	648	-	FALSE												GIFT	2982	https://concepticon.clld.org/parameters/2982
+the Mentawai (Pagai & Sipora) list (no date)	993	pa'abat	NA	vrede sluiten	to make peace	berdamai, mengadakan perdamaian	636	650	-	FALSE												PEACE	1338	https://concepticon.clld.org/parameters/1338
+the Mentawai (Pagai & Sipora) list (no date)	995	sipoeëkpak	45	handelaar (grote, kleine)	merchant	saudagar, pedagang	638	652	686	FALSE			sipoeëkpak	(lit.) wanderer								MERCHANT	1082	https://concepticon.clld.org/parameters/1082
+the Mentawai (Pagai & Sipora) list (no date)	995	moeekpak	45	handelaar (grote, kleine)	merchant	saudagar, pedagang	638	652	686	FALSE			moeekpak	to roam about, not having a fixed dwelling place								MERCHANT	1082	https://concepticon.clld.org/parameters/1082
+the Mentawai (Pagai & Sipora) list (no date)	1001	toko	NA	winkel (grote, kleine, warong)	shop	toko, warung	639	653	687	FALSE												SHOP	746	https://concepticon.clld.org/parameters/746
+the Mentawai (Pagai & Sipora) list (no date)	1002	panakiat	NA	markt	market	pasar	640	654	688	FALSE												MARKET	633	https://concepticon.clld.org/parameters/633
+the Mentawai (Pagai & Sipora) list (no date)	1003	pasaki	NA	handeldrijven, handelen	to trade	berdagang	641	655	689	FALSE												TRADE	898	https://concepticon.clld.org/parameters/898
+the Mentawai (Pagai & Sipora) list (no date)	1004	bibilet	NA	koopwaren	merchandise	barang dagangan	642	656	690	FALSE												MERCHANDISE	3406	https://concepticon.clld.org/parameters/3406
+the Mentawai (Pagai & Sipora) list (no date)	1005	soesoeilak	NA	naald	needle	jarum	-	657	691	FALSE												NEEDLE (FOR SEWING)	1382	https://concepticon.clld.org/parameters/1382
+the Mentawai (Pagai & Sipora) list (no date)	1007	saki	NA	prijs	price	harga	643	658	693	FALSE												PRICE	657	https://concepticon.clld.org/parameters/657
+the Mentawai (Pagai & Sipora) list (no date)	1008	oetoek	NA	winst	profit	untung, laba	644	659	694	FALSE												BENEFIT	2929	https://concepticon.clld.org/parameters/2929
+the Mentawai (Pagai & Sipora) list (no date)	1010	saki	NA	kopen	to buy	membeli	646	661	696	FALSE												BUY	1869	https://concepticon.clld.org/parameters/1869
+the Mentawai (Pagai & Sipora) list (no date)	1011	makepoe saki	NA	duur	expensive	mahal	647	662	697	FALSE												EXPENSIVE	1426	https://concepticon.clld.org/parameters/1426
+the Mentawai (Pagai & Sipora) list (no date)	1012	malâbai saki	NA	goedkoop	cheap	murah	648	663	698	FALSE												CHEAP	1887	https://concepticon.clld.org/parameters/1887
+the Mentawai (Pagai & Sipora) list (no date)	1013	oetak	NA	schuld	debt	hutang	649	664	699	FALSE												DEBT	1914	https://concepticon.clld.org/parameters/1914
+the Mentawai (Pagai & Sipora) list (no date)	1015	bajar	NA	betalen	to pay	membayar	651	666	701	FALSE												PAY	718	https://concepticon.clld.org/parameters/718
+the Mentawai (Pagai & Sipora) list (no date)	1016	isakiake	NA	verkopen	to sell	menjual	652	667	702	FALSE												SELL	1571	https://concepticon.clld.org/parameters/1571
+the Mentawai (Pagai & Sipora) list (no date)	1017/1018	bale	NA	lenen <unsp.>	borrow	pinjam	653	668	703	FALSE												BORROW	1823	https://concepticon.clld.org/parameters/1823
+the Mentawai (Pagai & Sipora) list (no date)	1019	pasili	NA	ruilen	to exchange	menukar	654	669	704	FALSE												EXCHANGE	2509	https://concepticon.clld.org/parameters/2509
+the Mentawai (Pagai & Sipora) list (no date)	1020	beleki	46	bieden	to offer	mempersembahkan	655	670	-	FALSE				(lit.) to deduct , to lessen								DONATE	196	https://concepticon.clld.org/parameters/196
+the Mentawai (Pagai & Sipora) list (no date)	1026-1028	kereki	47	maten en gewichten <unsp.>			660	674	-	FALSE			kereki	to measure								NA	NA	NA
+the Mentawai (Pagai & Sipora) list (no date)	1033	abak	48	prauw	proa, canoe	perahu	664	678	707	FALSE			abak	an ordinary canoe								CANOE	1970	https://concepticon.clld.org/parameters/1970
+the Mentawai (Pagai & Sipora) list (no date)	1033	kalabba	48	prauw	proa, canoe	perahu	664	678	707	FALSE			kalabba	a large canoe								CANOE	1970	https://concepticon.clld.org/parameters/1970
+the Mentawai (Pagai & Sipora) list (no date)	1033	kinapat	48	prauw	proa, canoe	perahu	664	678	707	FALSE			kinapat	a large Malay proa								CANOE	1970	https://concepticon.clld.org/parameters/1970
+the Mentawai (Pagai & Sipora) list (no date)	1035	pangaraitat	NA	mast	mast	tiang perahu	665	679	709	FALSE												MAST	184	https://concepticon.clld.org/parameters/184
+the Mentawai (Pagai & Sipora) list (no date)	1037	ladjo	NA	zeilen	to sail	berlayar	666	680	711	FALSE												SAIL	787	https://concepticon.clld.org/parameters/787
+the Mentawai (Pagai & Sipora) list (no date)	1037	moeladjo	NA	zeilen	to sail	berlayar	666	680	711	FALSE												SAIL	787	https://concepticon.clld.org/parameters/787
+the Mentawai (Pagai & Sipora) list (no date)	1038	goeroengan	NA	roer	rudder, helm	kemudi	667	681	712	FALSE												RUDDER	108	https://concepticon.clld.org/parameters/108
+the Mentawai (Pagai & Sipora) list (no date)	1040	loega	NA	(roei) riem, pagaai	oar, paddle	pengayuh	668	682	714	FALSE												OAR OR PADDLE	3318	https://concepticon.clld.org/parameters/3318
+the Mentawai (Pagai & Sipora) list (no date)	1040	nguiroet	NA	(roei) riem, pagaai	oar, paddle	pengayuh	668	682	714	FALSE												OAR OR PADDLE	3318	https://concepticon.clld.org/parameters/3318
+the Mentawai (Pagai & Sipora) list (no date)	1041/1042	loeloemai	NA	schepper, scheppen <unsp.>			670	684	-	FALSE												NA	NA	NA
+the Mentawai (Pagai & Sipora) list (no date)	1043	moeloega	NA	roeien	to row, to pull	mengayuh	669	683	715	TRUE	pull											ROW	1849	https://concepticon.clld.org/parameters/1849
+the Mentawai (Pagai & Sipora) list (no date)	1043	ngoenguîroet	NA	roeien	to row, to pull	mengayuh	669	683	715	TRUE	pull											ROW	1849	https://concepticon.clld.org/parameters/1849
+the Mentawai (Pagai & Sipora) list (no date)	1049	sao	NA	anker	anchor	sauh	671	685	-	FALSE												ANCHOR	1870	https://concepticon.clld.org/parameters/1870
+the Mentawai (Pagai & Sipora) list (no date)	1051	poesasat	49	haven	harbour	pelabuhan	673	687	-	FALSE				= anchorage								PORT	610	https://concepticon.clld.org/parameters/610
+the Mentawai (Pagai & Sipora) list (no date)	1052	magô	NA	stranden, schipbreuklijden	to be wrecked	terdampar, kandas	676	691	-	FALSE												NA	NA	https://concepticon.clld.org/parameters/NA
+the Mentawai (Pagai & Sipora) list (no date)	1061	abeoe	NA	groot	great, big	besar	682	697	726	TRUE	big											BIG	1202	https://concepticon.clld.org/parameters/1202
+the Mentawai (Pagai & Sipora) list (no date)	1062	magoiso	NA	klein	small	kecil	683	698	727	TRUE												SMALL	1246	https://concepticon.clld.org/parameters/1246
+the Mentawai (Pagai & Sipora) list (no date)	1063	matanta	NA	lang (van een voorwerp)	long (things)	panjang	684	699	728	TRUE	long											LONG	1203	https://concepticon.clld.org/parameters/1203
+the Mentawai (Pagai & Sipora) list (no date)	1064	maboeroe'	NA	lang (van tijd)	long (time)	lama	684	699	728	FALSE												FOR A LONG TIME	418	https://concepticon.clld.org/parameters/418
+the Mentawai (Pagai & Sipora) list (no date)	1065	matete	NA	kort (van een voorwerp)	short (things)	pendek	685	700	-	TRUE	short											SHORT	1645	https://concepticon.clld.org/parameters/1645
+the Mentawai (Pagai & Sipora) list (no date)	1066	ta'maoedjoe	NA	kort (van tijd)	short (time)	singkat, pendek	685	700	-	TRUE	short											SHORT (TIME)	3312	https://concepticon.clld.org/parameters/3312
+the Mentawai (Pagai & Sipora) list (no date)	1067	mamo'mo'	NA	dik (van mens of dier)	big, fat	gemuk	686	701	730	TRUE	big											FAT (OBESE)	1279	https://concepticon.clld.org/parameters/1279
+the Mentawai (Pagai & Sipora) list (no date)	1068	makepoe	NA	dik (van een levenloos voorwerp)	thick	tebal	686	701	730	TRUE												THICK	1244	https://concepticon.clld.org/parameters/1244
+the Mentawai (Pagai & Sipora) list (no date)	1070	manipi	NA	dun	thin	tipis	687	702	731	TRUE												FINE OR THIN	2157	https://concepticon.clld.org/parameters/2157
+the Mentawai (Pagai & Sipora) list (no date)	1071	makainang	NA	mager	thin, meagre, skinny	kurus	689	706	732	TRUE	thin											THIN (SLIM)	1400	https://concepticon.clld.org/parameters/1400
+the Mentawai (Pagai & Sipora) list (no date)	1072-1074	mamo'mo'	NA	ver <unsp.>	far	jauh	690	707	-	FALSE												FAR	1406	https://concepticon.clld.org/parameters/1406
+the Mentawai (Pagai & Sipora) list (no date)	1075	makalâssau	NA	slank van middel	slim	langsing	691	708	735	FALSE												THIN (SLIM)	1400	https://concepticon.clld.org/parameters/1400
+the Mentawai (Pagai & Sipora) list (no date)	1079	maôm	NA	tam, mak	tame	jinak	-	703	738	FALSE												TAME	2838	https://concepticon.clld.org/parameters/2838
+the Mentawai (Pagai & Sipora) list (no date)	1080/1081	malia	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA										NA	NA	NA
+the Mentawai (Pagai & Sipora) list (no date)	1082	maila	NA	verlegen, beschaamd	shy, ashamed	malu	-	705	740	FALSE												SHY OR ASHAMED	3805	https://concepticon.clld.org/parameters/3805
+the Mentawai (Pagai & Sipora) list (no date)	1083/1084	makeroe	NA	diep <unsp.>	deep	dalam	693	710	741	FALSE												DEEP	1593	https://concepticon.clld.org/parameters/1593
+the Mentawai (Pagai & Sipora) list (no date)	1085/1086	makale	NA	ondiep <unspec.>	shallow	dangkal	694	711	742	FALSE												SHALLOW	193	https://concepticon.clld.org/parameters/193
+the Mentawai (Pagai & Sipora) list (no date)	1087	maboeak	NA	hoog	high	tinggi	695	712	743	FALSE												HIGH OR TALL	2790	https://concepticon.clld.org/parameters/2790
+the Mentawai (Pagai & Sipora) list (no date)	1088	malalep	NA	laag	low	rendah	696	713	744	FALSE												LOW	721	https://concepticon.clld.org/parameters/721
+the Mentawai (Pagai & Sipora) list (no date)	1089	maroipo	NA	recht	straight	lurus	697	714	745	TRUE												STRAIGHT	1404	https://concepticon.clld.org/parameters/1404
+the Mentawai (Pagai & Sipora) list (no date)	1090	makoiloet	NA	krom	crooked, bent	bengkok	698	715	746	FALSE												CROOKED	297	https://concepticon.clld.org/parameters/297
+the Mentawai (Pagai & Sipora) list (no date)	1096	manangka	NA	licht	light	ringan	722	739	752	FALSE												LIGHT (WEIGHT)	1052	https://concepticon.clld.org/parameters/1052
+the Mentawai (Pagai & Sipora) list (no date)	1097	marabram	NA	schuin	slanting, sloping	serong, miring	699	717	753	FALSE												SLANTED	3075	https://concepticon.clld.org/parameters/3075
+the Mentawai (Pagai & Sipora) list (no date)	1098	marauroe	NA	scherp	sharp	tajam	700	718	754	TRUE												SHARP	1396	https://concepticon.clld.org/parameters/1396
+the Mentawai (Pagai & Sipora) list (no date)	1101	makela	NA	hard	hard	keras	701	719	757	FALSE												HARD	1884	https://concepticon.clld.org/parameters/1884
+the Mentawai (Pagai & Sipora) list (no date)	1102	mame'me'	NA	week	weak	lembek, lemah	702	720	-	FALSE												WEAK	1601	https://concepticon.clld.org/parameters/1601
+the Mentawai (Pagai & Sipora) list (no date)	1104/1105	marokat	NA	warm <unsp.>	hot	panas	703	721	759	FALSE												HOT OR WARM	2272	https://concepticon.clld.org/parameters/2272
+the Mentawai (Pagai & Sipora) list (no date)	1106/1107	maleppet	NA	koud <unsp.>	cold	dingin	704	722	760	FALSE												COLD	1287	https://concepticon.clld.org/parameters/1287
+the Mentawai (Pagai & Sipora) list (no date)	1109/1110	malaimoetoe	NA	rond <unsp.>	round	bulat	705	723	762	FALSE												ROUND	1395	https://concepticon.clld.org/parameters/1395
+the Mentawai (Pagai & Sipora) list (no date)	1109/1110	simuine	NA	rond <unsp.>	round	bulat	705	723	762	FALSE												ROUND	1395	https://concepticon.clld.org/parameters/1395
+the Mentawai (Pagai & Sipora) list (no date)	1113	malio	NA	breed	broad	luas, lebar	707	725	764	FALSE												BROAD	2531	https://concepticon.clld.org/parameters/2531
+the Mentawai (Pagai & Sipora) list (no date)	1115	makoilop	NA	nauw	narrow	sempit	709	726	766	TRUE												NARROW	1267	https://concepticon.clld.org/parameters/1267
+the Mentawai (Pagai & Sipora) list (no date)	1116	alio	NA	ruim, wijd	wide	luas	710	727	767	TRUE												WIDE	1243	https://concepticon.clld.org/parameters/1243
+the Mentawai (Pagai & Sipora) list (no date)	1117	maron	NA	krachtig, sterk	strong	kokoh	711	728	768	FALSE												STRONG	785	https://concepticon.clld.org/parameters/785
+the Mentawai (Pagai & Sipora) list (no date)	1119	magege	NA	dapper	brave, bold	perkasa, gagah	-	729	770	FALSE												BRAVE	3	https://concepticon.clld.org/parameters/3
+the Mentawai (Pagai & Sipora) list (no date)	1121	mabeili	NA	lui	lazy	malas	-	731	772	FALSE												LAZY	1564	https://concepticon.clld.org/parameters/1564
+the Mentawai (Pagai & Sipora) list (no date)	1125	magarak	NA	droog	dry	kering	713	732	776	TRUE												DRY	1398	https://concepticon.clld.org/parameters/1398
+the Mentawai (Pagai & Sipora) list (no date)	1127	masoea	NA	nat	wet	basah	714	733	778	TRUE												WET	1726	https://concepticon.clld.org/parameters/1726
+the Mentawai (Pagai & Sipora) list (no date)	1130	maeroe	NA	goed	good	baik, bagus	715	734	781	TRUE												GOOD	1035	https://concepticon.clld.org/parameters/1035
+the Mentawai (Pagai & Sipora) list (no date)	1132-1134	malaînge	NA	mooi <unsp.>	nice	bagus	716	735	783	FALSE												GOOD	1035	https://concepticon.clld.org/parameters/1035
+the Mentawai (Pagai & Sipora) list (no date)	1135	malatsak	NA	mooi (van zaak)	beautiful (things)	indah, bagus	716	735	783	FALSE												GOOD	1035	https://concepticon.clld.org/parameters/1035
+the Mentawai (Pagai & Sipora) list (no date)	1142	sita' kabaga	NA	leeg	empty	kosong	719	737	787	FALSE												EMPTY	1624	https://concepticon.clld.org/parameters/1624
+the Mentawai (Pagai & Sipora) list (no date)	1143	masoen	NA	vol	full	penuh	720	738	788	TRUE												FULL	1429	https://concepticon.clld.org/parameters/1429
+the Mentawai (Pagai & Sipora) list (no date)	1146/1147	maron	NA	vast <unsp.>			723	740	791	FALSE												NA	NA	NA
+the Mentawai (Pagai & Sipora) list (no date)	1148/1149	maroegoet	NA	los <unsp.>	loose	longgar	724	741	792	FALSE												LOOSE	2506	https://concepticon.clld.org/parameters/2506
+the Mentawai (Pagai & Sipora) list (no date)	1148/1149	toeroeba	NA	los <unsp.>	loose	longgar	724	741	792	FALSE												LOOSE	2506	https://concepticon.clld.org/parameters/2506
+the Mentawai (Pagai & Sipora) list (no date)	1150	mabadja	NA	oud	old	tua	725	742	793	TRUE												OLD	1229	https://concepticon.clld.org/parameters/1229
+the Mentawai (Pagai & Sipora) list (no date)	1152	mabaoe	NA	jong	young	muda	726	743	795	FALSE												YOUNG	1207	https://concepticon.clld.org/parameters/1207
+the Mentawai (Pagai & Sipora) list (no date)	1153	baoe	NA	nieuw	new	baru	727	744	796	TRUE												NEW	1231	https://concepticon.clld.org/parameters/1231
+the Mentawai (Pagai & Sipora) list (no date)	1154	mageba	NA	arm	poor	miskin	728	745	797	FALSE												POOR	1674	https://concepticon.clld.org/parameters/1674
+the Mentawai (Pagai & Sipora) list (no date)	1155	makaîo	NA	welvarend	wealthy	kaya	729	746	798	FALSE												RICH	712	https://concepticon.clld.org/parameters/712
+the Mentawai (Pagai & Sipora) list (no date)	1156	masaggo	NA	moe	tired	lelah	-	747	799	FALSE												TIRED	1757	https://concepticon.clld.org/parameters/1757
+the Mentawai (Pagai & Sipora) list (no date)	1159	ta'iga patoeat	NA	dom	dumb	bodoh	732	750	802	FALSE												DUMB	1492	https://concepticon.clld.org/parameters/1492
+the Mentawai (Pagai & Sipora) list (no date)	1160	maagai	NA	knap	clever	pandai	733	751	803	FALSE												CLEVER	1310	https://concepticon.clld.org/parameters/1310
+the Mentawai (Pagai & Sipora) list (no date)	1161	makaikai	NA	zoet	sweet	manis	737	755	804	FALSE												SWEET	717	https://concepticon.clld.org/parameters/717
+the Mentawai (Pagai & Sipora) list (no date)	1162	malaga	NA	zuur	sour	kecut, masam	738	756	805	FALSE												SOUR	1906	https://concepticon.clld.org/parameters/1906
+the Mentawai (Pagai & Sipora) list (no date)	1163	mapait	NA	bitter	bitter	pahit	739	757	806	FALSE												BITTER	887	https://concepticon.clld.org/parameters/887
+the Mentawai (Pagai & Sipora) list (no date)	1164	malêoe	50	samentrekkend	astringent	sepat	740	758	-	FALSE				= tart								ASTRINGENT	3837	https://concepticon.clld.org/parameters/3837
+the Mentawai (Pagai & Sipora) list (no date)	1166	makoat	NA	zout, ziltig (bijvnw)	salty	asin	741	759	808	FALSE												SALTY	1091	https://concepticon.clld.org/parameters/1091
+the Mentawai (Pagai & Sipora) list (no date)	1166	makaop	NA	zout, ziltig (bijvnw)	salty	asin	741	759	808	FALSE												SALTY	1091	https://concepticon.clld.org/parameters/1091
+the Mentawai (Pagai & Sipora) list (no date)	1167	mabo͡elao	NA	wit	white	putih	742	760	809	TRUE												WHITE	1335	https://concepticon.clld.org/parameters/1335
+the Mentawai (Pagai & Sipora) list (no date)	1168	mapoesoe	NA	zwart	black	hitam	743	761	810	TRUE												BLACK	163	https://concepticon.clld.org/parameters/163
+the Mentawai (Pagai & Sipora) list (no date)	1169	mabonan	NA	rood	red	merah	744	762	811	TRUE												RED	156	https://concepticon.clld.org/parameters/156
+the Mentawai (Pagai & Sipora) list (no date)	1170	mabonan	NA	bruin	brown	coklat	745	763	812	FALSE												BROWN	2409	https://concepticon.clld.org/parameters/2409
+the Mentawai (Pagai & Sipora) list (no date)	1171	makîniu	NA	geel	yellow	kuning	746	764	813	TRUE												YELLOW	1424	https://concepticon.clld.org/parameters/1424
+the Mentawai (Pagai & Sipora) list (no date)	1172	malimoen	NA	blauw	blue	biru	747	765	814	FALSE												BLUE	837	https://concepticon.clld.org/parameters/837
+the Mentawai (Pagai & Sipora) list (no date)	1173	malimoen	NA	groen	green	hijau	748	766	815	TRUE												GREEN	1425	https://concepticon.clld.org/parameters/1425
+the Mentawai (Pagai & Sipora) list (no date)	1174	gaba	NA	zoeken	to look for	mencari	749	767	816	FALSE												LOOK FOR	1468	https://concepticon.clld.org/parameters/1468
+the Mentawai (Pagai & Sipora) list (no date)	1175	sese	NA	vinden	to find	menemukan	750	768	817	FALSE												FIND	719	https://concepticon.clld.org/parameters/719
+the Mentawai (Pagai & Sipora) list (no date)	1176	ake	NA	geven	to give	memberikan	751	769	818	TRUE	give											GIVE	1447	https://concepticon.clld.org/parameters/1447
+the Mentawai (Pagai & Sipora) list (no date)	1179	ala	NA	nemen	to take	mengambil	752	770	821	FALSE												TAKE	1749	https://concepticon.clld.org/parameters/1749
+the Mentawai (Pagai & Sipora) list (no date)	1180	ala	NA	halen	to get	pergi mengambil	755	773	822	FALSE												GET	694	https://concepticon.clld.org/parameters/694
+the Mentawai (Pagai & Sipora) list (no date)	1193	agai	NA	kennen	to know	tahu, mengetahui kenal	753	771	835	TRUE	know, to											KNOW	3626	https://concepticon.clld.org/parameters/3626
+the Mentawai (Pagai & Sipora) list (no date)	1194	patoeat	NA	denken	to think	berpikir	150	155	836	TRUE	think, to											THINK	2271	https://concepticon.clld.org/parameters/2271
+the Mentawai (Pagai & Sipora) list (no date)	1195	agai	NA	weten	to know	tahu, mengetahui	151	156	837	TRUE	know, to											KNOW (SOMETHING)	1410	https://concepticon.clld.org/parameters/1410
+the Mentawai (Pagai & Sipora) list (no date)	1196	rebreb	NA	zich herinneren	to remember	mengingat, mengenang	152	157	838	FALSE												REMEMBER	707	https://concepticon.clld.org/parameters/707
+the Mentawai (Pagai & Sipora) list (no date)	1197	toekalîpou	NA	vergeten zijn	to have forgotten something	lupa	153	158	839	FALSE												FORGET	1523	https://concepticon.clld.org/parameters/1523
+the Mentawai (Pagai & Sipora) list (no date)	1198	pakele	NA	ontkennen	to deny	menyangkal	154	159	840	FALSE												DENY	755	https://concepticon.clld.org/parameters/755
+the Mentawai (Pagai & Sipora) list (no date)	1199	boelatnake	51	bekennen	to confess	mengaku	155	160	841	FALSE				to prove s.t.								ADMIT	2022	https://concepticon.clld.org/parameters/2022
+the Mentawai (Pagai & Sipora) list (no date)	1200	mengmeng	NA	zwijgen	to be silent	diam	156	161	842	FALSE												BE SILENT	48	https://concepticon.clld.org/parameters/48
+the Mentawai (Pagai & Sipora) list (no date)	1201	masingoenjoe	NA	prevelen	to mumble	komat-kamit	157	162	-	FALSE												MUMBLE	128	https://concepticon.clld.org/parameters/128
+the Mentawai (Pagai & Sipora) list (no date)	1202	patibo	NA	spreken	to speak	berbicara	132	134	843	TRUE	speak											SPEAK	1623	https://concepticon.clld.org/parameters/1623
+the Mentawai (Pagai & Sipora) list (no date)	1203	moeoerai	NA	zingen	to sing	bernyanyi	146	151	844	TRUE	sing											SING	1261	https://concepticon.clld.org/parameters/1261
+the Mentawai (Pagai & Sipora) list (no date)	1206	sogai	NA	roepen	to call	memanggil	147	152	847	FALSE												CALL	1084	https://concepticon.clld.org/parameters/1084
+the Mentawai (Pagai & Sipora) list (no date)	1208	momoi	NA	kunnen	to be able to	dapat, sanggup	754	772	849	FALSE												BE ABLE	972	https://concepticon.clld.org/parameters/972
+the Mentawai (Pagai & Sipora) list (no date)	1210	moegâlai	NA	werken	to work	bekerja	756	774	851	TRUE	work											WORK (ACTIVITY)	1086	https://concepticon.clld.org/parameters/1086
+the Mentawai (Pagai & Sipora) list (no date)	1211	masibairat	NA	dragen (op de schouder)	to shoulder	memikul	130	132	852	FALSE												CARRY ON SHOULDER	413	https://concepticon.clld.org/parameters/413
+the Mentawai (Pagai & Sipora) list (no date)	1213	masiboka	NA	dragen (aan de hangende hand)	to carry something hanging from the hand	menjinjing	130	132	852	FALSE												NA	NA	https://concepticon.clld.org/parameters/NA
+the Mentawai (Pagai & Sipora) list (no date)	1214	beila	NA	dragen (op de heup)	to carry on the hip	menggendong, mendukung	130	132	852	FALSE												NA	NA	https://concepticon.clld.org/parameters/NA
+the Mentawai (Pagai & Sipora) list (no date)	1215	masitino	NA	dragen (onder de oksel)	to carry under the arm	mengepit	-	132	852	FALSE												CARRY UNDER ARM	415	https://concepticon.clld.org/parameters/415
+the Mentawai (Pagai & Sipora) list (no date)	1220	iore	NA	dragen (op de rug)	to carry on the back	memikul (di punggung)	130	132	-	FALSE												CARRY ON BACK	465	https://concepticon.clld.org/parameters/465
+the Mentawai (Pagai & Sipora) list (no date)	1221	laptip	NA	dragen (voor de buik)	to carry in front of oneself	menggendong di muka (memeluk)	130	132	-	FALSE												NA	NA	https://concepticon.clld.org/parameters/NA
+the Mentawai (Pagai & Sipora) list (no date)	1223	moemata	NA	wakker zijn	to be awake	bangun, terjaga, tidak tidur	757	775	-	FALSE												AWAKE	825	https://concepticon.clld.org/parameters/825
+the Mentawai (Pagai & Sipora) list (no date)	1224	toedjago	NA	bewaken	to guard, to watch	menjaga	757	775	854	FALSE												GUARD	1940	https://concepticon.clld.org/parameters/1940
+the Mentawai (Pagai & Sipora) list (no date)	1227	areo	NA	horen	to hear	mendengar	-	777	856	TRUE	hear											HEAR	1408	https://concepticon.clld.org/parameters/1408
+the Mentawai (Pagai & Sipora) list (no date)	1228	itso	NA	zien	to see	melihat	-	778	857	TRUE												SEE	1409	https://concepticon.clld.org/parameters/1409
+the Mentawai (Pagai & Sipora) list (no date)	1229	ping	52	ruiken	to smell	mencium	-	779	858	TRUE	smell			to sniff at each other , to kiss								SMELL (PERCEIVE)	1586	https://concepticon.clld.org/parameters/1586
+the Mentawai (Pagai & Sipora) list (no date)	1229	pasigoek	52	ruiken	to smell	mencium	-	779	858	TRUE	smell			to sniff at each other , to kiss								SMELL (PERCEIVE)	1586	https://concepticon.clld.org/parameters/1586
+the Mentawai (Pagai & Sipora) list (no date)	1233	djoeroep	NA	slurpen	to slurp	menghirup	-	780	862	FALSE												CONSUME (DRINK OR EAT)	2787	https://concepticon.clld.org/parameters/2787
+the Mentawai (Pagai & Sipora) list (no date)	1234	moesingoe	NA	snuiten	to blow the nose	membuang ingus	-	781	-	FALSE												BLOW (WITH NOSE)	2679	https://concepticon.clld.org/parameters/2679
+the Mentawai (Pagai & Sipora) list (no date)	1238	makate baga	NA	liefhebben (iemd.)	to love	mencintai, mengasihi	158	163	865	FALSE												LOVE	923	https://concepticon.clld.org/parameters/923
+the Mentawai (Pagai & Sipora) list (no date)	1239	masi'si' baga	NA	haten	to hate	benci	159	164	-	FALSE												HATE	1607	https://concepticon.clld.org/parameters/1607
+the Mentawai (Pagai & Sipora) list (no date)	1243	oba	53	willen	to want	hendak	772	798	867	FALSE			ta'koeoba	I don't want <to do> it								WANT	1784	https://concepticon.clld.org/parameters/1784
+the Mentawai (Pagai & Sipora) list (no date)	1244	teoe baga	54	iets willen	to want something	menghendaki sesuatu	772	798	-	FALSE			teoe	to resolve , have the intention to								WANT	1784	https://concepticon.clld.org/parameters/1784
+the Mentawai (Pagai & Sipora) list (no date)	1244	teoe baga	54	iets willen	to want something	menghendaki sesuatu	772	798	-	FALSE			baga	inner , inward								WANT	1784	https://concepticon.clld.org/parameters/1784
+the Mentawai (Pagai & Sipora) list (no date)	1245	boeka	NA	openen	to open	membuka	760	784	868	FALSE												OPEN	1156	https://concepticon.clld.org/parameters/1156
+the Mentawai (Pagai & Sipora) list (no date)	1246	patpat	NA	dicht doen	to close	menutup	761	785	869	FALSE												SHUT	1046	https://concepticon.clld.org/parameters/1046
+the Mentawai (Pagai & Sipora) list (no date)	1251	jorak	NA	raken	to hit, to touch	mengenai, menyentuh	763	787	874	TRUE	hit											HIT	1433	https://concepticon.clld.org/parameters/1433
+the Mentawai (Pagai & Sipora) list (no date)	1251	kerek	NA	raken	to hit, to touch	mengenai, menyentuh	763	787	874	TRUE	hit											HIT	1433	https://concepticon.clld.org/parameters/1433
+the Mentawai (Pagai & Sipora) list (no date)	1253-1255	malailai	NA	breken <unsp.>			764	788	876	FALSE												NA	NA	NA
+the Mentawai (Pagai & Sipora) list (no date)	1259	petsoet	NA	knijpen, persen	to pinch, to squeeze	menjepit, menekan	-	789	878	TRUE	squeeze											SQUEEZE	1414	https://concepticon.clld.org/parameters/1414
+the Mentawai (Pagai & Sipora) list (no date)	1260/1261	toetadaake	NA	beginnen <unsp.>	to start	mulai	765	790	879	FALSE												START	3449	https://concepticon.clld.org/parameters/3449
+the Mentawai (Pagai & Sipora) list (no date)	1262/1263	moeari	NA	eindigen <unsp.>	to end	berakhir	766	791	880	FALSE												CEASE OR FINISH	2115	https://concepticon.clld.org/parameters/2115
+the Mentawai (Pagai & Sipora) list (no date)	1264	âpra	NA	binden (op allerlei wijzen)	to bind, to tie	mengikat	767	792	881	TRUE	tie											TIE	1917	https://concepticon.clld.org/parameters/1917
+the Mentawai (Pagai & Sipora) list (no date)	1265/1266	moelipoet	NA	verbergen, zich verbergen <unsp.>	to hide	menyembunyikan	768	793	-	FALSE												HIDE (CONCEAL)	602	https://concepticon.clld.org/parameters/602
+the Mentawai (Pagai & Sipora) list (no date)	1267	nou nou	NA	vragen	to ask	bertanya	148	153	884	FALSE												ASK (INQUIRE)	1309	https://concepticon.clld.org/parameters/1309
+the Mentawai (Pagai & Sipora) list (no date)	1268	alegi	NA	antwoorden	to answer	menjawab	149	154	885	FALSE												ANSWER	1275	https://concepticon.clld.org/parameters/1275
+the Mentawai (Pagai & Sipora) list (no date)	1269	manido	NA	vragen om iets	to ask for	meminta	769	794	886	FALSE												ASK (REQUEST)	1828	https://concepticon.clld.org/parameters/1828
+the Mentawai (Pagai & Sipora) list (no date)	1270		55	weigeren	to refuse	menolak	770	795	887	FALSE				also 'to prohibit'								REFUSE	49	https://concepticon.clld.org/parameters/49
+the Mentawai (Pagai & Sipora) list (no date)	1271	patadjoe	NA	bedriegen	to cheat, to deceive	menipu	771	796	888	FALSE												DECEIVE	3230	https://concepticon.clld.org/parameters/3230
+the Mentawai (Pagai & Sipora) list (no date)	1272	boko	NA	liegen	to tell lies	berdusta	-	797	889	FALSE												LIE (MISLEAD)	601	https://concepticon.clld.org/parameters/601
+the Mentawai (Pagai & Sipora) list (no date)	1272	bokoi	NA	liegen	to tell lies	berdusta	-	797	889	FALSE												LIE (MISLEAD)	601	https://concepticon.clld.org/parameters/601
+the Mentawai (Pagai & Sipora) list (no date)	1276	malabo	NA	verbranden (overg.)	to burn (tr.)	membakar (tr.)	759	783	893	TRUE	burn											BURN (SOMETHING)	141	https://concepticon.clld.org/parameters/141
+the Mentawai (Pagai & Sipora) list (no date)	1277	labo	NA	branden (onoverg.)	to burn (intr.)	sedang terbakar (intr.)	759	783	894	TRUE	burn											BURNING	1428	https://concepticon.clld.org/parameters/1428
+the Mentawai (Pagai & Sipora) list (no date)	1278	gai gai	NA	graven	to dig	menggali	773	799	895	TRUE	dig											DIG	1418	https://concepticon.clld.org/parameters/1418
+the Mentawai (Pagai & Sipora) list (no date)	1284	sege	56	aankomen	to arrive	tiba	674	688	901	FALSE			segeake	to bring something ; also 'to inform'								ARRIVE	1387	https://concepticon.clld.org/parameters/1387
+the Mentawai (Pagai & Sipora) list (no date)	1284	sege	56	aankomen	to arrive	tiba	674	688	901	FALSE			toedjôlou	to go ashore								ARRIVE	1387	https://concepticon.clld.org/parameters/1387
+the Mentawai (Pagai & Sipora) list (no date)	1286	moetuitui	NA	vertrekken	to depart	berangkat	675	690	903	FALSE												LEAVE	1752	https://concepticon.clld.org/parameters/1752
+the Mentawai (Pagai & Sipora) list (no date)	1291	boˈboˈ	NA	slaan (op allerlei wijzen, bv. met de vlakke hand, met een stok, met een buigzaam, voorwerp enz.)	to hit (to beat, to slap, etc.)	memukul (menampar meninju dll.)	792	694/786	907	TRUE	hit											STRIKE OR BEAT	2133	https://concepticon.clld.org/parameters/2133
+the Mentawai (Pagai & Sipora) list (no date)	1291	liso	NA	slaan (op allerlei wijzen, bv. met de vlakke hand, met een stok, met een buigzaam, voorwerp enz.)	to hit (to beat, to slap, etc.)	memukul (menampar meninju dll.)	792	694/786	907	TRUE	hit											STRIKE OR BEAT	2133	https://concepticon.clld.org/parameters/2133
+the Mentawai (Pagai & Sipora) list (no date)	1292	loemoen	NA	wreken	to take revenge	membalas dendam	681	696	908	FALSE												REVENGE	495	https://concepticon.clld.org/parameters/495
+the Mentawai (Pagai & Sipora) list (no date)	1293	sara	NA	een	one	satu	870	885	909	TRUE												ONE	1493	https://concepticon.clld.org/parameters/1493
+the Mentawai (Pagai & Sipora) list (no date)	1294	doea	NA	twee	two	dua	871	886	910	TRUE												TWO	1498	https://concepticon.clld.org/parameters/1498
+the Mentawai (Pagai & Sipora) list (no date)	1295	teloe	NA	drie	three	tiga	872	887	911	TRUE												THREE	492	https://concepticon.clld.org/parameters/492
+the Mentawai (Pagai & Sipora) list (no date)	1296	epat	NA	vier	four	empat	873	888	912	TRUE		enpat (typo)										FOUR	1500	https://concepticon.clld.org/parameters/1500
+the Mentawai (Pagai & Sipora) list (no date)	1297	lima	NA	vijf	five	lima	874	889	913	TRUE												FIVE	493	https://concepticon.clld.org/parameters/493
+the Mentawai (Pagai & Sipora) list (no date)	1298	enem	NA	zes	six	enam	875	890	914	TRUE												SIX	1703	https://concepticon.clld.org/parameters/1703
+the Mentawai (Pagai & Sipora) list (no date)	1299	pitoe	NA	zeven	seven	tujuh	876	891	915	TRUE												SEVEN	1704	https://concepticon.clld.org/parameters/1704
+the Mentawai (Pagai & Sipora) list (no date)	1300	baloe	NA	acht	eight	delapan	877	892	916	TRUE												EIGHT	1705	https://concepticon.clld.org/parameters/1705
+the Mentawai (Pagai & Sipora) list (no date)	1301	siba	NA	negen	nine	sembilan	878	893	917	TRUE												NINE	1483	https://concepticon.clld.org/parameters/1483
+the Mentawai (Pagai & Sipora) list (no date)	1302	poeloe	NA	tien	ten	sepuluh	879	894	918	TRUE												TEN	1515	https://concepticon.clld.org/parameters/1515
+the Mentawai (Pagai & Sipora) list (no date)	1303	poeloe sara	NA	elf	eleven	sebelas	880	895	919	TRUE												ELEVEN	1706	https://concepticon.clld.org/parameters/1706
+the Mentawai (Pagai & Sipora) list (no date)	1304	poeloe roea	NA	twaalf	twelve	dua belas	881	896	920	TRUE												TWELVE	1707	https://concepticon.clld.org/parameters/1707
+the Mentawai (Pagai & Sipora) list (no date)	1305	poeloe teloe	NA	dertien	thirteen	tiga belas	882	897	921	FALSE												THIRTEEN	1708	https://concepticon.clld.org/parameters/1708
+the Mentawai (Pagai & Sipora) list (no date)	1310	poeloe baloe	NA	achttien	eighteen	delapan belas	887	898	-	FALSE												EIGHTEEN	1713	https://concepticon.clld.org/parameters/1713
+the Mentawai (Pagai & Sipora) list (no date)	1311	poeloe siba	NA	negentien	nineteen	sembilan belas	888	899	922	FALSE												NINETEEN	1714	https://concepticon.clld.org/parameters/1714
+the Mentawai (Pagai & Sipora) list (no date)	1312	doeanga poeloe	NA	twintig	twenty	dua puluh	889	900	923	TRUE												TWENTY	1710	https://concepticon.clld.org/parameters/1710
+the Mentawai (Pagai & Sipora) list (no date)	1313	doeanga poeloe sara	NA	eenentwintig	twenty one	dua puluh satu	890	901	-	FALSE												TWENTY ONE	1734	https://concepticon.clld.org/parameters/1734
+the Mentawai (Pagai & Sipora) list (no date)	1315	doeanga poeloe lima	NA	vijfentwintig	twenty five	dua puluh lima	891	902	-	FALSE												TWENTY FIVE	1738	https://concepticon.clld.org/parameters/1738
+the Mentawai (Pagai & Sipora) list (no date)	1316	teloenga poeloe	NA	dertig	thirty	tiga puluh	892	903	925	FALSE												THIRTY	1715	https://concepticon.clld.org/parameters/1715
+the Mentawai (Pagai & Sipora) list (no date)	1317	epatnga poeloe	NA	veertig	fourty	empat puluh	893	904	926	FALSE												FORTY	1716	https://concepticon.clld.org/parameters/1716
+the Mentawai (Pagai & Sipora) list (no date)	1318	limanga poeloe	NA	vijftig	fifty	lima puluh	894	905	927	FALSE												FIFTY	1717	https://concepticon.clld.org/parameters/1717
+the Mentawai (Pagai & Sipora) list (no date)	1323	sangotoe	NA	honderd	hundred	seratus	896	907	932	TRUE												HUNDRED	1634	https://concepticon.clld.org/parameters/1634
+the Mentawai (Pagai & Sipora) list (no date)	1324	poeloe ngotoe	NA	duizend	thousand	seribu	897	908	933	TRUE												THOUSAND	1843	https://concepticon.clld.org/parameters/1843
+the Mentawai (Pagai & Sipora) list (no date)	1326	sitenga	NA	een half	a half	setengah	899	910	935	FALSE												HALF	816	https://concepticon.clld.org/parameters/816
+the Mentawai (Pagai & Sipora) list (no date)	1328	sanga mitsa	NA	eenmaal	once	sekali	901	912	937	FALSE												ONE TIME	374	https://concepticon.clld.org/parameters/374
+the Mentawai (Pagai & Sipora) list (no date)	1329	doeanga mitsa	NA	tweemaal	twice	dua kali	902	913	938	FALSE												TWICE	1546	https://concepticon.clld.org/parameters/1546
+the Mentawai (Pagai & Sipora) list (no date)	1330/1331	sibioki	NA	de eerste <unsp.>	the first	pertama	903	914	939	FALSE												FIRST	728	https://concepticon.clld.org/parameters/728
+the Mentawai (Pagai & Sipora) list (no date)	1332/1333	karoeânia	NA	de tweede <unsp.>	the second	kedua	904	915	940	FALSE												SECOND	1384	https://concepticon.clld.org/parameters/1384
+the Mentawai (Pagai & Sipora) list (no date)	1336/1337	kasapoerat	57	de laatste <unsp.>	the last	yang terakhir	905	916	942	FALSE				<he> who is the hindmost			(oen , oek)					LAST (FINAL)	1529	https://concepticon.clld.org/parameters/1529
+the Mentawai (Pagai & Sipora) list (no date)	1336/1337	sikasen	57	de laatste <unsp.>	the last	yang terakhir	905	916	942	FALSE				<he> who is the hindmost			(oen , oek)					LAST (FINAL)	1529	https://concepticon.clld.org/parameters/1529
+the Mentawai (Pagai & Sipora) list (no date)	1338	piga	NA	hoeveel	how much, how many	berapa	825	842	943	FALSE												HOW MANY	822	https://concepticon.clld.org/parameters/822
+the Mentawai (Pagai & Sipora) list (no date)	1339	maigi	NA	veel	many, much	banyak	826	843	944	TRUE	many											MANY	1198	https://concepticon.clld.org/parameters/1198
+the Mentawai (Pagai & Sipora) list (no date)	1340	goiso	NA	weinig	few, a little	sedikit	827	844	945	TRUE	few											A LITTLE	2924	https://concepticon.clld.org/parameters/2924
+the Mentawai (Pagai & Sipora) list (no date)	1341	kapata	NA	op	finished	habis	823	840	946	FALSE												NA	NA	https://concepticon.clld.org/parameters/NA
+the Mentawai (Pagai & Sipora) list (no date)	1347/1348	pele'igi	NA	meer, meest <unsp.>			828	845	-	FALSE												NA	NA	NA
+the Mentawai (Pagai & Sipora) list (no date)	1347/1348	makaigi	NA	meer, meest <unsp.>			828	845	-	FALSE												NA	NA	NA
+the Mentawai (Pagai & Sipora) list (no date)	1349	makagoiso	NA	minder	less	kurang	829	846	953	FALSE												FEW	1242	https://concepticon.clld.org/parameters/1242
+the Mentawai (Pagai & Sipora) list (no date)	1356	pigapa	NA	enkele	a few, some	beberapa	832	849	-	TRUE	some											FEW	1242	https://concepticon.clld.org/parameters/1242
+the Mentawai (Pagai & Sipora) list (no date)	1357	akoe	NA	ik	I	saya	837	853	960	TRUE												I	1209	https://concepticon.clld.org/parameters/1209
+the Mentawai (Pagai & Sipora) list (no date)	1358	akoe le	NA	ik zelf	I myself	saya sendiri	-	858	961	FALSE												I	1209	https://concepticon.clld.org/parameters/1209
+the Mentawai (Pagai & Sipora) list (no date)	1359	ekeoe	NA	gij (enk.) <jij>	you (sing.)	kamu, engkau	838	854	962	TRUE	thou											THOU	1215	https://concepticon.clld.org/parameters/1215
+the Mentawai (Pagai & Sipora) list (no date)	1359	kam	NA	gij (enk.) <jij>	you (sing.)	kamu, engkau	838	854	962	TRUE	thou											THOU	1215	https://concepticon.clld.org/parameters/1215
+the Mentawai (Pagai & Sipora) list (no date)	1362	kam	NA	gijlieden	you	kamu sekalian	844	859	966	FALSE												YOU	1213	https://concepticon.clld.org/parameters/1213
+the Mentawai (Pagai & Sipora) list (no date)	1363	nia	NA	hij	he	ia, kata ganti orang ke III tunggal (laki-laki)	839	855	963	TRUE												HE	1211	https://concepticon.clld.org/parameters/1211
+the Mentawai (Pagai & Sipora) list (no date)	1365	sita	NA	wij (met insluiting der toegesproken persoon)	we (inclusive)	kita (kata ganti orang ke II jamak)	840	856	964	TRUE	we (incl.)											WE (INCLUSIVE)	1131	https://concepticon.clld.org/parameters/1131
+the Mentawai (Pagai & Sipora) list (no date)	1366	kai	NA	wij (met uitsluiting der toegesproken persoon)	we (exclusive)	kami (kata ganti orang ke II jamak)	841	857	965	TRUE	we (excl.)											WE (EXCLUSIVE)	1130	https://concepticon.clld.org/parameters/1130
+the Mentawai (Pagai & Sipora) list (no date)	1364/1367/1368	sia	NA	zij <unsp.>	they	mereka	845	860	-	FALSE												THEY	817	https://concepticon.clld.org/parameters/817
+the Mentawai (Pagai & Sipora) list (no date)	1369/1370	bakatkoe - sita	58	mijn <unsp.>	mine	kata ganti empunya orang ke I	846	861	-	FALSE			bakatkoe - sita				bakat = 'possession'					MY	2090	https://concepticon.clld.org/parameters/2090
+the Mentawai (Pagai & Sipora) list (no date)	1369/1370	sibakat nia	58	mijn <unsp.>	mine	kata ganti empunya orang ke I	846	861	-	FALSE			sibakat nia				bakat = 'possession'					MY	2090	https://concepticon.clld.org/parameters/2090
+the Mentawai (Pagai & Sipora) list (no date)	1369/1370	kai sibakat nia	58	mijn <unsp.>	mine	kata ganti empunya orang ke I	846	861	-	FALSE			kai sibakat nia				bakat = 'possession'					MY	2090	https://concepticon.clld.org/parameters/2090
+the Mentawai (Pagai & Sipora) list (no date)	1373/1374	bakatnoe	NA	uw <unsp.>	your	kata ganti empunya orang ke II	847	862	970	FALSE												YOUR (SINGULAR)	732	https://concepticon.clld.org/parameters/732
+the Mentawai (Pagai & Sipora) list (no date)	1373/1374	kam sibakat nia	NA	uw <unsp.>	your	kata ganti empunya orang ke II	847	862	970	FALSE												YOUR (SINGULAR)	732	https://concepticon.clld.org/parameters/732
+the Mentawai (Pagai & Sipora) list (no date)	1375/1376	lalep ra	NA	hun <unsp.>	their	kata ganti empunya orang ke III jamak	848	863	971	FALSE												THEIR	2400	https://concepticon.clld.org/parameters/2400
+the Mentawai (Pagai & Sipora) list (no date)	1378	lalep nia	NA	zijn	his	kata ganti empunya orang ke III tunggal (laki-laki)	849	864	972	FALSE												HIS (GENITIVE OF HE)	2473	https://concepticon.clld.org/parameters/2473
+the Mentawai (Pagai & Sipora) list (no date)	1379	kasei	NA	wie	who?	siapa	850	865	973	TRUE	who											WHO	1235	https://concepticon.clld.org/parameters/1235
+the Mentawai (Pagai & Sipora) list (no date)	1380	apa	NA	wat	what?	apa	851	866	974	TRUE	what											WHAT	1236	https://concepticon.clld.org/parameters/1236
+the Mentawai (Pagai & Sipora) list (no date)	1382	apa	NA	welke	which?	mana, (yang) mana	852	867	-	FALSE												WHICH	727	https://concepticon.clld.org/parameters/727
+the Mentawai (Pagai & Sipora) list (no date)	1383	neˈneˈ	NA	deze	this	ini	853	868	976	TRUE												THIS	1214	https://concepticon.clld.org/parameters/1214
+the Mentawai (Pagai & Sipora) list (no date)	1385/1386	nedaˈ	NA	die <unsp.>	that	itu	854	869	-	FALSE												THAT	78	https://concepticon.clld.org/parameters/78
+the Mentawai (Pagai & Sipora) list (no date)	1388	kasene	NA	hier	here	di sini	855	870	979	TRUE												HERE	136	https://concepticon.clld.org/parameters/136
+the Mentawai (Pagai & Sipora) list (no date)	1389	kaseda'	NA	daar (bij U)	there (near hearer)	di situ (di sebelah pendengar)	856	871	980	FALSE												THERE	1937	https://concepticon.clld.org/parameters/1937
+the Mentawai (Pagai & Sipora) list (no date)	1394	gogoi	NA	dag (en tijden van dag)	day	hari	781	805	983	TRUE												DAY (24 HOURS)	1260	https://concepticon.clld.org/parameters/1260
+the Mentawai (Pagai & Sipora) list (no date)	1398	pato	NA	licht	light	sinar	292	294	985	FALSE												LIGHT (RADIATION)	630	https://concepticon.clld.org/parameters/630
+the Mentawai (Pagai & Sipora) list (no date)	1402	saino	NA	nacht (en tijden van nacht)	night (time of the night)	malam	787	808	-	TRUE	night											NIGHT	1233	https://concepticon.clld.org/parameters/1233
+the Mentawai (Pagai & Sipora) list (no date)	1406	roera	NA	jaar	year	tahun	785	807	990	TRUE												YEAR	1226	https://concepticon.clld.org/parameters/1226
+the Mentawai (Pagai & Sipora) list (no date)	1408	kineneîget	NA	nu	now	sekarang	790	810	991	FALSE												NOW	1376	https://concepticon.clld.org/parameters/1376
+the Mentawai (Pagai & Sipora) list (no date)	1409	lepageti	NA	straks	shortly	sebentar lagi	791	811	992	FALSE												SOON	703	https://concepticon.clld.org/parameters/703
+the Mentawai (Pagai & Sipora) list (no date)	1411	siaole	NA	vroeger	formerly	tempo hari	793	812	993	FALSE												ONCE (IN THE PAST)	2914	https://concepticon.clld.org/parameters/2914
+the Mentawai (Pagai & Sipora) list (no date)	1412/1413	kamata	NA	voor <unsp.>	before	sebelum	794	813	-	FALSE												BEFORE	1882	https://concepticon.clld.org/parameters/1882
+the Mentawai (Pagai & Sipora) list (no date)	1416	silepa	NA	zoe_ven	a moment ago	tadi	797	815	995	FALSE												ONCE (IN THE PAST)	2914	https://concepticon.clld.org/parameters/2914
+the Mentawai (Pagai & Sipora) list (no date)	1418	sokat	NA	gisteren	yesterday	kemarin	798	816	997	FALSE												YESTERDAY	1174	https://concepticon.clld.org/parameters/1174
+the Mentawai (Pagai & Sipora) list (no date)	1419	sokat mintsa	NA	eergisteren	the day before yesterday	kemarin dulu	799	817	998	FALSE												DAY BEFORE YESTERDAY	1180	https://concepticon.clld.org/parameters/1180
+the Mentawai (Pagai & Sipora) list (no date)	1420	kineneîget	NA	vandaag	today	hari ini	800	818	999	FALSE												TODAY	1283	https://concepticon.clld.org/parameters/1283
+the Mentawai (Pagai & Sipora) list (no date)	1422	matsep	NA	morgen	tomorrow	besok	801	819	1001	FALSE												TOMORROW	1329	https://concepticon.clld.org/parameters/1329
+the Mentawai (Pagai & Sipora) list (no date)	1423	matsep mintsa	NA	overmorgen	the day after tomorrow	lusa	802	820	1002	FALSE												DAY AFTER TOMORROW	1179	https://concepticon.clld.org/parameters/1179
+the Mentawai (Pagai & Sipora) list (no date)	1426	kau ioi , kau ta'ioi	59	nu en dan	now and then, occasionally	kadang-kadang	803	821	1005	FALSE			kau ioi , kau ta'ioi	one time he comes , another time he doesn't come								SOMETIMES	1544	https://concepticon.clld.org/parameters/1544
+the Mentawai (Pagai & Sipora) list (no date)	1427	piga moi	NA	wanneer	when	kapan, bilamana	835	851	1006	TRUE												WHEN	1238	https://concepticon.clld.org/parameters/1238
+the Mentawai (Pagai & Sipora) list (no date)	1428	paˈan	NA	reeds	already	sudah	805	823	1007	FALSE												ALREADY	2576	https://concepticon.clld.org/parameters/2576
+the Mentawai (Pagai & Sipora) list (no date)	1429	tapeî	NA	nog niet	not yet	belum	806	824	1008	FALSE												YET	2577	https://concepticon.clld.org/parameters/2577
+the Mentawai (Pagai & Sipora) list (no date)	1431	bare	NA	noord	north	utara	807	825	1010	FALSE												NORTH	1598	https://concepticon.clld.org/parameters/1598
+the Mentawai (Pagai & Sipora) list (no date)	1432	sika͡ola	NA	zuid	south	selatan	808	826	1011	FALSE												SOUTH	1595	https://concepticon.clld.org/parameters/1595
+the Mentawai (Pagai & Sipora) list (no date)	1433	kabelajat soeloe	NA	oost	east	timur	809	827	1012	FALSE												EAST	1877	https://concepticon.clld.org/parameters/1877
+the Mentawai (Pagai & Sipora) list (no date)	1434	kabelakat soeloe	NA	west	west	barat	810	828	1013	FALSE												WEST	1817	https://concepticon.clld.org/parameters/1817
+the Mentawai (Pagai & Sipora) list (no date)	1435	sikatsiu	NA	links	left	kiri	775	801	1014	TRUE	left (side)											LEFT	244	https://concepticon.clld.org/parameters/244
+the Mentawai (Pagai & Sipora) list (no date)	1436	sikatoet	NA	rechts	right	kanan	776	802	1015	TRUE	right (side)											RIGHT	1019	https://concepticon.clld.org/parameters/1019
+the Mentawai (Pagai & Sipora) list (no date)	1437	kapata	NA	boven, op	up, upper, above	di atas	811	829	1016	FALSE												UP OR ABOVE	2379	https://concepticon.clld.org/parameters/2379
+the Mentawai (Pagai & Sipora) list (no date)	1439	sibara kapata	NA	van boven	from above	dari atas	812	830	1018	FALSE												ABOVE	1741	https://concepticon.clld.org/parameters/1741
+the Mentawai (Pagai & Sipora) list (no date)	1440	kalalep	NA	onder	under	di bawah	813	831	1019	FALSE												BELOW OR UNDER	1485	https://concepticon.clld.org/parameters/1485
+the Mentawai (Pagai & Sipora) list (no date)	1441	sibara kalalep	NA	van onderen	from underneath	dari bawah	814	832	1020	FALSE												BELOW OR UNDER	1485	https://concepticon.clld.org/parameters/1485
+the Mentawai (Pagai & Sipora) list (no date)	1442/1443	bara nangan sene pakaili kaseda	60	van-tot <unsp.>			804	822	1021	FALSE			bara nangan sene pakaili kaseda	from here to there								NA	NA	NA
+the Mentawai (Pagai & Sipora) list (no date)	1442/1443	kasene teret kaseda	60	van-tot <unsp.>			804	822	1021	FALSE			kasene teret kaseda	from here to there (better?)								NA	NA	NA
+the Mentawai (Pagai & Sipora) list (no date)	1445	malêgere	NA	bij	at	di, pada	816	833	1022	TRUE												AT	1461	https://concepticon.clld.org/parameters/1461
+the Mentawai (Pagai & Sipora) list (no date)	1446	sibara	NA	van	from	dari	817	834	-	FALSE												FROM	693	https://concepticon.clld.org/parameters/693
+the Mentawai (Pagai & Sipora) list (no date)	1447	teret	61	tot	until	hingga	818	835	-	FALSE			teteret nia	up to that point								UNTIL	2753	https://concepticon.clld.org/parameters/2753
+the Mentawai (Pagai & Sipora) list (no date)	1447	teret	61	tot	until	hingga	818	835	-	FALSE			papara nia	also 'up to that point'								UNTIL	2753	https://concepticon.clld.org/parameters/2753
+the Mentawai (Pagai & Sipora) list (no date)	1448	ka	NA	te	at, in	di	819	836	1022	TRUE	at											AT	1461	https://concepticon.clld.org/parameters/1461
+the Mentawai (Pagai & Sipora) list (no date)	1449	kasia	NA	aan	on	di	820	837	1022	FALSE												AT	1461	https://concepticon.clld.org/parameters/1461
+the Mentawai (Pagai & Sipora) list (no date)	1450	kabaga	NA	in	in, inside	di (dalam)	821	838	1022	TRUE	in											INSIDE	1606	https://concepticon.clld.org/parameters/1606
+the Mentawai (Pagai & Sipora) list (no date)	1451	kabelajat	NA	uit	out, outside	luar, (di) luar	822	839	-	FALSE												OUTSIDE	762	https://concepticon.clld.org/parameters/762
+the Mentawai (Pagai & Sipora) list (no date)	1452	malêgere	NA	nabij	nearby	di dekat, di	774	800	1023	TRUE	near											NEAR	1942	https://concepticon.clld.org/parameters/1942
+the Mentawai (Pagai & Sipora) list (no date)	1453	areoe	NA	veraf	far	jauh	777	803	1024	TRUE												FAR	1406	https://concepticon.clld.org/parameters/1406
+the Mentawai (Pagai & Sipora) list (no date)	1454	masiboˈkoˈ	NA	rondom	around, surrounding	se-kellling	778	804	1025	FALSE												NA	NA	https://concepticon.clld.org/parameters/NA
+the Mentawai (Pagai & Sipora) list (no date)	1460	kaipa	NA	waar	where	di mana	834	850	1030	TRUE												WHERE	1237	https://concepticon.clld.org/parameters/1237
+the Mentawai (Pagai & Sipora) list (no date)	1461	kipangan	NA	hoe	how	bagaimana	824	841	1031	TRUE												HOW	1239	https://concepticon.clld.org/parameters/1239
+the Mentawai (Pagai & Sipora) list (no date)	1462	kisê	NA	zo	like this, like that	begini, begitu	796	814	-	FALSE												SIMILAR	1558	https://concepticon.clld.org/parameters/1558
+the Mentawai (Pagai & Sipora) list (no date)	1465	angoi	NA	waarom	why	mengapa	836	852	1034	FALSE												WHY	1270	https://concepticon.clld.org/parameters/1270
+the Mentawai (Pagai & Sipora) list (no date)	1466	boelat nia	NA	zeker	certainly, sure	pasti	857	872	-	FALSE												CERTAIN	509	https://concepticon.clld.org/parameters/509
+the Mentawai (Pagai & Sipora) list (no date)	1467	pa	NA	misschien	maybe	barangkali	858	873	1035	FALSE												PERHAPS	2278	https://concepticon.clld.org/parameters/2278
+the Mentawai (Pagai & Sipora) list (no date)	1469	saba	NA	en	and	dan	859	874	1037	TRUE												AND	1577	https://concepticon.clld.org/parameters/1577
+the Mentawai (Pagai & Sipora) list (no date)	1470	saba	NA	met	with	dengan	860	875	1038	TRUE												WITH	1340	https://concepticon.clld.org/parameters/1340
+the Mentawai (Pagai & Sipora) list (no date)	1471	ta'	NA	neen	no	tidak	861	876	1039	FALSE												NO	1269	https://concepticon.clld.org/parameters/1269
+the Mentawai (Pagai & Sipora) list (no date)	1472	o'o	NA	ja	yes	ya	862	877	1040	FALSE												YES	1268	https://concepticon.clld.org/parameters/1268
+the Mentawai (Pagai & Sipora) list (no date)	1473-1475	ta'	NA	niet <unsp.>	not	tidak, bukan, jangan	863	878	1041	FALSE												NO OR NOT	2279	https://concepticon.clld.org/parameters/2279
+the Mentawai (Pagai & Sipora) list (no date)	1477	sarat	NA	slechts	only	hanya	865	880	1042	FALSE												ONLY	1580	https://concepticon.clld.org/parameters/1580
+the Mentawai (Pagai & Sipora) list (no date)	1477	le	NA	slechts	only	hanya	865	880	1042	FALSE												ONLY	1580	https://concepticon.clld.org/parameters/1580
+the Mentawai (Pagai & Sipora) list (no date)	1478	ai le goiso	62	bijna	almost	hampir	867	882	1043	FALSE				= still a bit <left>								ALMOST	4046	https://concepticon.clld.org/parameters/4046
+the Mentawai (Pagai & Sipora) list (no date)	1479	tapoi	NA	maar	but	tetapi	866	881	-	FALSE												BUT	3843	https://concepticon.clld.org/parameters/3843
+the Mentawai (Pagai & Sipora) list (no date)	1486	ta' anai	NA	geen	no, not a, none	tidak, tidak ada, bukan	831	848	-	FALSE												NO OR NOT	2279	https://concepticon.clld.org/parameters/2279
+the Mentawai (Pagai & Sipora) list (no date)	1522	Pigomoi toeoeremi geti mone neˈneˈ?	NA	wanneer worden deze velden beplant?	when will these fields be planted?	kapan tanah ini akan ditanami?	NA	NA	NA	NA	NA	NA										NA	NA	NA
+the Mentawai (Pagai & Sipora) list (no date)	1523	Bara leoe toeoeripmake kanione neˈneˈ?	NA	wordt er rijst geplant op die velden?	will rice be planted in these fields?	apakah padi yang akan ditanam di tanah itu?	NA	NA	NA	NA	NA	NA										NA	NA	NA
+the Mentawai (Pagai & Sipora) list (no date)	1524	Kasedda bai igit sakînia taˈmoi koeake	NA	zoveel wil ik niet betaalmiddel	I do not want to pay so much	saya tidak mau membayar sebanyak itu	NA	NA	NA	NA	NA	NA										NA	NA	NA
+the Mentawai (Pagai & Sipora) list (no date)	1525	Oebe le koeake sakînia	NA	ik geef tabak als betalen	I shall pay in tobacco	saya memberikan tembakau sebagai alat penukar	NA	NA	NA	NA	NA	NA										NA	NA	NA
+the Mentawai (Pagai & Sipora) list (no date)	1526	Sakiake ka toeboe mai bibilet neda	NA	verkoop ons die goederen	sell us these goods	juallah barang ini kepada kami	NA	NA	NA	NA	NA	NA										NA	NA	NA
+the Mentawai (Pagai & Sipora) list (no date)	1527	Rasaki katoeboe mai senet mata bibilet	NA	zij kopen van ons allerlei zaken	they buy all sorts of things from us	mereka membeli dari kami bermacam-macam barang	NA	NA	NA	NA	NA	NA										NA	NA	NA
+the Mentawai (Pagai & Sipora) list (no date)	1527	Maiginga mata bibilet arasaki ka toeboe mai	NA	zij kopen van ons allerlei zaken	they buy all sorts of things from us	mereka membeli dari kami bermacam-macam barang	NA	NA	NA	NA	NA	NA										NA	NA	NA
+the Mentawai (Pagai & Sipora) list (no date)	1528	Kasei irioeake radja pakoiniet	NA	wie is door den vorst tot afgezant aangesteld?	who has been appointed delegate by the king?	siapa yang diangkat sebagai utusan oleh raja?	NA	NA	NA	NA	NA	NA										NA	NA	NA
+the Mentawai (Pagai & Sipora) list (no date)	1528	Kasei iteoeake rimata pakoiniet?	NA	wie is door den vorst tot afgezant aangesteld?	who has been appointed delegate by the king?	siapa yang diangkat sebagai utusan oleh raja?	NA	NA	NA	NA	NA	NA										NA	NA	NA
+the Mentawai (Pagai & Sipora) list (no date)	1529	Piga sia saanak boea rimatam?	NA	over hoeveel lieden regeert uw vorst?	over how many people does your king reign?	berapa jumlah rakyat yang diperintah oleh raja anda?	NA	NA	NA	NA	NA	NA										NA	NA	NA
+the Mentawai (Pagai & Sipora) list (no date)	1530	Bat oinan neˈneˈ taˈmoi toepoeabangi	NA	deze rivier is niet te bevaren	this river is unnavigable	sungai ini tak terlayari	NA	NA	NA	NA	NA	NA										NA	NA	NA
+the Mentawai (Pagai & Sipora) list (no date)	1531	Kipa boeroenia toepoeabak ta aîla koat?	NA	hoe lang varen is het tot aan zee?	how long does it take to reach the sea by boat?	berapa lama kita harus berlayar hingga sampai ke laut?	NA	NA	NA	NA	NA	NA										NA	NA	NA
+the Mentawai (Pagai & Sipora) list (no date)	1532	Taˈanai djambatan, kipa koepetalipo bat oinan neˈneˈ?	NA	er is geen brug; hoe kan ik de rivier oversteken?	there is no bridge; how can I cross the river?	tidak ada jembatan; bagaimana saya dapat menyeberangi sungai?	NA	NA	NA	NA	NA	NA										NA	NA	NA
+the Mentawai (Pagai & Sipora) list (no date)	1533	Senet gogoi me kai ka leleu masigaba boeat kadjoe	NA	elke dag gaan wij vruchten zoeken in het bos	everyday we look for fruits in the forest	setiap hari kami pergi mencari buah-buahan di hutan	NA	NA	NA	NA	NA	NA										NA	NA	NA
+the Mentawai (Pagai & Sipora) list (no date)	1534	Aileoe koegaba seˈseˈ kan koeroukoe	NA	ik wil voor mijn paard gras zoeken	I want to find grass for my horse	saya ingin mencari rumput untuk kuda saya	NA	NA	NA	NA	NA	NA										NA	NA	NA
+the Mentawai (Pagai & Sipora) list (no date)	1535	Piganga gogoian taˈai bela oerat?	NA	hoeveel dagen heeft het niet geregend?	how many days has it been since it rained?	sudah berapa hari hujan tidak turun?	NA	NA	NA	NA	NA	NA										NA	NA	NA
+the Mentawai (Pagai & Sipora) list (no date)	1536	Ta isese sikoeania pagaladjat toeboe mai	NA	het is niet waar wat zij van ons zeggen	it is not true what they say about us	tidak benar apa yang mereka katakan tentang kami	NA	NA	NA	NA	NA	NA										NA	NA	NA
+the Mentawai (Pagai & Sipora) list (no date)	1537	Ai roebania enoengan; kai pa ta'ei	NA	de weg splitst zich, waarheen moeten wij gaan?	the road forks, which way should we go?	jalan bercabang dua, ke mana kami harus pergi?	NA	NA	NA	NA	NA	NA										NA	NA	NA
+the Mentawai (Pagai & Sipora) list (no date)	1538	Kasei momoi ibairat peti neˈneˈ?	NA	wie kan deze kist dragen?	who can carry this chest?	siapa yang mampu memikul peti ini?	NA	NA	NA	NA	NA	NA										NA	NA	NA
+the Mentawai (Pagai & Sipora) list (no date)	1539	Aisoe / seiloe oinan , pasi taptap komangkoe	NA	haal water om mijn kleren te wassen	bring water to wash try clothes	ambil air untuk mencuci pakaian saya	NA	NA	NA	NA	NA	NA										NA	NA	NA
+the Mentawai (Pagai & Sipora) list (no date)	1540	Tidoupe gougou roea ele teloenga moeneng ka toeboe mai ; bo͡eleu iake	NA	vraag hem om een paar kippen, misschien geeft hij ze	ask him for a few chickens perhaps he will give them	minta kepada dia beberapa ekor ayam, barangkali ia akan memberikannya	NA	NA	NA	NA	NA	NA										NA	NA	NA
+the Mentawai (Pagai & Sipora) list (no date)	1541	Kasei ta'moi itoet akoe, sedda ikoedoe sene	NA	wie mij niet volgen kan moet hier blijven	whoever can not keep up, should stay here	siapa yang tidak sanggup mengikuti saya, harus tinggal di sini	NA	NA	NA	NA	NA	NA										NA	NA	NA
+the Mentawai (Pagai & Sipora) list (no date)	1542	Koegalak Ie sia roea	NA	ik laat hier twee mannen achter	here I am leaving two men behind	saya meninggalkan dua orang di sini	NA	NA	NA	NA	NA	NA										NA	NA	NA
+the Mentawai (Pagai & Sipora) list (no date)	1543	Kele ai tata rimata pasagak rangan saanak boeania	NA	na de dood van de koning brak een oorlog uit	war broke out after the death of the king	perang timbul setelah kematlan raja	NA	NA	NA	NA	NA	NA										NA	NA	NA
+the Mentawai (Pagai & Sipora) list (no date)	1544	Kasei sia abele ka pasagangara	NA	wie heeft in de oorlog overwonnen?	who won the war?	siapa yang menang dalam peperangan itu?	NA	NA	NA	NA	NA	NA										NA	NA	NA
+the Mentawai (Pagai & Sipora) list (no date)	1545	Kipagalainia ai bara besi sirimanoea neˈ?	NA	waardoor zijn deze lieden ziek geworden?	what made these people ill?	apa yang menyebabkan orang-orang ini menjadi sakit?	NA	NA	NA	NA	NA	NA										NA	NA	NA
+the Mentawai (Pagai & Sipora) list (no date)	1546	Ai leoe sirimanoea siagainia masialeake ekeoe	NA	er is iemand die u genezen kan	there is someone who can make you better	ada orang yang dapat menyembuhkan anda	NA	NA	NA	NA	NA	NA										NA	NA	NA
+the Mentawai (Pagai & Sipora) list (no date)	add_1	lakopa	NA	NA	mangosteen	manggis	NA	NA	NA	NA	NA	NA										NA	NA	NA
+the Mentawai (Pagai & Sipora) list (no date)	add_2	njoang lêleu	NA	NA	cricket	jangkrik	NA	NA	NA	NA	NA	NA										NA	NA	NA
+the Mentawai (Pagai & Sipora) list (no date)	add_3	njoang	NA	NA	asthma	asma	NA	NA	NA	NA	NA	NA										NA	NA	NA
+the Mentawai (Pagai & Sipora) list (no date)	add_4	terengangang	NA	NA	scorpion	kalajengking	NA	NA	NA	NA	NA	NA										NA	NA	NA
