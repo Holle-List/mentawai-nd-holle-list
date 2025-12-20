@@ -1,0 +1,57 @@
+# This CITATION.cff file was generated with cffinit.
+# Visit https://bit.ly/cffinit to generate yours today!
+
+cff-version: 1.2.0
+title: >-
+  Digitised wordlist for Mentawai (Pagai & Sipora) derived
+  from Stokhof and Almanar's "Holle lists: Vocabularies in
+  languages of Indonesia, Vol. 10/3: Islands off the west
+  coast of Sumatra" from 1987
+message: >-
+  If you use this dataset, please cite it using the metadata
+  from this file and also cite the original legacy sources
+  (Stokhof 1980; Stokhof and Almanar 1987)
+type: dataset
+authors:
+  - given-names: Gede Primahadi Wijaya
+    family-names: Rajeg
+    email: primahadi_wijaya@unud.ac.id
+    orcid: 'https://orcid.org/0000-0002-2047-8621'
+    affiliation: Udayana University
+  - given-names: Maria Yunita Indriani
+    family-names: Lamapaha
+    affiliation: Udayana University
+    email: marialamapaha26@gmail.com
+  - given-names: Siti
+    family-names: Nazira
+    email: sitinazira003@gmail.com
+    affiliation: Udayana University
+  - given-names: Elisabet Berliana Purnama
+    family-names: Putri
+    email: berberliana2702@gmail.com
+    affiliation: Udayana University
+  - given-names: Dewa Ayu Febry
+    family-names: Hendrayani
+    email: ayufebry0804@gmail.com
+    affiliation: Udayana University
+repository-code: 'https://github.com/Holle-List/mentawai-nd-holle-list'
+abstract: >-
+  This is a digitised Mentawai wordlist in the Holle List
+  for the languages of Barrier Islands, Sumatra, Indonesia.
+  The original list only contains the regional words and we
+  join these words computationally with the Master Holle
+  List containing the English and Indonesian translations.
+keywords:
+  - Holle List
+  - wordlist
+  - Mentawai
+  - Barrier Islands Languages
+  - Indonesian Languages
+  - Sumatra
+  - Digital Humanities
+  - Linguistics
+  - Lexicography
+  - Legacy Lexical Resources
+license: CC-BY-SA-4.0
+version: 1.0.0
+date-released: '2025-12-20'
